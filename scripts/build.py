@@ -321,8 +321,9 @@ def team_table(teams, ts_cur, ts_pri, mp_cur, mp_pri, sk, gl):
         df["recent_starters"] = df["team"].map(recent)
     else:
         df["recent_starters"] = ""
-    df["gp"] = df["gp"].fillna(0).astype(int)
-    rec = df.apply(lambda r: f'{int(r.w)}-{int(r.l)}-{int(r.otl)}' if r.gp > 0 else "", axis=1)
+    gp_logs = tg.groupby("team")["gameId"].nunique() if len(tg) else pd.Series(dtype=float)
+    df["gp"] = df["team"].map(gp_logs).fillna(0).astype(int)  # from game logs, so it matches "data through"
+    rec = df.apply(lambda r: f'{int(r.w)}-{int(r.l)}-{int(r.otl)}' if r.gp > 0 and pd.notna(r.w) else "", axis=1)
     return pd.DataFrame({
         "Team": df["team"], "GP": df["gp"], "Record (W-L-OTL)": rec,
         "PP% this season": df["pp"].round(1), "PK% this season": df["pk"].round(1),
