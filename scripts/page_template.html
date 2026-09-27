@@ -1,0 +1,195 @@
+<title>NHL Morning Sheet</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Saira+Condensed:wght@600;700&family=Public+Sans:wght@400;500;600&family=Roboto+Mono:wght@400;500&display=swap">
+<style>
+:root{
+  --bg:#F2F5F7; --surface:#FFFFFF; --ink:#14212B; --muted:#586976; --line:#D8E0E6; --soft:#E8EEF2;
+  --accent:#1D4E89; --accent-ink:#FFFFFF;
+  --warn:#9A5B00; --warn-bg:#FBEFD9; --bad:#A8322C; --bad-bg:#F8E1DF; --good:#1F6F4A; --good-bg:#DDF1E6;
+  --elite:#1D4E89; --elite-bg:#DCE7F5;
+  --display:"Saira Condensed","Arial Narrow",Arial,sans-serif;
+  --body:"Public Sans",system-ui,-apple-system,"Segoe UI",sans-serif;
+  --mono:"Roboto Mono",ui-monospace,Menlo,Consolas,monospace;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    color-scheme:dark;
+    --bg:#0E151B; --surface:#151F27; --ink:#E3EAF0; --muted:#94A4B1; --line:#26343F; --soft:#1C2832;
+    --accent:#86B4EA; --accent-ink:#0C1824;
+    --warn:#EBC074; --warn-bg:#3A2E14; --bad:#F29A93; --bad-bg:#3E1F1C; --good:#79D1A3; --good-bg:#163527;
+    --elite:#9CC3F0; --elite-bg:#1B3350;
+  }
+}
+:root[data-theme="dark"]{
+  color-scheme:dark;
+  --bg:#0E151B; --surface:#151F27; --ink:#E3EAF0; --muted:#94A4B1; --line:#26343F; --soft:#1C2832;
+  --accent:#86B4EA; --accent-ink:#0C1824;
+  --warn:#EBC074; --warn-bg:#3A2E14; --bad:#F29A93; --bad-bg:#3E1F1C; --good:#79D1A3; --good-bg:#163527;
+  --elite:#9CC3F0; --elite-bg:#1B3350;
+}
+*{box-sizing:border-box}
+[hidden]{display:none!important}
+body{background:var(--bg);color:var(--ink);font:15px/1.5 var(--body);padding-inline:16px;padding-block:24px 48px}
+.wrap{max-width:1120px;margin:0 auto;display:flex;flex-direction:column;gap:28px}
+header{display:flex;flex-wrap:wrap;justify-content:space-between;align-items:flex-end;gap:12px 24px}
+h1{font:700 40px/1 var(--display);letter-spacing:.02em;text-transform:uppercase;margin:0;text-wrap:balance}
+h2{font:700 22px/1.1 var(--display);letter-spacing:.04em;text-transform:uppercase;margin:0}
+.lbl{font-size:11px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);font-weight:600}
+.status{display:flex;flex-wrap:wrap;gap:6px 16px;font-size:13px;color:var(--muted)}
+.status b{color:var(--ink);font-weight:600}
+.pill{display:inline-block;font-size:12px;font-weight:600;padding:2px 9px;border-radius:999px;white-space:nowrap}
+.pill.ok{background:var(--good-bg);color:var(--good)} .pill.stale{background:var(--bad-bg);color:var(--bad)} .pill.pre{background:var(--soft);color:var(--ink)}
+section{display:flex;flex-direction:column;gap:12px}
+.sechead{display:flex;flex-wrap:wrap;justify-content:space-between;align-items:baseline;gap:6px 16px}
+.games{display:grid;grid-template-columns:repeat(auto-fill,minmax(min(100%,330px),1fr));gap:12px}
+.game{background:var(--surface);border:1px solid var(--line);border-radius:8px;padding:14px;display:flex;flex-direction:column;gap:10px}
+.game .top{display:flex;justify-content:space-between;align-items:baseline;gap:8px}
+.game .time{font-family:var(--mono);font-size:12px;color:var(--muted);font-variant-numeric:tabular-nums}
+.side{display:grid;grid-template-columns:52px 1fr;gap:4px 10px;align-items:start}
+.code{font:700 26px/1 var(--display);letter-spacing:.03em}
+.chips{display:flex;flex-wrap:wrap;gap:4px}
+.chip{font-size:11.5px;font-weight:600;padding:1px 7px;border-radius:4px;background:var(--soft);color:var(--ink);white-space:nowrap}
+.chip.b2b{background:var(--bad-bg);color:var(--bad)} .chip.t34{background:var(--warn-bg);color:var(--warn)}
+.gl{font-size:13px;color:var(--muted);line-height:1.45}
+.gl b{color:var(--ink);font-weight:600}
+.tier{font-size:11px;font-weight:600;padding:1px 6px;border-radius:4px;white-space:nowrap}
+.t-Elite{background:var(--elite-bg);color:var(--elite)} .t-Above{background:var(--good-bg);color:var(--good)}
+.t-Average{background:var(--soft);color:var(--ink)} .t-Repl{background:var(--warn-bg);color:var(--warn)}
+.divider{border-top:1px solid var(--line)}
+.tabs{display:flex;flex-wrap:wrap;gap:6px}
+.tabs button{font:600 13px var(--body);color:var(--ink);background:var(--surface);border:1px solid var(--line);border-radius:6px;padding:7px 12px;cursor:pointer}
+.tabs button[aria-selected="true"]{background:var(--accent);color:var(--accent-ink);border-color:var(--accent)}
+button:focus-visible,select:focus-visible,input:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.filters{display:flex;flex-wrap:wrap;gap:10px;align-items:flex-end}
+.filters label{display:flex;flex-direction:column;gap:3px}
+select,input{font:inherit;color:var(--ink);background:var(--surface);border:1px solid var(--line);border-radius:6px;padding:6px 9px}
+.scroll{overflow-x:auto;background:var(--surface);border:1px solid var(--line);border-radius:8px}
+table{border-collapse:collapse;width:100%;font-size:13px;font-variant-numeric:tabular-nums}
+th,td{padding:7px 10px;text-align:right;white-space:nowrap;border-bottom:1px solid var(--line)}
+th{position:sticky;top:0;background:var(--surface);font-size:11px;letter-spacing:.05em;text-transform:uppercase;color:var(--muted);font-weight:600}
+th.l,td.l{text-align:left}
+tbody tr:last-child td{border-bottom:0}
+td.num{font-family:var(--mono);font-size:12.5px}
+td.wrap{white-space:normal;min-width:220px;color:var(--muted);font-size:12.5px}
+.empty{color:var(--muted);font-size:14px;padding:16px;background:var(--surface);border:1px dashed var(--line);border-radius:8px}
+.note{font-size:13px;color:var(--muted);max-width:75ch}
+</style>
+
+<div class="wrap">
+  <header>
+    <div>
+      <div class="lbl">Daily data for the Bet365 moneyline project</div>
+      <h1>NHL Morning Sheet</h1>
+    </div>
+    <div class="status" id="status"></div>
+  </header>
+
+  <section aria-labelledby="h-games">
+    <div class="sechead"><h2 id="h-games">Games</h2><span class="lbl" id="slate-date"></span></div>
+    <div class="games" id="games"></div>
+    <p class="note">Rest days: 0 means the second night of a back-to-back. Goalies are listed by starts this season, then tier; confirm the actual starter on Daily Faceoff before modeling.</p>
+  </section>
+
+  <section aria-labelledby="h-data">
+    <div class="sechead">
+      <h2 id="h-data">Tables</h2>
+      <div class="tabs" role="tablist" id="tabs">
+        <button role="tab" id="tab-goalies" aria-selected="true" data-t="goalies">Goalies</button>
+        <button role="tab" id="tab-teams" aria-selected="false" data-t="teams">Teams</button>
+        <button role="tab" id="tab-skaters" aria-selected="false" data-t="skaters">Skaters</button>
+      </div>
+    </div>
+    <div class="filters">
+      <label for="f-team"><span class="lbl">Team</span><select id="f-team"></select></label>
+      <label for="f-trend" id="trend-wrap" hidden><span class="lbl">Trend</span>
+        <select id="f-trend"><option value="">All</option><option value="Hot">Hot only</option><option value="Cold">Cold only</option></select></label>
+    </div>
+    <div class="scroll"><table><thead id="thead"></thead><tbody id="tbody"></tbody></table></div>
+  </section>
+</div>
+
+<script>
+const META = __META__;
+const SCHED = __SCHEDULE__;
+const GOALIES = __GOALIES__;
+const TEAMS = __TEAMS__;
+const SKATERS = __SKATERS__;
+const $ = s => document.querySelector(s);
+const esc = v => v == null ? "" : String(v).replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;","\"":"&quot;"}[c]));
+const tierCls = t => !t ? "" : t.startsWith("Elite") ? "t-Elite" : t.startsWith("Above") ? "t-Above" : t.startsWith("Average") ? "t-Average" : "t-Repl";
+
+// status
+(function(){
+  const built = META.built_pt || "";
+  const today = built.slice(0,10);
+  let pill;
+  if (META.games_played === 0) pill = `<span class="pill pre">Season not started</span>`;
+  else {
+    const d = new Date(today + "T12:00:00"); d.setDate(d.getDate() - 1);
+    const y = d.toISOString().slice(0,10);
+    pill = META.data_through >= y ? `<span class="pill ok">Current</span>` : `<span class="pill stale">Missing last night's games</span>`;
+  }
+  $("#status").innerHTML = `${pill}<span>Data through <b>${esc(META.data_through)}</b></span><span>Built <b>${esc(built)} PT</b></span><span>Season <b>${esc(String(META.season).slice(0,4))}–${esc(String(META.season).slice(6))}</b></span>`;
+})();
+
+// games
+(function(){
+  const byTeam = {};
+  GOALIES.forEach(g => (byTeam[g.Team] ||= []).push(g));
+  Object.values(byTeam).forEach(a => a.sort((x,y) => (y["Starts this season"]||0) - (x["Starts this season"]||0) || (x.Rank||999) - (y.Rank||999)));
+  const dates = [...new Set(SCHED.map(g => g.Date))].sort();
+  const date = dates[0];
+  if (!date){ $("#games").innerHTML = `<div class="empty">No regular-season games in the next three days.</div>`; return; }
+  const dt = new Date(date + "T12:00:00");
+  $("#slate-date").textContent = dt.toLocaleDateString("en-US",{weekday:"long",month:"long",day:"numeric"}) + (date === (META.built_pt||"").slice(0,10) ? " · today" : " · next slate");
+  const side = (g, s) => {
+    const team = g[s], rest = g[`${s} rest days`], b2b = g[`${s} back-to-back`] === "Yes", t34 = g[`${s} 3-in-4`] === "Yes";
+    const chips = [
+      rest === "Season opener" ? `<span class="chip">Season opener</span>` : `<span class="chip">${esc(rest)} rest day${rest == 1 ? "" : "s"}</span>`,
+      b2b ? `<span class="chip b2b">Back-to-back</span>` : "",
+      t34 ? `<span class="chip t34">3 in 4 nights</span>` : ""
+    ].join("");
+    const gs = (byTeam[team] || []).slice(0,3).map(x => `<b>${esc(x.Goalie)}</b> <span class="tier ${tierCls(x.Tier)}">${esc(x.Tier)}</span>`).join("<br>");
+    const last = g[`${s} last starting goalie`];
+    return `<div class="side"><div class="code">${esc(team)}</div><div class="chips">${chips}</div>
+      <div class="lbl">${s === "Away" ? "Away" : "Home"}</div><div class="gl">${gs || "No goalie data"}${last ? `<br>Last start: <b>${esc(last)}</b>` : ""}</div></div>`;
+  };
+  $("#games").innerHTML = SCHED.filter(g => g.Date === date).map(g => `
+    <article class="game"><div class="top"><span class="lbl">${esc(g.Away)} at ${esc(g.Home)}</span><span class="time">${esc(g["Start (PT)"])} PT · ${esc(g["Start (ET)"])} ET</span></div>
+    ${side(g,"Away")}<div class="divider"></div>${side(g,"Home")}</article>`).join("");
+})();
+
+// tables
+const VIEWS = {
+  goalies: {rows: GOALIES, cols: [["Goalie","l"],["Team","l"],["Tier","tier"],["Rank","num"],["GSAx/60 (blended)","num"],["Starts this season","num"],["GSAx this season","num"],["GP last season","num"],["GSAx last season","num"],["Team start share","num"],["Last start","num"]]},
+  teams: {rows: TEAMS, cols: [["Team","l"],["GP","num"],["Record (W-L-OTL)","num"],["PP% this season","num"],["PK% this season","num"],["5v5 xGF% this season","num"],["5v5 PDO this season","num"],["5v5 xGF% last season","num"],["PP% last season","num"],["PK% last season","num"],["Last 10: GF","num"],["Last 10: GA","num"],["Recent starting goalies (newest first)","wrap"]]},
+  skaters: {rows: SKATERS, cols: [["Player","l"],["Team","l"],["Pos","l"],["Role","l"],["PP1","l"],["Usage TOI/GP","num"],["Usage PP TOI/GP","num"],["GP","num"],["P","num"],["Last 10 P","num"],["Last 10 SOG","num"],["Trend","l"],["Trend detail","wrap"]]},
+};
+let view = "goalies";
+const teams = [...new Set(TEAMS.map(t => t.Team))].sort();
+$("#f-team").innerHTML = `<option value="">All teams</option>` + teams.map(t => `<option>${t}</option>`).join("");
+function fmt(v){ if (v == null || v === "") return "–"; if (typeof v === "number") return Number.isInteger(v) ? v : v.toFixed(Math.abs(v) < 2 ? 3 : 1).replace(/\.?0+$/, m => m.startsWith(".") ? "" : m); return esc(v); }
+function render(){
+  const V = VIEWS[view], team = $("#f-team").value, trend = $("#f-trend").value;
+  $("#trend-wrap").hidden = view !== "skaters";
+  let rows = V.rows.filter(r => !team || r.Team === team);
+  if (view === "skaters" && trend) rows = rows.filter(r => (r.Trend || "").startsWith(trend));
+  $("#thead").innerHTML = "<tr>" + V.cols.map(([k,c]) => `<th class="${c === "l" || c === "tier" || c === "wrap" ? "l" : ""}">${esc(k)}</th>`).join("") + "</tr>";
+  $("#tbody").innerHTML = rows.length ? rows.map(r => "<tr>" + V.cols.map(([k,c]) => {
+    const v = r[k];
+    if (c === "tier") return `<td class="l"><span class="tier ${tierCls(v)}">${esc(v)}</span></td>`;
+    if (c === "wrap") return `<td class="l wrap">${esc(v)}</td>`;
+    return `<td class="${c === "l" ? "l" : "num"}">${fmt(v)}</td>`;
+  }).join("") + "</tr>").join("") : `<tr><td class="l" colspan="${V.cols.length}">No rows match.</td></tr>`;
+}
+$("#tabs").addEventListener("click", e => {
+  const b = e.target.closest("button"); if (!b) return;
+  view = b.dataset.t;
+  document.querySelectorAll("#tabs button").forEach(x => x.setAttribute("aria-selected", x === b ? "true" : "false"));
+  render();
+});
+$("#f-team").addEventListener("change", render);
+$("#f-trend").addEventListener("change", render);
+render();
+</script>

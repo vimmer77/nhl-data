@@ -526,6 +526,15 @@ def write_outputs(meta, sheets):
     for name, df in sheets.items():
         df.to_csv(OUT / f"{name.lower()}.csv", index=False)
     (OUT / "meta.json").write_text(json.dumps(meta, indent=1))
+    tpl = pathlib.Path(__file__).with_name("page_template.html")
+    if tpl.exists():
+        def js(df):
+            d = df.drop(columns=[c for c in df.columns if c == "playerId"])
+            return (d.to_json(orient="records") if len(d) else "[]").replace("</", "<\\/")
+        page = tpl.read_text().replace("__META__", json.dumps(meta))
+        for name, df in sheets.items():
+            page = page.replace(f"__{name.upper()}__", js(df))
+        (OUT / "index.html").write_text(page)
     from openpyxl.styles import Alignment, Font, PatternFill
     from openpyxl.utils import get_column_letter
     path = OUT / "nhl_daily_data.xlsx"
