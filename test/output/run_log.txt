@@ -1,4 +1,0 @@
-build 2026-01-15 07:00 PT, season 20252026, prior 20242025
-teams 32, sched games 1312, roster rows 861, skater-game rows 10000, goalie-game rows 1556, prior skaters 920, MoneyPuck current yes
-{"data_through": "2025-11-13", "built_pt": "2026-01-15 07:00", "season": "20252026", "games_played": 278, "next_game_date": "2026-01-15", "moneypuck_current_season": true}
-rows: schedule 28, goalies 98, teams 32, skaters 879

@@ -148,11 +148,22 @@ def update_logs(sid, start_year, today):
     if len(sk):
         since = (pd.to_datetime(sk["gameDate"]).max() - pd.Timedelta(days=3)).strftime("%Y-%m-%d")
     until = (dt.date.fromisoformat(today) - dt.timedelta(days=1)).isoformat()  # completed games only
-    cay = f'seasonId={sid} and gameTypeId=2 and gameDate>="{since}" and gameDate<="{until} 23:59:59"'
     srt = [{"property": "gameDate", "direction": "ASC"}, {"property": "playerId", "direction": "ASC"}]
 
-    summ = pd.DataFrame(stats_query("skater/summary", cay, True, sort=srt))
-    toi = pd.DataFrame(stats_query("skater/timeonice", cay, True, sort=srt))
+    def windowed(path):  # the API silently caps a response at 10,000 rows, so ask 10 days at a time
+        rows, d0, end = [], dt.date.fromisoformat(since), dt.date.fromisoformat(until)
+        while d0 <= end:
+            d1 = min(d0 + dt.timedelta(days=9), end)
+            cay = f'seasonId={sid} and gameTypeId=2 and gameDate>="{d0}" and gameDate<="{d1} 23:59:59"'
+            got = stats_query(path, cay, True, sort=srt)
+            if len(got) >= 10000:
+                raise RuntimeError(f"{path} window {d0}..{d1} hit the 10,000-row cap")
+            rows += got
+            d0 = d1 + dt.timedelta(days=1)
+        return pd.DataFrame(rows)
+
+    summ = windowed("skater/summary")
+    toi = windowed("skater/timeonice")
     if len(summ):
         keep = ["playerId", "gameId", "gameDate", "skaterFullName", "teamAbbrev", "opponentTeamAbbrev",
                 "homeRoad", "positionCode", "goals", "assists", "points", "shots", "ppPoints"]
@@ -161,7 +172,7 @@ def update_logs(sid, start_year, today):
         sk = pd.concat([sk, new]).drop_duplicates(["playerId", "gameId"], keep="last")
         sk.to_csv(fs, index=False)
 
-    gsum = pd.DataFrame(stats_query("goalie/summary", cay, True, sort=srt))
+    gsum = windowed("goalie/summary")
     if len(gsum):
         keep = ["playerId", "gameId", "gameDate", "goalieFullName", "teamAbbrev", "opponentTeamAbbrev",
                 "gamesStarted", "shotsAgainst", "saves", "goalsAgainst", "timeOnIce"]
