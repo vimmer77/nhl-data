@@ -1,6 +1,6 @@
 # nhl-data
 
-Daily NHL data for a personal Bet365 moneyline model.
+Daily NHL data.
 
 A GitHub Action (`.github/workflows/build.yml`) runs every morning at 13:30 UTC (6:30am PDT) and:
 
