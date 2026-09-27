@@ -1,0 +1,67 @@
+{
+ "skater_summary_game": {
+  "status": 200,
+  "bytes": 1566
+ },
+ "skater_toi_game": {
+  "status": 200,
+  "bytes": 1621
+ },
+ "goalie_summary_game": {
+  "status": 200,
+  "bytes": 1392
+ },
+ "skater_summary_game_limit_all": {
+  "status": 200,
+  "bytes": 389827,
+  "rows": 756,
+  "total": 756
+ },
+ "skater_toi_agg": {
+  "status": 200,
+  "bytes": 1357
+ },
+ "skater_summary_agg": {
+  "status": 200,
+  "bytes": 1299
+ },
+ "team_summary": {
+  "status": 200,
+  "bytes": 1604
+ },
+ "team_list": {
+  "status": 200,
+  "bytes": 6664
+ },
+ "schedule_today": {
+  "status": 200,
+  "bytes": 66692
+ },
+ "schedule_oct": {
+  "status": 200,
+  "bytes": 91535
+ },
+ "roster_edm": {
+  "status": 200,
+  "bytes": 12604
+ },
+ "standings": {
+  "status": 200,
+  "bytes": 59861
+ },
+ "mp_teams_2025": {
+  "status": 200,
+  "bytes": 99689
+ },
+ "mp_goalies_2025": {
+  "status": 200,
+  "bytes": 93386
+ },
+ "mp_skaters_2025": {
+  "status": 200,
+  "bytes": 3483132
+ },
+ "mp_teams_2026": {
+  "error": "<HTTPError 404: 'Not Found'>"
+ }
+}
