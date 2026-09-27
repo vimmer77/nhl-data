@@ -1,0 +1,42 @@
+name: daily-build
+on:
+  schedule:
+    - cron: "30 13 * * *"   # 6:30am PDT / 5:30am PST, ahead of the 8:50am Pacific Claude refresh
+  workflow_dispatch:
+    inputs:
+      build_date:
+        description: "Test mode: pretend today is YYYY-MM-DD (writes to test/ instead of data/ and output/)"
+        required: false
+        default: ""
+permissions:
+  contents: write
+concurrency:
+  group: daily-build
+  cancel-in-progress: false
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    env:
+      BUILD_DATE: ${{ inputs.build_date }}
+      DATA_DIR: ${{ inputs.build_date != '' && 'test/data' || 'data' }}
+      OUT_DIR: ${{ inputs.build_date != '' && 'test/output' || 'output' }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: "3.12"}
+      - run: pip install --quiet pandas openpyxl
+      - name: Build
+        run: |
+          set -o pipefail
+          mkdir -p "$OUT_DIR"
+          python scripts/build.py 2>&1 | tee "$OUT_DIR/run_log.txt"
+      - name: Commit results
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A data output test 2>/dev/null || true
+          git diff --cached --quiet && exit 0
+          git commit -m "Daily data build ${BUILD_DATE:-$(date -u +%F)}"
+          git pull --rebase --quiet && git push
