@@ -36,7 +36,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -A data output test 2>/dev/null || true
+          for p in data output test; do if [ -e "$p" ]; then git add -A "$p"; fi; done
           git diff --cached --quiet && exit 0
           git commit -m "Daily data build ${BUILD_DATE:-$(date -u +%F)}"
           git pull --rebase --quiet && git push
