@@ -260,7 +260,6 @@ Mathieu Joseph,EDM,R,Depth F,,last season,12.0,0.0,0,0,0,0,0,,,0,0,0,0,Not enoug
 Mattias Janmark,EDM,C,Depth F,,last season,11.9,0.0,0,0,0,0,0,,,0,0,0,0,Not enough games,,43,11.9,8477406
 Colton Dach,EDM,C,Depth F,,last season,11.5,0.8,0,0,0,0,0,,,0,0,0,0,Not enough games,,61,11.5,8482703
 Trent Frederic,EDM,C,Depth F,,last season,11.0,0.1,0,0,0,0,0,,,0,0,0,0,Not enough games,,74,11.0,8479365
-Josh Samanski,EDM,C,Depth F,,last season,10.6,0.0,0,0,0,0,0,,,0,0,0,0,Not enough games,,24,10.6,8484509
 Isaac Howard,EDM,L,Depth F,,last season,10.3,0.5,0,0,0,0,0,,,0,0,0,0,Not enough games,,29,10.3,8483455
 Max Jones,EDM,L,Depth F,,last season,8.3,0.0,0,0,0,0,0,,,0,0,0,0,Not enough games,,21,8.3,8479368
 Connor Murphy,EDM,D,Depth D,,last season,17.5,0.0,0,0,0,0,0,,,0,0,0,0,Not enough games,,80,17.5,8476473
@@ -270,7 +269,6 @@ Spencer Stastney,EDM,D,Depth D,,last season,15.5,0.1,0,0,0,0,0,,,0,0,0,0,Not eno
 Alec Regula,EDM,D,Depth D,,last season,14.5,0.0,0,0,0,0,0,,,0,0,0,0,Not enough games,,29,14.5,8480831
 Alex Formenton,EDM,L,Depth (no NHL data),,no NHL data,0.0,0.0,0,0,0,0,0,,,0,0,0,0,Not enough games,,0,0.0,8480029
 Owen Michaels,EDM,R,Depth (no NHL data),,no NHL data,0.0,0.0,0,0,0,0,0,,,0,0,0,0,Not enough games,,0,0.0,8486161
-Damien Carfagna,EDM,D,Depth (no NHL data),,no NHL data,0.0,0.0,0,0,0,0,0,,,0,0,0,0,Not enough games,,0,0.0,8485484
 Sam Reinhart,FLA,C,Top-line C,Yes,last season,21.3,4.2,0,0,0,0,0,,,0,0,0,0,Not enough games,,64,21.3,8477933
 Seth Jones,FLA,D,Top-pair D,Yes,last season,23.7,3.6,0,0,0,0,0,,,0,0,0,0,Not enough games,,52,23.7,8477495
 Gustav Forsling,FLA,D,Top-pair D,,last season,22.6,0.6,0,0,0,0,0,,,0,0,0,0,Not enough games,,80,22.6,8478055
@@ -284,22 +282,14 @@ Niko Mikkola,FLA,D,Top-4 D,,last season,20.4,0.1,0,0,0,0,0,,,0,0,0,0,Not enough 
 Brady Tkachuk,FLA,L,Depth F,Yes,last season,17.0,3.3,0,0,0,0,0,,,0,0,0,0,Not enough games,,60,17.0,8480801
 Eetu Luostarinen,FLA,C,Depth F,,last season,16.6,1.1,0,0,0,0,0,,,0,0,0,0,Not enough games,,73,16.6,8480185
 Lars Eller,FLA,C,Depth F,,last season,11.4,0.5,0,0,0,0,0,,,0,0,0,0,Not enough games,,68,11.4,8474189
-Cole Reinhardt,FLA,L,Depth F,,last season,10.6,0.1,0,0,0,0,0,,,0,0,0,0,Not enough games,,59,10.6,8481133
-John Beecher,FLA,C,Depth F,,last season,10.4,0.1,0,0,0,0,0,,,0,0,0,0,Not enough games,,35,10.4,8481556
 Garnet Hathaway,FLA,R,Depth F,,last season,10.4,0.0,0,0,0,0,0,,,0,0,0,0,Not enough games,,66,10.4,8477903
 Sandis Vilmanis,FLA,L,Depth F,,last season,10.4,0.2,0,0,0,0,0,,,0,0,0,0,Not enough games,,19,10.4,8483771
-Cole Schwindt,FLA,C,Depth F,,last season,10.0,0.2,0,0,0,0,0,,,0,0,0,0,Not enough games,,29,10.0,8481655
-Nathan Bastian,FLA,R,Depth F,,last season,8.6,0.0,0,0,0,0,0,,,0,0,0,0,Not enough games,,36,8.6,8479414
-Sam Lafferty,FLA,C,Depth F,,last season,8.6,0.0,0,0,0,0,0,,,0,0,0,0,Not enough games,,29,8.6,8478043
 Jonah Gadjovich,FLA,L,Depth F,,last season,7.9,0.0,0,0,0,0,0,,,0,0,0,0,Not enough games,,10,7.9,8479981
 Bokondji Imama,FLA,L,Depth F,,last season,7.6,0.0,0,0,0,0,0,,,0,0,0,0,Not enough games,,2,7.6,8478147
 Dmitry Kulikov,FLA,D,Depth D,,last season,18.0,0.0,0,0,0,0,0,,,0,0,0,0,Not enough games,,19,18.0,8475179
 Uvis Balinskis,FLA,D,Depth D,,last season,16.4,1.2,0,0,0,0,0,,,0,0,0,0,Not enough games,,54,16.4,8484304
 Radko Gudas,FLA,D,Depth D,,last season,16.2,0.0,0,0,0,0,0,,,0,0,0,0,Not enough games,,56,16.2,8475462
-Alexander Petrovic,FLA,D,Depth D,,last season,15.4,0.0,0,0,0,0,0,,,0,0,0,0,Not enough games,,54,15.4,8475755
-Donovan Sebrango,FLA,D,Depth D,,last season,15.1,0.0,0,0,0,0,0,,,0,0,0,0,Not enough games,,42,15.1,8482131
 Aleksander Barkov,FLA,C,Depth (no NHL data),,no NHL data,0.0,0.0,0,0,0,0,0,,,0,0,0,0,Not enough games,,0,0.0,8477493
-Kai Schwindt,FLA,L,Depth (no NHL data),,no NHL data,0.0,0.0,0,0,0,0,0,,,0,0,0,0,Not enough games,,0,0.0,8483878
 Scott Laughton,LAK,C,Top-line C,,last season,14.4,0.4,0,0,0,0,0,,,0,0,0,0,Not enough games,,64,14.4,8476872
 Drew Doughty,LAK,D,Top-pair D,,last season,23.1,1.7,0,0,0,0,0,,,0,0,0,0,Not enough games,,72,23.1,8474563
 Mikey Anderson,LAK,D,Top-pair D,,last season,20.6,0.1,0,0,0,0,0,,,0,0,0,0,Not enough games,,80,20.6,8479998
@@ -391,17 +381,12 @@ Arseny Gritsyuk,NJD,R,Depth F,,last season,15.2,1.0,0,0,0,0,0,,,0,0,0,0,Not enou
 Cody Glass,NJD,C,Depth F,,last season,13.6,0.4,0,0,0,0,0,,,0,0,0,0,Not enough games,,70,13.6,8479996
 Jesper Boqvist,NJD,C,Depth F,,last season,11.8,0.5,0,0,0,0,0,,,0,0,0,0,Not enough games,,73,11.8,8480003
 Stefan Noesen,NJD,R,Depth F,,last season,11.8,1.6,0,0,0,0,0,,,0,0,0,0,Not enough games,,38,11.8,8476474
-Riley Tufte,NJD,L,Depth F,,last season,11.7,1.3,0,0,0,0,0,,,0,0,0,0,Not enough games,,4,11.7,8479362
 Nick Bjugstad,NJD,C,Depth F,,last season,10.9,0.1,0,0,0,0,0,,,0,0,0,0,Not enough games,,61,10.9,8475760
-Marc McLaughlin,NJD,C,Depth F,,last season,8.2,0.0,0,0,0,0,0,,,0,0,0,0,Not enough games,,7,8.2,8483397
 Seamus Casey,NJD,D,Depth D,,last season,18.0,0.0,0,0,0,0,0,,,0,0,0,0,Not enough games,,2,18.0,8483429
 Brenden Dillon,NJD,D,Depth D,,last season,18.0,0.0,0,0,0,0,0,,,0,0,0,0,Not enough games,,82,18.0,8475455
 Johnathan Kovacevic,NJD,D,Depth D,,last season,17.9,0.0,0,0,0,0,0,,,0,0,0,0,Not enough games,,34,17.9,8480192
-Topias Vilen,NJD,D,Depth D,,last season,15.5,0.0,0,0,0,0,0,,,0,0,0,0,Not enough games,,2,15.5,8482873
 Declan Chisholm,NJD,D,Depth D,,last season,13.7,0.3,0,0,0,0,0,,,0,0,0,0,Not enough games,,26,13.7,8480990
-Vladislav Kolyachonok,NJD,D,Depth D,,last season,12.5,0.0,0,0,0,0,0,,,0,0,0,0,Not enough games,,13,12.5,8481609
 Amadeus Lombardi,NJD,C,Depth (no NHL data),,no NHL data,0.0,0.0,0,0,0,0,0,,,0,0,0,0,Not enough games,,0,0.0,8483695
-Colin White,NJD,C,Depth (no NHL data),,no NHL data,0.0,0.0,0,0,0,0,0,,,0,0,0,0,Not enough games,,0,0.0,8478400
 Ryan O'Reilly,NSH,C,Top-line C,Yes,last season,20.4,2.9,0,0,0,0,0,,,0,0,0,0,Not enough games,,81,20.4,8475158
 Roman Josi,NSH,D,Top-pair D,Yes,last season,24.9,3.3,0,0,0,0,0,,,0,0,0,0,Not enough games,,68,24.9,8474600
 Brady Skjei,NSH,D,Top-pair D,,last season,22.6,1.1,0,0,0,0,0,,,0,0,0,0,Not enough games,,82,22.6,8476869
@@ -461,14 +446,14 @@ Oliver Bjorkstrand,NYR,R,Depth F,Yes,last season,13.6,3.1,0,0,0,0,0,,,0,0,0,0,No
 Noah Laba,NYR,C,Depth F,,last season,13.5,0.5,0,0,0,0,0,,,0,0,0,0,Not enough games,,74,13.5,8483690
 Joseph Veleno,NYR,C,Depth F,,last season,12.1,0.0,0,0,0,0,0,,,0,0,0,0,Not enough games,,61,12.1,8480813
 Tye Kartye,NYR,L,Depth F,,last season,12.0,0.0,0,0,0,0,0,,,0,0,0,0,Not enough games,,64,12.0,8481789
-Taylor Raddysh,NYR,R,Depth F,,last season,11.8,0.4,0,0,0,0,0,,,0,0,0,0,Not enough games,,68,11.8,8479390
 Adam Sykora,NYR,L,Depth F,,last season,11.2,0.1,0,0,0,0,0,,,0,0,0,0,Not enough games,,11,11.2,8483669
 Jaroslav Chmelar,NYR,R,Depth F,,last season,9.2,0.1,0,0,0,0,0,,,0,0,0,0,Not enough games,,28,9.2,8482877
 Matt Rempe,NYR,C,Depth F,,last season,8.6,0.3,0,0,0,0,0,,,0,0,0,0,Not enough games,,26,8.6,8482460
 Sean Durzi,NYR,D,Depth D,,last season,19.3,1.3,0,0,0,0,0,,,0,0,0,0,Not enough games,,60,19.3,8480434
 Matthew Robertson,NYR,D,Depth D,,last season,17.4,0.1,0,0,0,0,0,,,0,0,0,0,Not enough games,,72,17.4,8481525
 Vincent Iorio,NYR,D,Depth D,,last season,15.7,0.1,0,0,0,0,0,,,0,0,0,0,Not enough games,,27,15.7,8482861
-Urho Vaakanainen,NYR,D,Depth D,,last season,13.9,0.0,0,0,0,0,0,,,0,0,0,0,Not enough games,,34,13.9,8480001
+Scott Morrow,NYR,D,Depth D,,last season,15.7,1.4,0,0,0,0,0,,,0,0,0,0,Not enough games,,29,15.7,8482666
+Alberts Smits,NYR,D,Depth (no NHL data),,no NHL data,0.0,0.0,0,0,0,0,0,,,0,0,0,0,Not enough games,,0,0.0,8485957
 Tim Stützle,OTT,C,Top-line C,Yes,last season,20.3,3.5,0,0,0,0,0,,,0,0,0,0,Not enough games,,80,20.3,8482116
 Jake Sanderson,OTT,D,Top-pair D,Yes,last season,24.8,3.3,0,0,0,0,0,,,0,0,0,0,Not enough games,,67,24.8,8482105
 Thomas Chabot,OTT,D,Top-pair D,,last season,22.6,2.4,0,0,0,0,0,,,0,0,0,0,Not enough games,,57,22.6,8478469
@@ -529,13 +514,17 @@ Tommy Novak,PIT,C,Depth F,,last season,14.3,1.2,0,0,0,0,0,,,0,0,0,0,Not enough g
 Connor Dewar,PIT,C,Depth F,,last season,13.9,0.0,0,0,0,0,0,,,0,0,0,0,Not enough games,,78,13.9,8480980
 Blake Lizotte,PIT,C,Depth F,,last season,13.9,0.1,0,0,0,0,0,,,0,0,0,0,Not enough games,,55,13.9,8481481
 Egor Chinakhov,PIT,R,Depth F,,last season,13.5,1.3,0,0,0,0,0,,,0,0,0,0,Not enough games,,72,13.5,8482475
+Filip Hallander,PIT,C,Depth F,,last season,13.1,0.3,0,0,0,0,0,,,0,0,0,0,Not enough games,,13,13.1,8480842
 Ville Koivunen,PIT,R,Depth F,,last season,12.7,0.9,0,0,0,0,0,,,0,0,0,0,Not enough games,,39,12.7,8482758
 Nick Robertson,PIT,L,Depth F,,last season,12.7,1.1,0,0,0,0,0,,,0,0,0,0,Not enough games,,78,12.7,8481582
 Justin Brazeau,PIT,R,Depth F,,last season,12.7,1.0,0,0,0,0,0,,,0,0,0,0,Not enough games,,64,12.7,8479638
+Rutger McGroarty,PIT,R,Depth F,,last season,12.0,0.2,0,0,0,0,0,,,0,0,0,0,Not enough games,,24,12.0,8483487
 Elmer Soderblom,PIT,L,Depth F,,last season,11.1,0.2,0,0,0,0,0,,,0,0,0,0,Not enough games,,59,11.1,8481725
 Hendrix Lapierre,PIT,C,Depth F,,last season,8.8,0.1,0,0,0,0,0,,,0,0,0,0,Not enough games,,74,8.8,8482148
 Kaedan Korczak,PIT,D,Depth D,,last season,16.0,0.0,0,0,0,0,0,,,0,0,0,0,Not enough games,,78,16.0,8481527
 Declan Carlile,PIT,D,Depth D,,last season,14.8,0.0,0,0,0,0,0,,,0,0,0,0,Not enough games,,42,14.8,8483398
+Ilya Solovyov,PIT,D,Depth D,,last season,12.7,0.0,0,0,0,0,0,,,0,0,0,0,Not enough games,,30,12.7,8482470
+David Gustafsson,PIT,C,Depth (no NHL data),,no NHL data,0.0,0.0,0,0,0,0,0,,,0,0,0,0,Not enough games,,0,0.0,8481019
 Chandler Stephenson,SEA,C,Top-line C,Yes,last season,19.4,2.7,0,0,0,0,0,,,0,0,0,0,Not enough games,,80,19.4,8476905
 Brandon Montour,SEA,D,Top-pair D,,last season,22.6,1.9,0,0,0,0,0,,,0,0,0,0,Not enough games,,64,22.6,8477986
 Vince Dunn,SEA,D,Top-pair D,Yes,last season,21.7,2.7,0,0,0,0,0,,,0,0,0,0,Not enough games,,81,21.7,8478407
@@ -609,7 +598,6 @@ Justin Barron,STL,D,Depth D,,last season,14.3,0.2,0,0,0,0,0,,,0,0,0,0,Not enough
 Zach Dean,STL,C,Depth (no NHL data),,no NHL data,0.0,0.0,0,0,0,0,0,,,0,0,0,0,Not enough games,,0,0.0,8482784
 Dillon Dube,STL,C,Depth (no NHL data),,no NHL data,0.0,0.0,0,0,0,0,0,,,0,0,0,0,Not enough games,,0,0.0,8479346
 Adam Jiricek,STL,D,Depth (no NHL data),,no NHL data,0.0,0.0,0,0,0,0,0,,,0,0,0,0,Not enough games,,0,0.0,8484790
-Calle Rosen,STL,D,Depth (no NHL data),,no NHL data,0.0,0.0,0,0,0,0,0,,,0,0,0,0,Not enough games,,0,0.0,8480157
 Jake Guentzel,TBL,C,Top-line C,Yes,last season,20.2,4.1,0,0,0,0,0,,,0,0,0,0,Not enough games,,81,20.2,8477404
 John Carlson,TBL,D,Top-pair D,Yes,last season,23.2,2.7,0,0,0,0,0,,,0,0,0,0,Not enough games,,71,23.2,8474590
 J.J. Moser,TBL,D,Top-pair D,,last season,21.6,0.1,0,0,0,0,0,,,0,0,0,0,Not enough games,,79,21.6,8482655
@@ -653,8 +641,8 @@ Easton Cowan,TOR,R,Depth F,,last season,14.7,1.6,0,0,0,0,0,,,0,0,0,0,Not enough 
 Nick Paul,TOR,L,Depth F,,last season,13.7,1.2,0,0,0,0,0,,,0,0,0,0,Not enough games,,51,13.7,8477426
 Luke Haymes,TOR,C,Depth F,,last season,13.6,0.4,0,0,0,0,0,,,0,0,0,0,Not enough games,,4,13.6,8485467
 Colton Sissons,TOR,C,Depth F,,last season,12.5,0.5,0,0,0,0,0,,,0,0,0,0,Not enough games,,66,12.5,8476925
-Brandon Duhaime,TOR,R,Depth F,,last season,11.1,0.1,0,0,0,0,0,,,0,0,0,0,Not enough games,,82,11.1,8479520
-Zack MacEwen,TOR,C,Depth F,,last season,6.3,0.0,0,0,0,0,0,,,0,0,0,0,Not enough games,,3,6.3,8479772
+Brandon Duhaime,TOR,L,Depth F,,last season,11.1,0.1,0,0,0,0,0,,,0,0,0,0,Not enough games,,82,11.1,8479520
+Zack MacEwen,TOR,R,Depth F,,last season,6.3,0.0,0,0,0,0,0,,,0,0,0,0,Not enough games,,3,6.3,8479772
 Troy Stecher,TOR,D,Depth D,,last season,19.2,0.0,0,0,0,0,0,,,0,0,0,0,Not enough games,,64,19.2,8479442
 Chris Tanev,TOR,D,Depth D,,last season,18.0,0.0,0,0,0,0,0,,,0,0,0,0,Not enough games,,11,18.0,8475690
 Nick Blankenburg,TOR,D,Depth D,,last season,16.8,1.4,0,0,0,0,0,,,0,0,0,0,Not enough games,,61,16.8,8483565
@@ -718,17 +706,12 @@ Brett Howden,VGK,C,Depth F,,last season,14.9,0.6,0,0,0,0,0,,,0,0,0,0,Not enough 
 Nic Dowd,VGK,C,Depth F,,last season,14.5,0.1,0,0,0,0,0,,,0,0,0,0,Not enough games,,75,14.5,8475343
 Braeden Bowman,VGK,R,Depth F,,last season,14.1,1.3,0,0,0,0,0,,,0,0,0,0,Not enough games,,54,14.1,8483890
 Victor Olofsson,VGK,L,Depth F,Yes,last season,13.6,2.1,0,0,0,0,0,,,0,0,0,0,Not enough games,,78,13.6,8478109
-Jonas Rondbjerg,VGK,R,Depth F,,last season,12.1,0.0,0,0,0,0,0,,,0,0,0,0,Not enough games,,4,12.1,8480007
-Alexander Holtz,VGK,R,Depth F,,last season,11.5,0.4,0,0,0,0,0,,,0,0,0,0,Not enough games,,28,11.5,8482125
-Tanner Laczynski,VGK,C,Depth F,,last season,10.8,0.6,0,0,0,0,0,,,0,0,0,0,Not enough games,,10,10.8,8479550
 Marc Gatcomb,VGK,C,Depth F,,last season,10.1,0.0,0,0,0,0,0,,,0,0,0,0,Not enough games,,49,10.1,8483553
 Raphael Lavoie,VGK,C,Depth F,,last season,8.6,0.0,0,0,0,0,0,,,0,0,0,0,Not enough games,,1,8.6,8481534
 Parker Wotherspoon,VGK,D,Depth D,,last season,20.2,0.0,0,0,0,0,0,,,0,0,0,0,Not enough games,,80,20.2,8478450
 Jeremy Lauzon,VGK,D,Depth D,,last season,17.2,0.0,0,0,0,0,0,,,0,0,0,0,Not enough games,,68,17.2,8478468
 Dylan Coghlan,VGK,D,Depth D,,last season,15.1,0.1,0,0,0,0,0,,,0,0,0,0,Not enough games,,3,15.1,8479639
-Ville Heinola,VGK,D,Depth D,,last season,14.1,1.1,0,0,0,0,0,,,0,0,0,0,Not enough games,,5,14.1,8481572
 Trevor Connelly,VGK,L,Depth (no NHL data),,no NHL data,0.0,0.0,0,0,0,0,0,,,0,0,0,0,Not enough games,,0,0.0,8484803
-Antti Tuomisto,VGK,D,Depth (no NHL data),,no NHL data,0.0,0.0,0,0,0,0,0,,,0,0,0,0,Not enough games,,0,0.0,8481587
 Mark Scheifele,WPG,C,Top-line C,Yes,last season,21.5,3.2,0,0,0,0,0,,,0,0,0,0,Not enough games,,82,21.5,8476460
 Josh Morrissey,WPG,D,Top-pair D,Yes,last season,24.7,3.1,0,0,0,0,0,,,0,0,0,0,Not enough games,,77,24.7,8477504
 Neal Pionk,WPG,D,Top-pair D,,last season,22.7,1.6,0,0,0,0,0,,,0,0,0,0,Not enough games,,51,22.7,8480145

@@ -1,84 +1,79 @@
 Goalie,Team,Tier,Rank,GSAx/60 (blended),Starts this season,GSAx this season,GP last season,GSAx last season,Last-season weight,Team start share,Last start,playerId
-Ville Husso,ANA,Average,42.0,-0.108,0,0.0,20,-3.1,1.0,,,8478024
-Lukas Dostal,ANA,Average,37.0,-0.045,0,0.0,56,-2.9,1.0,,,8480843
+Ville Husso,ANA,Average,41.0,-0.108,0,0.0,20,-3.1,1.0,,,8478024
+Lukas Dostal,ANA,Average,36.0,-0.045,0,0.0,56,-2.9,1.0,,,8480843
 Laurent Brossoit,ANA,Replacement-level (small sample),,-0.214,0,0.0,1,-2.4,1.0,,,8476316
 Jeremy Swayman,BOS,Elite,1.0,0.45,0,0.0,55,28.8,1.0,,,8480280
 Michael DiPietro,BOS,Average (small sample),,0.01,0,0.0,1,0.1,1.0,,,8480022
 Alex Lyon,BUF,Above-average,10.0,0.292,0,0.0,36,12.6,1.0,,,8479312
 Ukko-Pekka Luukkonen,BUF,Above-average,13.0,0.24,0,0.0,35,10.5,1.0,,,8480045
-Colten Ellis,BUF,Average,29.0,0.074,0,0.0,16,1.9,1.0,,,8481551
+Colten Ellis,BUF,Average,28.0,0.074,0,0.0,16,1.9,1.0,,,8481551
 Topias Leinonen,BUF,Replacement-level (no NHL data),,0.0,0,0.0,0,0.0,1.0,,,8483475
-Brandon Bussi,CAR,Average,31.0,0.056,0,0.0,39,2.8,1.0,,,8483548
+Brandon Bussi,CAR,Average,30.0,0.056,0,0.0,39,2.8,1.0,,,8483548
 Pyotr Kochetkov,CAR,Average (small sample),,-0.002,0,0.0,9,-0.0,1.0,,,8481611
 Cayden Primeau,CAR,Replacement-level (small sample),,-0.567,0,0.0,3,-7.4,1.0,,,8480051
 Jet Greaves,CBJ,Above-average,12.0,0.255,0,0.0,55,16.5,1.0,,,8482982
-Cam Talbot,CBJ,Replacement-level,57.0,-0.335,0,0.0,34,-13.1,1.0,,,8475660
+Cam Talbot,CBJ,Replacement-level,56.0,-0.335,0,0.0,34,-13.1,1.0,,,8475660
 Devin Cooley,CGY,Elite,2.0,0.447,0,0.0,31,17.3,1.0,,,8482445
-Dustin Wolf,CGY,Average,35.0,-0.028,0,0.0,57,-1.8,1.0,,,8481692
+Dustin Wolf,CGY,Average,34.0,-0.028,0,0.0,57,-1.8,1.0,,,8481692
 Spencer Knight,CHI,Above-average,20.0,0.171,0,0.0,54,10.9,1.0,,,8481519
-Arvid Soderblom,CHI,Replacement-level,44.0,-0.117,0,0.0,26,-4.0,1.0,,,8482821
+Arvid Soderblom,CHI,Replacement-level,43.0,-0.117,0,0.0,26,-4.0,1.0,,,8482821
 Scott Wedgewood,COL,Elite,3.0,0.441,0,0.0,45,23.1,1.0,,,8475809
 Mackenzie Blackwood,COL,Above-average,19.0,0.181,0,0.0,38,8.3,1.0,,,8478406
 Trent Miner,COL,Average (small sample),,0.088,0,0.0,4,1.2,1.0,,,8481529
 Casey DeSmith,DAL,Above-average,11.0,0.268,0,0.0,30,10.5,1.0,,,8479193
-Jake Oettinger,DAL,Average,27.0,0.09,0,0.0,54,5.7,1.0,,,8479979
+Jake Oettinger,DAL,Average,26.0,0.09,0,0.0,54,5.7,1.0,,,8479979
 John Gibson,DET,Above-average,18.0,0.186,0,0.0,57,11.7,1.0,,,8476434
-Daniil Tarasov,DET,Average,36.0,-0.042,0,0.0,33,-1.8,1.0,,,8480193
-Frederik Andersen,EDM,Average,39.0,-0.074,0,0.0,35,-3.3,1.0,,,8475883
-Tristan Jarry,EDM,Average,41.0,-0.104,0,0.0,33,-4.1,1.0,,,8477465
-Matt Tomkins,EDM,Replacement-level (no NHL data),,0.0,0,0.0,0,0.0,1.0,,,8477035
+Daniil Tarasov,DET,Average,35.0,-0.042,0,0.0,33,-1.8,1.0,,,8480193
+Frederik Andersen,EDM,Average,38.0,-0.074,0,0.0,35,-3.3,1.0,,,8475883
+Tristan Jarry,EDM,Average,40.0,-0.104,0,0.0,33,-4.1,1.0,,,8477465
 Devon Levi,EDM,Replacement-level (no NHL data),,0.0,0,0.0,0,0.0,1.0,,,8482221
-Akira Schmid,FLA,Average,32.0,-0.023,0,0.0,34,-1.0,1.0,,,8481033
-Jacob Markstrom,FLA,Replacement-level,54.0,-0.228,0,0.0,44,-11.9,1.0,,,8474593
+Akira Schmid,FLA,Average,31.0,-0.023,0,0.0,34,-1.0,1.0,,,8481033
+Jacob Markstrom,FLA,Replacement-level,53.0,-0.228,0,0.0,44,-11.9,1.0,,,8474593
 Anton Forsberg,LAK,Above-average,17.0,0.215,0,0.0,36,9.4,1.0,,,8476341
-Darcy Kuemper,LAK,Average,40.0,-0.099,0,0.0,50,-5.8,1.0,,,8475311
+Darcy Kuemper,LAK,Average,39.0,-0.099,0,0.0,50,-5.8,1.0,,,8475311
 Jesper Wallstedt,MIN,Above-average,21.0,0.143,0,0.0,35,6.2,1.0,,,8482661
-Calvin Pickard,MIN,Replacement-level,47.0,-0.145,0,0.0,16,-3.5,1.0,,,8475717
+Calvin Pickard,MIN,Replacement-level,46.0,-0.145,0,0.0,16,-3.5,1.0,,,8475717
 Jakub Dobes,MTL,Above-average,9.0,0.331,0,0.0,43,17.3,1.0,,,8482487
-Samuel Montembeault,MTL,Replacement-level,48.0,-0.146,0,0.0,25,-4.9,1.0,,,8478470
+Samuel Montembeault,MTL,Replacement-level,47.0,-0.146,0,0.0,25,-4.9,1.0,,,8478470
 Jake Allen,NJD,Average,24.0,0.137,0,0.0,37,6.3,1.0,,,8474596
-David Rittich,NJD,Average,25.0,0.113,0,0.0,30,4.2,1.0,,,8479496
 Nico Daws,NJD,Average (small sample),,0.034,0,0.0,3,0.4,1.0,,,8482076
 Rémi Poirier,NJD,Replacement-level (no NHL data),,0.0,0,0.0,0,0.0,1.0,,,8482465
 Justus Annunen,NSH,Above-average,14.0,0.237,0,0.0,28,8.3,1.0,,,8481020
-Juuse Saros,NSH,Replacement-level,45.0,-0.138,0,0.0,59,-9.3,1.0,,,8477424
+Juuse Saros,NSH,Replacement-level,44.0,-0.138,0,0.0,59,-9.3,1.0,,,8477424
 Ilya Sorokin,NYI,Elite,5.0,0.397,0,0.0,55,25.3,1.0,,,8478009
-Vitek Vanecek,NYI,Average,38.0,-0.066,0,0.0,22,-2.0,1.0,,,8477970
+Vitek Vanecek,NYI,Average,37.0,-0.066,0,0.0,22,-2.0,1.0,,,8477970
 Semyon Varlamov,NYI,Replacement-level (no NHL data),,0.0,0,0.0,0,0.0,1.0,,,8473575
 Igor Shesterkin,NYR,Above-average,8.0,0.352,0,0.0,51,21.2,1.0,,,8478048
-Joonas Korpisalo,NYR,Average,34.0,-0.025,0,0.0,31,-1.0,1.0,,,8476914
-Dylan Garand,NYR,Average (small sample),,0.297,0,0.0,3,3.9,1.0,,,8482193
-Linus Ullmark,OTT,Replacement-level,53.0,-0.221,0,0.0,49,-12.8,1.0,,,8476999
-Samuel Ersson,OTT,Replacement-level,60.0,-0.402,0,0.0,33,-16.5,1.0,,,8481035
+Joonas Korpisalo,NYR,Average,33.0,-0.025,0,0.0,31,-1.0,1.0,,,8476914
+Linus Ullmark,OTT,Replacement-level,52.0,-0.221,0,0.0,49,-12.8,1.0,,,8476999
+Samuel Ersson,OTT,Replacement-level,59.0,-0.402,0,0.0,33,-16.5,1.0,,,8481035
 Dan Vladar,PHI,Above-average,15.0,0.23,0,0.0,52,13.8,1.0,,,8478435
-Joseph Woll,PHI,Replacement-level,46.0,-0.14,0,0.0,39,-6.6,1.0,,,8479361
-Arturs Silovs,PIT,Replacement-level,55.0,-0.25,0,0.0,39,-11.9,1.0,,,8481668
+Joseph Woll,PHI,Replacement-level,45.0,-0.14,0,0.0,39,-6.6,1.0,,,8479361
+Arturs Silovs,PIT,Replacement-level,54.0,-0.25,0,0.0,39,-11.9,1.0,,,8481668
 Sergei Murashov,PIT,Replacement-level (small sample),,-0.24,0,0.0,5,-3.5,1.0,,,8483703
 Philipp Grubauer,SEA,Average,22.0,0.142,0,0.0,32,5.7,1.0,,,8475831
-Joey Daccord,SEA,Replacement-level,43.0,-0.112,0,0.0,47,-6.2,1.0,,,8478916
-Alex Nedeljkovic,SJS,Average,33.0,-0.024,0,0.0,40,-1.2,1.0,,,8477968
-Yaroslav Askarov,SJS,Replacement-level,58.0,-0.355,0,0.0,47,-18.9,1.0,,,8482137
+Joey Daccord,SEA,Average,42.0,-0.112,0,0.0,47,-6.2,1.0,,,8478916
+Alex Nedeljkovic,SJS,Average,32.0,-0.024,0,0.0,40,-1.2,1.0,,,8477968
+Yaroslav Askarov,SJS,Replacement-level,57.0,-0.355,0,0.0,47,-18.9,1.0,,,8482137
 Ilya Samsonov,SJS,Replacement-level (no NHL data),,0.0,0,0.0,0,0.0,1.0,,,8478492
 Kyle Keyser,SJS,Replacement-level (no NHL data),,0.0,0,0.0,0,0.0,1.0,,,8480356
 Joel Hofer,STL,Above-average,16.0,0.218,0,0.0,46,11.7,1.0,,,8480981
-Jordan Binnington,STL,Replacement-level,62.0,-0.462,0,0.0,41,-22.4,1.0,,,8476412
-Georgii Romanov,STL,Replacement-level (no NHL data),,0.0,0,0.0,0,0.0,1.0,,,8484312
+Jordan Binnington,STL,Replacement-level,61.0,-0.462,0,0.0,41,-22.4,1.0,,,8476412
 Andrei Vasilevskiy,TBL,Above-average,7.0,0.368,0,0.0,58,24.7,1.0,,,8476883
 Dennis Hildeby,TBL,Above-average,6.0,0.39,0,0.0,20,10.5,1.0,,,8483710
 Mads Sogaard,TBL,Replacement-level (small sample),,-0.231,0,0.0,2,-2.6,1.0,,,8481544
-Sergei Bobrovsky,TOR,Replacement-level,52.0,-0.202,0,0.0,52,-12.2,1.0,,,8475683
-Anthony Stolarz,TOR,Replacement-level,51.0,-0.202,0,0.0,26,-6.7,1.0,,,8476932
-Karel Vejmelka,UTA,Average,26.0,0.097,0,0.0,64,6.9,1.0,,,8478872
+Sergei Bobrovsky,TOR,Replacement-level,51.0,-0.202,0,0.0,52,-12.2,1.0,,,8475683
+Anthony Stolarz,TOR,Replacement-level,50.0,-0.202,0,0.0,26,-6.7,1.0,,,8476932
+Karel Vejmelka,UTA,Average,25.0,0.097,0,0.0,64,6.9,1.0,,,8478872
 Sebastian Cossa,UTA,Replacement-level (no NHL data),,0.0,0,0.0,0,0.0,1.0,,,8482657
-Thatcher Demko,VAN,Average,30.0,0.069,0,0.0,20,2.0,1.0,,,8477967
-Kevin Lankinen,VAN,Replacement-level,59.0,-0.363,0,0.0,47,-19.3,1.0,,,8480947
-Leevi Meriläinen,VAN,Replacement-level,63.0,-0.613,0,0.0,20,-17.3,1.0,,,8482447
-Nikita Tolopilo,VAN,Replacement-level,56.0,-0.259,0,0.0,21,-7.5,1.0,,,8484268
-Adin Hill,VGK,Replacement-level,61.0,-0.405,0,0.0,27,-14.2,1.0,,,8478499
-Carter Hart,VGK,Replacement-level,49.0,-0.156,0,0.0,18,-4.2,1.0,,,8479394
-Connor Hellebuyck,WPG,Average,28.0,0.083,0,0.0,57,5.5,1.0,,,8476945
+Thatcher Demko,VAN,Average,29.0,0.069,0,0.0,20,2.0,1.0,,,8477967
+Kevin Lankinen,VAN,Replacement-level,58.0,-0.363,0,0.0,47,-19.3,1.0,,,8480947
+Leevi Meriläinen,VAN,Replacement-level,62.0,-0.613,0,0.0,20,-17.3,1.0,,,8482447
+Nikita Tolopilo,VAN,Replacement-level,55.0,-0.259,0,0.0,21,-7.5,1.0,,,8484268
+Adin Hill,VGK,Replacement-level,60.0,-0.405,0,0.0,27,-14.2,1.0,,,8478499
+Carter Hart,VGK,Replacement-level,48.0,-0.156,0,0.0,18,-4.2,1.0,,,8479394
+Connor Hellebuyck,WPG,Average,27.0,0.083,0,0.0,57,5.5,1.0,,,8476945
 Stuart Skinner,WPG,Average,23.0,0.142,0,0.0,50,8.3,1.0,,,8479973
 Domenic DiVincentiis,WPG,Replacement-level (no NHL data),,0.0,0,0.0,0,0.0,1.0,,,8483711
 Logan Thompson,WSH,Elite,4.0,0.435,0,0.0,58,29.3,1.0,,,8480313
-Clay Stevenson,WSH,Average (small sample),,0.225,0,0.0,4,3.2,1.0,,,8483532
-Charlie Lindgren,WSH,Replacement-level,50.0,-0.172,0,0.0,21,-5.3,1.0,,,8479292
+Charlie Lindgren,WSH,Replacement-level,49.0,-0.172,0,0.0,21,-5.3,1.0,,,8479292
