@@ -1,17 +1,17 @@
 Date,Start (ET),Start (PT),Away,Home,Away rest days,Away back-to-back,Away 3-in-4,Home rest days,Home back-to-back,Home 3-in-4,Away GP,Home GP,Away last starting goalie,Home last starting goalie
-2026-09-29,5:00 PM,2:00 PM,FLA,CAR,Season opener,No,No,Season opener,No,No,0,0,,
-2026-09-29,7:00 PM,4:00 PM,MTL,TOR,Season opener,No,No,Season opener,No,No,0,0,,
-2026-09-29,8:00 PM,5:00 PM,NYR,BOS,Season opener,No,No,Season opener,No,No,0,0,,
-2026-09-29,10:00 PM,7:00 PM,VAN,EDM,Season opener,No,No,Season opener,No,No,0,0,,
-2026-09-29,10:30 PM,7:30 PM,CHI,VGK,Season opener,No,No,Season opener,No,No,0,0,,
-2026-09-30,7:30 PM,4:30 PM,NYI,TOR,Season opener,No,No,0,Yes,No,0,0,,
+2026-09-30,7:30 PM,4:30 PM,NYI,TOR,Season opener,No,No,0,Yes,No,0,1,,Sergei Bobrovsky
 2026-09-30,7:30 PM,4:30 PM,PIT,PHI,Season opener,No,No,Season opener,No,No,0,0,,
 2026-09-30,10:00 PM,7:00 PM,LAK,COL,Season opener,No,No,Season opener,No,No,0,0,,
 2026-10-01,7:00 PM,4:00 PM,BUF,CBJ,Season opener,No,No,Season opener,No,No,0,0,,
 2026-10-01,7:00 PM,4:00 PM,PHI,NJD,0,Yes,No,Season opener,No,No,0,0,,
-2026-10-01,7:00 PM,4:00 PM,TBL,NYR,Season opener,No,No,1,No,No,0,0,,
+2026-10-01,7:00 PM,4:00 PM,TBL,NYR,Season opener,No,No,1,No,No,0,1,,Igor Shesterkin
 2026-10-01,8:00 PM,5:00 PM,MIN,NSH,Season opener,No,No,Season opener,No,No,0,0,,
 2026-10-01,9:00 PM,6:00 PM,SEA,CGY,Season opener,No,No,Season opener,No,No,0,0,,
-2026-10-01,9:30 PM,6:30 PM,CHI,UTA,1,No,No,Season opener,No,No,0,0,,
-2026-10-01,10:00 PM,7:00 PM,EDM,VAN,1,No,No,1,No,No,0,0,,
-2026-10-01,10:00 PM,7:00 PM,FLA,SJS,1,No,No,Season opener,No,No,0,0,,
+2026-10-01,9:30 PM,6:30 PM,CHI,UTA,1,No,No,Season opener,No,No,1,0,Spencer Knight,
+2026-10-01,10:00 PM,7:00 PM,EDM,VAN,1,No,No,1,No,No,1,1,Tristan Jarry,Kevin Lankinen
+2026-10-01,10:00 PM,7:00 PM,FLA,SJS,1,No,No,Season opener,No,No,1,0,Jacob Markstrom,
+2026-10-02,6:30 PM,3:30 PM,NYR,DET,0,Yes,Yes,Season opener,No,No,1,0,Igor Shesterkin,
+2026-10-02,7:00 PM,4:00 PM,WSH,CAR,Season opener,No,No,2,No,No,0,1,,Brandon Bussi
+2026-10-02,8:00 PM,5:00 PM,BOS,WPG,2,No,No,Season opener,No,No,1,0,Jeremy Swayman,
+2026-10-02,9:00 PM,6:00 PM,STL,DAL,Season opener,No,No,Season opener,No,No,0,0,,
+2026-10-02,10:00 PM,7:00 PM,ANA,VGK,Season opener,No,No,2,No,No,0,1,,Carter Hart
