@@ -1,9 +1,6 @@
 Date,Start (ET),Start (PT),Away,Home,Away rest days,Away back-to-back,Away 3-in-4,Home rest days,Home back-to-back,Home 3-in-4,Away GP,Home GP,Away last starting goalie,Home last starting goalie
-2026-09-30,7:30 PM,4:30 PM,NYI,TOR,Season opener,No,No,0,Yes,No,0,1,,Sergei Bobrovsky
-2026-09-30,7:30 PM,4:30 PM,PIT,PHI,Season opener,No,No,Season opener,No,No,0,0,,
-2026-09-30,10:00 PM,7:00 PM,LAK,COL,Season opener,No,No,Season opener,No,No,0,0,,
 2026-10-01,7:00 PM,4:00 PM,BUF,CBJ,Season opener,No,No,Season opener,No,No,0,0,,
-2026-10-01,7:00 PM,4:00 PM,PHI,NJD,0,Yes,No,Season opener,No,No,0,0,,
+2026-10-01,7:00 PM,4:00 PM,PHI,NJD,0,Yes,No,Season opener,No,No,1,0,Dan Vladar,
 2026-10-01,7:00 PM,4:00 PM,TBL,NYR,Season opener,No,No,1,No,No,0,1,,Igor Shesterkin
 2026-10-01,8:00 PM,5:00 PM,MIN,NSH,Season opener,No,No,Season opener,No,No,0,0,,
 2026-10-01,9:00 PM,6:00 PM,SEA,CGY,Season opener,No,No,Season opener,No,No,0,0,,
@@ -15,3 +12,16 @@ Date,Start (ET),Start (PT),Away,Home,Away rest days,Away back-to-back,Away 3-in-
 2026-10-02,8:00 PM,5:00 PM,BOS,WPG,2,No,No,Season opener,No,No,1,0,Jeremy Swayman,
 2026-10-02,9:00 PM,6:00 PM,STL,DAL,Season opener,No,No,Season opener,No,No,0,0,,
 2026-10-02,10:00 PM,7:00 PM,ANA,VGK,Season opener,No,No,2,No,No,0,1,,Carter Hart
+2026-10-03,7:00 PM,4:00 PM,CHI,BUF,1,No,No,1,No,No,1,0,Spencer Knight,
+2026-10-03,7:00 PM,4:00 PM,CAR,PHI,0,Yes,No,1,No,Yes,1,1,Brandon Bussi,Dan Vladar
+2026-10-03,7:00 PM,4:00 PM,UTA,CBJ,1,No,No,1,No,No,0,0,,
+2026-10-03,7:00 PM,4:00 PM,SEA,EDM,1,No,No,1,No,No,0,1,,Tristan Jarry
+2026-10-03,7:00 PM,4:00 PM,MTL,PIT,3,No,No,2,No,No,1,1,Jakub Dobes,Arturs Silovs
+2026-10-03,7:00 PM,4:00 PM,OTT,TOR,Season opener,No,No,2,No,No,0,2,,Anthony Stolarz
+2026-10-03,7:00 PM,4:00 PM,WSH,TBL,0,Yes,No,1,No,No,0,0,,
+2026-10-03,7:30 PM,4:30 PM,NJD,NYI,1,No,No,2,No,No,0,1,,Ilya Sorokin
+2026-10-03,8:00 PM,5:00 PM,BOS,MIN,0,Yes,No,1,No,No,1,0,Jeremy Swayman,
+2026-10-03,8:00 PM,5:00 PM,DAL,NSH,0,Yes,No,1,No,No,0,0,,
+2026-10-03,9:00 PM,6:00 PM,STL,COL,0,Yes,No,2,No,No,0,1,,Mackenzie Blackwood
+2026-10-03,10:00 PM,7:00 PM,CGY,VAN,1,No,No,1,No,No,0,1,,Kevin Lankinen
+2026-10-03,10:00 PM,7:00 PM,LAK,SJS,2,No,No,1,No,No,1,0,Darcy Kuemper,
