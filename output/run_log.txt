@@ -1,5 +1,5 @@
-wrote /home/runner/work/nhl-data/nhl-data/output/index.html (348,985 bytes); data through 2026-09-30, built 2026-10-01 06:44 PT
-build 2026-10-01 06:44 PT, season 20262027, prior 20252026
-teams 32, sched games 1344, roster rows 777, skater-game rows 288, goalie-game rows 16, prior skaters 940, MoneyPuck current yes
-{"data_through": "2026-09-30", "built_pt": "2026-10-01 06:44", "season": "20262027", "games_played": 8, "next_game_date": "2026-10-01", "moneypuck_current_season": true}
-rows: schedule 26, goalies 71, teams 32, skaters 706
+wrote /home/runner/work/nhl-data/nhl-data/output/index.html (346,874 bytes); data through 2026-10-01, built 2026-10-02 06:44 PT
+build 2026-10-02 06:44 PT, season 20262027, prior 20252026
+teams 32, sched games 1344, roster rows 773, skater-game rows 576, goalie-game rows 33, prior skaters 940, MoneyPuck current yes
+{"data_through": "2026-10-01", "built_pt": "2026-10-02 06:44", "season": "20262027", "games_played": 16, "next_game_date": "2026-10-02", "moneypuck_current_season": true}
+rows: schedule 23, goalies 71, teams 32, skaters 703
