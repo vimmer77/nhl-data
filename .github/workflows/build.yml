@@ -1,7 +1,8 @@
 name: daily-build
 on:
   schedule:
-    - cron: "17 13 * * *"   # 6:17am PDT / 5:17am PST (off-peak minute; :00/:30 runs get delayed or dropped), ahead of the 8:50am Pacific Claude refresh
+    - cron: "17 14 * * *"   # 7:17am PDT / 6:17am PST (off-peak minute; :00/:30 runs get delayed or dropped)
+    - cron: "17 15 * * *"   # backup run, 8:17am PDT / 7:17am PST; commits nothing if the first run already built, ahead of the 8:50am Pacific Claude refresh
   workflow_dispatch:
     inputs:
       build_date:
