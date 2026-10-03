@@ -1,7 +1,7 @@
 name: daily-build
 on:
   schedule:
-    - cron: "30 13 * * *"   # 6:30am PDT / 5:30am PST, ahead of the 8:50am Pacific Claude refresh
+    - cron: "17 13 * * *"   # 6:17am PDT / 5:17am PST (off-peak minute; :00/:30 runs get delayed or dropped), ahead of the 8:50am Pacific Claude refresh
   workflow_dispatch:
     inputs:
       build_date:
