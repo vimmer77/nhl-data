@@ -1,6 +1,6 @@
 Team,GP,Record (W-L-OTL),PP% this season,PK% this season,PP% last season,PK% last season,5v5 xGF% this season,5v5 HDCF% this season,5v5 PDO this season,5v5 xGF% last season,5v5 HDCF% last season,5v5 PDO last season,Last 10: GF,Last 10: GA,Last 10: shot share %,Recent starting goalies (newest first)
 ANA,1,1-0-0,0.0,66.7,18.6,76.4,57.7,60.0,1.135,51.5,54.0,0.981,4,3,40.0,Lukas Dostal
-BOS,3,2-1-0,0.0,57.1,23.4,77.0,57.6,66.7,1.031,47.4,45.3,1.023,8,7,47.9,Michael DiPietro / Jeremy Swayman / Jeremy Swayman
+BOS,3,2-1-0,0.0,57.1,23.4,77.0,57.7,66.7,1.031,47.4,45.3,1.023,8,7,47.9,Michael DiPietro / Jeremy Swayman / Jeremy Swayman
 BUF,2,1-1-0,0.0,60.0,19.5,81.9,56.1,66.7,0.891,50.2,49.2,1.02,7,9,58.7,Ukko-Pekka Luukkonen / Ukko-Pekka Luukkonen
 CAR,3,1-1-1,18.8,92.3,24.9,80.5,48.6,62.5,0.916,56.7,58.6,0.984,5,8,57.5,Pyotr Kochetkov / Brandon Bussi / Brandon Bussi
 CBJ,2,1-1-0,40.0,66.7,18.9,76.0,52.3,66.7,1.06,52.2,54.1,1.003,7,7,41.8,Jet Greaves / Jet Greaves
@@ -8,7 +8,7 @@ CGY,2,0-2-0,33.3,90.0,16.2,80.4,41.6,0.0,0.867,47.0,45.0,0.985,2,10,45.8,Devin C
 CHI,3,0-3-0,0.0,66.7,16.9,83.6,37.6,20.0,0.983,42.7,42.4,0.996,5,15,36.6,Spencer Knight / Arvid Soderblom / Spencer Knight
 COL,2,2-0-0,44.4,100.0,17.1,84.6,60.1,80.0,1.157,57.7,59.0,1.021,14,5,53.3,Mackenzie Blackwood / Mackenzie Blackwood
 DAL,2,0-2-0,0.0,71.4,28.6,80.3,45.8,0.0,0.973,51.0,51.5,1.024,1,6,52.4,Casey DeSmith / Jake Oettinger
-DET,1,0-1-0,0.0,75.0,22.6,77.1,45.4,50.0,1.0,48.6,48.6,0.985,0,2,51.2,John Gibson
+DET,1,0-2-0,14.3,50.0,22.6,77.1,54.3,50.0,1.024,48.6,48.6,0.985,0,2,51.2,John Gibson
 EDM,3,2-0-1,25.0,57.1,30.6,77.8,58.4,61.5,0.981,51.6,51.4,0.982,17,14,58.9,Devon Levi / Devon Levi / Tristan Jarry
 FLA,2,1-0-1,7.7,90.0,19.5,81.0,67.5,100.0,1.024,49.4,45.7,0.989,4,4,49.5,Akira Schmid / Jacob Markstrom
 LAK,2,0-1-1,28.6,28.6,17.0,74.6,57.2,50.0,0.888,52.1,56.0,1.002,8,13,55.0,Anton Forsberg / Darcy Kuemper
@@ -17,17 +17,17 @@ MTL,2,1-0-1,0.0,71.4,23.1,78.2,54.5,75.0,1.015,48.2,44.1,1.018,8,8,45.8,Jakub Do
 NJD,2,1-1-0,0.0,75.0,22.0,79.3,61.9,50.0,0.913,49.2,46.6,0.971,3,8,58.7,Nico Daws / Jake Allen
 NSH,2,1-1-0,28.6,80.0,23.1,81.7,38.8,0.0,0.958,48.5,52.3,0.992,3,4,43.4,Juuse Saros / Juuse Saros
 NYI,2,1-1-0,14.3,88.9,16.5,80.8,48.6,66.7,1.072,47.7,45.4,0.993,7,2,48.4,Ilya Sorokin / Ilya Sorokin
-NYR,3,2-1-0,28.6,100.0,24.7,79.9,50.5,80.0,0.995,48.4,48.7,1.009,6,4,50.0,Dylan Garand / Igor Shesterkin / Igor Shesterkin
+NYR,3,2-1-0,28.6,100.0,24.7,79.9,50.9,80.0,0.994,48.4,48.7,1.009,6,4,50.0,Dylan Garand / Igor Shesterkin / Igor Shesterkin
 OTT,1,1-0-0,0.0,75.0,24.0,75.7,60.1,83.3,1.125,56.2,58.4,0.993,3,2,50.0,Linus Ullmark
 PHI,3,0-1-2,0.0,66.7,15.7,77.6,27.3,20.0,0.992,50.5,47.9,1.008,4,13,33.7,Joseph Woll / Joseph Woll / Dan Vladar
 PIT,2,2-0-0,50.0,100.0,24.1,81.4,63.4,60.0,1.071,51.7,51.7,1.012,13,5,60.7,Arturs Silovs / Arturs Silovs
 SEA,2,1-1-0,28.6,100.0,19.5,72.2,51.6,33.3,1.043,45.6,45.8,1.011,7,4,51.0,Philipp Grubauer / Joey Daccord
 SJS,2,2-0-0,33.3,66.7,21.2,76.4,32.0,0.0,1.02,47.5,49.7,0.998,9,7,48.3,Yaroslav Askarov / Yaroslav Askarov
 STL,2,1-1-0,0.0,100.0,17.6,76.7,46.3,75.0,0.945,49.1,47.0,1.0,5,6,45.0,Jordan Binnington / Joel Hofer
-TBL,2,1-1-0,0.0,75.0,20.7,82.6,53.8,0.0,0.96,53.9,56.8,1.019,4,5,54.5,Andrei Vasilevskiy / Andrei Vasilevskiy
+TBL,2,1-1-0,0.0,75.0,20.7,82.6,53.4,0.0,0.962,53.9,56.8,1.019,4,5,54.5,Andrei Vasilevskiy / Andrei Vasilevskiy
 TOR,3,1-2-0,18.2,100.0,21.3,81.2,42.9,14.3,0.958,45.3,43.5,1.002,6,7,50.9,Sergei Bobrovsky / Anthony Stolarz / Sergei Bobrovsky
 UTA,2,2-0-0,71.4,100.0,20.0,78.1,57.1,57.1,1.067,52.6,51.9,1.003,10,1,65.6,Sebastian Cossa / Karel Vejmelka
 VAN,3,2-1-0,20.0,63.6,21.8,71.5,46.6,50.0,1.086,43.4,46.8,0.974,17,15,43.6,Leevi Merilainen / Kevin Lankinen / Kevin Lankinen
 VGK,2,1-1-0,33.3,100.0,24.6,81.4,51.0,50.0,0.943,54.0,54.1,0.983,8,6,59.3,Carter Hart / Carter Hart
-WPG,1,0-0-1,33.3,100.0,18.5,77.6,40.3,0.0,1.003,47.8,44.3,0.998,3,4,52.4,Stuart Skinner
+WPG,1,1-0-1,57.1,85.7,18.5,77.6,39.9,33.3,0.984,47.8,44.3,0.998,3,4,52.4,Stuart Skinner
 WSH,2,1-1-0,25.0,88.9,17.8,80.1,53.2,66.7,1.068,49.9,47.8,1.018,6,5,43.2,Charlie Lindgren / Logan Thompson
