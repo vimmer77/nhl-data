@@ -206,13 +206,13 @@ Axel Sandin-Pellikka,DET,D,Top-4 D,,last season,16.2,1.7,2,0,0,0,5,16.0,2.0,2,0,
 Viktor Arvidsson,DET,L,Depth F,Yes,last season,14.6,2.0,2,1,0,1,5,18.8,4.2,2,1,1,5,Not enough games,,69,14.6,8478042
 Marco Kasper,DET,C,Depth F,,last season,13.8,0.8,1,0,0,0,4,10.8,1.0,1,0,0,4,Not enough games,,81,13.8,8483464
 Mason Appleton,DET,C,Depth F,,last season,13.5,0.1,2,0,0,0,1,9.8,0.0,2,0,0,1,Not enough games,,65,13.5,8478891
+Michael Rasmussen,DET,C,Depth F,,last season,12.6,0.2,2,0,0,0,4,15.5,1.8,2,0,0,4,Not enough games,,64,12.6,8479992
 Michael Brandsegg-Nygård,DET,R,Depth F,,last season,12.5,1.1,2,0,1,1,9,14.6,1.8,2,0,1,9,Not enough games,,14,12.5,8484794
 Keegan Kolesar,DET,R,Depth F,,last season,11.5,0.1,2,0,0,0,0,10.6,0.1,2,0,0,0,Not enough games,,82,11.5,8478434
 Nate Danielson,DET,C,Depth F,,last season,11.1,1.5,2,0,0,0,1,8.9,0.5,2,0,0,1,Not enough games,,28,11.1,8484160
 Carter Mazur,DET,L,Depth F,,last season,10.7,0.1,0,0,0,0,0,,,0,0,0,0,Not enough games,,8,10.7,8482802
 Albert Johansson,DET,D,Depth D,,last season,15.9,0.2,2,0,0,0,1,15.0,0.0,2,0,0,1,Not enough games,,82,15.9,8481607
 Jacob Bernard-Docker,DET,D,Depth D,,last season,14.8,0.0,0,0,0,0,0,,,0,0,0,0,Not enough games,,63,14.8,8480879
-Michael Rasmussen,DET,C,Depth D,,last season,12.6,0.2,2,0,0,0,4,15.5,1.8,2,0,0,4,Not enough games,,64,12.6,8479992
 Andreas Englund,DET,D,Depth D,,last season,8.8,0.0,1,0,0,0,0,7.2,0.0,1,0,0,0,Not enough games,,3,8.8,8477971
 Anton Johansson,DET,D,Depth (no NHL data),,no NHL data,0.0,0.0,2,0,0,0,0,16.3,0.1,2,0,0,0,Not enough games,,0,0.0,8483679
 William Wallinder,DET,D,Depth (no NHL data),,no NHL data,0.0,0.0,0,0,0,0,0,,,0,0,0,0,Not enough games,,0,0.0,8482171
@@ -354,6 +354,7 @@ Steven Stamkos,NSH,C,Top-6 F,Yes,last season,17.8,3.2,2,1,1,2,5,19.4,4.4,2,1,2,5
 Jonathan Marchessault,NSH,C,Top-6 F,Yes,last season,16.7,2.8,2,0,0,0,3,16.8,2.7,2,0,0,3,Not enough games,,62,16.7,8476539
 Mavrik Bourque,NSH,C,Top-6 F,,last season,15.5,1.1,2,0,0,0,6,17.8,2.3,2,0,0,6,Not enough games,,82,15.5,8482145
 Jack Drury,NSH,C,Top-6 F,,last season,14.5,0.2,2,0,0,0,0,13.2,0.0,2,0,0,0,Not enough games,,82,14.5,8480835
+Ryan Ufko,NSH,D,Top-6 F,Yes,last season,13.9,1.6,1,0,0,0,1,15.4,2.9,1,0,0,1,Not enough games,,18,13.9,8482715
 Nicolas Hague,NSH,D,Top-4 D,,last season,19.6,0.1,2,0,0,0,0,18.2,0.0,2,0,0,0,Not enough games,,62,19.6,8479980
 Nick Perbix,NSH,D,Top-4 D,,last season,19.1,0.1,2,0,0,0,1,18.4,0.1,2,0,0,1,Not enough games,,79,19.1,8480246
 Alexander Kerfoot,NSH,C,Depth F,,last season,12.8,0.4,2,0,1,1,2,14.9,2.2,2,0,1,2,Not enough games,,34,12.8,8477021
@@ -364,7 +365,6 @@ Reid Schaefer,NSH,L,Depth F,,last season,9.6,0.0,1,0,0,0,1,11.6,0.0,1,0,0,1,Not 
 Adam Edstrom,NSH,C,Depth F,,last season,9.5,0.0,2,0,0,0,5,12.4,0.0,2,0,0,5,Not enough games,,35,9.5,8481726
 Adam Wilsby,NSH,D,Depth D,,last season,17.0,0.0,2,0,0,0,1,15.3,0.0,2,0,0,1,Not enough games,,58,17.0,8482482
 Ilya Lyubushkin,NSH,D,Depth D,,last season,15.7,0.0,0,0,0,0,0,,,0,0,0,0,Not enough games,,53,15.7,8480950
-Ryan Ufko,NSH,D,Depth D,,last season,13.9,1.6,1,0,0,0,1,15.4,2.9,1,0,0,1,Not enough games,,18,13.9,8482715
 Jack Ahcan,NSH,D,Depth D,,last season,11.5,0.0,1,0,1,1,0,5.8,1.5,1,0,1,0,Not enough games,,11,11.5,8482072
 Vitali Pinchuk,NSH,C,Depth (no NHL data),,no NHL data,0.0,0.0,0,0,0,0,0,,,0,0,0,0,Not enough games,,0,0.0,8486189
 William Trudeau,NSH,D,Depth (no NHL data),,no NHL data,0.0,0.0,1,0,0,0,1,12.2,0.0,1,0,0,1,Not enough games,,0,0.0,8482806
@@ -434,7 +434,7 @@ Nikolas Matinpalo,OTT,D,Depth D,,last season,15.6,0.0,2,0,0,0,2,19.5,0.0,2,0,0,2
 Cameron Crotty,OTT,D,Depth D,,last season,14.9,0.0,1,0,0,0,0,10.9,0.1,1,0,0,0,Not enough games,,6,14.9,8480075
 Carter Yakemchuk,OTT,D,Depth D,,last season,14.5,1.7,2,0,0,0,2,16.4,3.2,2,0,0,2,Not enough games,,4,14.5,8484759
 Trevor Zegras,PHI,C,Top-line C,Yes,last games,18.7,3.4,4,0,1,1,2,18.7,3.4,4,0,1,2,Not enough games,,81,18.7,8481533
-Travis Sanheim,PHI,D,Top-pair D,,last games,24.5,0.3,4,1,1,2,8,24.5,0.3,4,1,2,8,Not enough games,,81,24.2,8477948
+Travis Sanheim,PHI,D,Top-pair D,,last games,24.5,0.3,4,1,1,2,9,24.5,0.3,4,1,2,9,Not enough games,,81,24.2,8477948
 Cam York,PHI,D,Top-pair D,,last games,22.7,1.7,4,0,0,0,4,22.7,1.7,4,0,0,4,Not enough games,,74,22.5,8481546
 Tyson Foerster,PHI,R,Top-6 F,Yes,last games,18.4,3.3,4,1,0,1,10,18.4,3.3,4,1,1,10,Not enough games,,29,17.3,8482159
 Travis Konecny,PHI,R,Top-6 F,Yes,last games,16.7,3.1,4,0,2,2,6,16.7,3.1,4,0,2,6,Not enough games,,77,19.1,8478439
