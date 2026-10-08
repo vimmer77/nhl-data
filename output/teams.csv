@@ -1,17 +1,17 @@
 Team,GP,Record (W-L-OTL),PP% this season,PK% this season,PP% last season,PK% last season,5v5 xGF% this season,5v5 HDCF% this season,5v5 PDO this season,5v5 xGF% last season,5v5 HDCF% last season,5v5 PDO last season,Last 10: GF,Last 10: GA,Last 10: shot share %,Recent starting goalies (newest first)
-ANA,2,2-0-0,50.0,85.7,18.6,76.4,47.3,37.5,1.056,51.5,54.0,0.981,7,5,39.6,Lukas Dostal / Lukas Dostal
+ANA,3,2-1-0,38.5,81.8,18.6,76.4,47.4,40.0,0.967,51.5,54.0,0.981,9,10,47.0,Lukas Dostal / Lukas Dostal / Lukas Dostal
 BOS,4,2-2-0,0.0,72.7,23.4,77.0,54.8,50.0,1.009,47.4,45.3,1.023,9,11,47.1,Jeremy Swayman / Michael DiPietro / Jeremy Swayman / Jeremy Swayman
 BUF,3,2-1-0,0.0,66.7,19.5,81.9,57.3,77.8,0.948,50.2,49.2,1.02,10,11,58.6,Colten Ellis / Ukko-Pekka Luukkonen / Ukko-Pekka Luukkonen
 CAR,4,2-1-1,19.0,89.5,24.9,80.5,54.4,58.3,0.943,56.7,58.6,0.984,11,12,58.7,Brandon Bussi / Pyotr Kochetkov / Brandon Bussi / Brandon Bussi
 CBJ,2,1-1-0,40.0,66.7,18.9,76.0,52.3,66.7,1.056,52.2,54.1,1.003,7,7,42.4,Jet Greaves / Jet Greaves
 CGY,3,0-3-0,40.0,90.0,16.2,80.4,42.2,0.0,0.833,47.0,45.0,0.985,3,16,49.1,Dustin Wolf / Devin Cooley / Dustin Wolf
-CHI,4,1-3-0,11.1,63.6,16.9,83.6,37.1,20.0,0.989,42.7,42.4,0.996,9,17,38.1,Spencer Knight / Spencer Knight / Arvid Soderblom / Spencer Knight
-COL,2,2-0-0,44.4,100.0,17.1,84.6,60.1,80.0,1.157,57.7,59.0,1.021,14,5,53.3,Mackenzie Blackwood / Mackenzie Blackwood
+CHI,4,1-3-0,11.1,63.6,16.9,83.6,37.1,20.0,0.989,42.7,42.4,0.996,9,17,38.3,Spencer Knight / Spencer Knight / Arvid Soderblom / Spencer Knight
+COL,3,2-1-0,40.0,100.0,17.1,84.6,58.7,71.4,1.077,57.7,59.0,1.021,16,8,56.6,Mackenzie Blackwood / Mackenzie Blackwood / Mackenzie Blackwood
 DAL,3,1-2-0,0.0,77.8,28.6,80.3,56.7,40.0,1.061,51.0,51.5,1.024,6,6,56.2,Jake Oettinger / Casey DeSmith / Jake Oettinger
 DET,3,1-2-0,25.0,61.5,22.6,77.1,56.9,50.0,1.018,48.6,48.6,0.985,7,8,56.3,John Gibson / John Gibson / John Gibson
-EDM,3,2-0-1,25.0,57.1,30.6,77.8,58.4,61.5,0.981,51.6,51.4,0.982,17,14,59.1,Devon Levi / Devon Levi / Tristan Jarry
-FLA,4,2-0-2,4.3,78.9,19.5,81.0,66.5,100.0,1.032,49.4,45.7,0.989,8,8,54.5,Jacob Markstrom / Jacob Markstrom / Akira Schmid / Jacob Markstrom
-LAK,3,0-2-1,16.7,61.5,17.0,74.6,53.2,50.0,0.913,52.1,56.0,1.002,9,15,51.5,Darcy Kuemper / Anton Forsberg / Darcy Kuemper
+EDM,4,3-0-1,25.0,64.3,30.6,77.8,57.1,60.0,1.045,51.6,51.4,0.982,22,16,54.1,Devon Levi / Devon Levi / Devon Levi / Tristan Jarry
+FLA,4,2-0-2,4.3,78.9,19.5,81.0,66.5,100.0,1.032,49.4,45.7,0.989,8,8,54.9,Jacob Markstrom / Jacob Markstrom / Akira Schmid / Jacob Markstrom
+LAK,3,0-2-1,16.7,61.5,17.0,74.6,53.2,50.0,0.913,52.1,56.0,1.002,9,15,50.9,Darcy Kuemper / Anton Forsberg / Darcy Kuemper
 MIN,3,2-0-1,36.4,100.0,25.2,79.8,50.9,20.0,0.993,51.9,57.4,1.007,9,5,51.6,Jesper Wallstedt / Jesper Wallstedt / Jesper Wallstedt
 MTL,3,1-1-1,10.0,75.0,23.1,78.2,46.1,62.5,1.012,48.2,44.1,1.018,12,14,43.1,Jakub Dobes / Jakub Dobes / Jakub Dobes
 NJD,3,1-2-0,7.1,62.5,22.0,79.3,55.5,45.5,0.919,49.2,46.6,0.971,6,13,56.4,Jake Allen / Nico Daws / Jake Allen
@@ -20,14 +20,14 @@ NYI,3,1-2-0,18.2,83.3,16.5,80.8,48.3,50.0,1.037,47.7,45.4,0.993,9,7,47.3,Semyon 
 NYR,5,4-1-0,21.4,87.5,24.7,79.9,50.0,60.0,1.035,48.4,48.7,1.009,15,8,49.4,Igor Shesterkin / Igor Shesterkin / Dylan Garand / Igor Shesterkin / Igor Shesterkin
 OTT,3,2-1-0,7.7,76.9,24.0,75.7,52.0,72.7,1.063,56.2,58.4,0.993,10,8,48.1,Samuel Ersson / Linus Ullmark / Linus Ullmark
 PHI,4,0-2-2,0.0,73.3,15.7,77.6,26.7,15.4,0.991,50.5,47.9,1.008,5,17,32.8,Dan Vladar / Joseph Woll / Joseph Woll / Dan Vladar
-PIT,3,2-1-0,40.0,100.0,24.1,81.4,55.6,57.1,1.036,51.7,51.7,1.012,15,8,55.6,Sergei Murashov / Arturs Silovs / Arturs Silovs
+PIT,4,2-2-0,30.8,90.0,24.1,81.4,54.1,58.3,1.008,51.7,51.7,1.012,18,13,54.9,Arturs Silovs / Sergei Murashov / Arturs Silovs / Arturs Silovs
 SEA,4,2-2-0,25.0,72.7,19.5,72.2,50.0,62.5,1.071,45.6,45.8,1.011,15,11,48.6,Joey Daccord / Joey Daccord / Philipp Grubauer / Joey Daccord
 SJS,3,2-1-0,25.0,75.0,21.2,76.4,29.5,14.3,0.946,47.5,49.7,0.998,9,12,44.6,Yaroslav Askarov / Yaroslav Askarov / Yaroslav Askarov
-STL,3,1-2-0,12.5,90.0,17.6,76.7,51.6,75.0,0.949,49.1,47.0,1.0,7,10,48.8,Joel Hofer / Jordan Binnington / Joel Hofer
+STL,3,1-2-0,12.5,90.0,17.6,76.7,51.6,75.0,0.949,49.1,47.0,1.0,7,10,48.4,Joel Hofer / Jordan Binnington / Joel Hofer
 TBL,3,2-1-0,0.0,85.7,20.7,82.6,61.7,50.0,0.976,53.9,56.8,1.019,8,6,60.0,Andrei Vasilevskiy / Andrei Vasilevskiy / Andrei Vasilevskiy
 TOR,4,2-2-0,21.4,90.9,21.3,81.2,43.5,10.0,0.962,45.3,43.5,1.002,11,11,53.3,Anthony Stolarz / Sergei Bobrovsky / Anthony Stolarz / Sergei Bobrovsky
 UTA,4,3-1-0,61.5,92.9,20.0,78.1,56.7,69.2,1.008,52.6,51.9,1.003,17,8,58.2,Karel Vejmelka / Karel Vejmelka / Sebastian Cossa / Karel Vejmelka
 VAN,4,2-2-0,23.1,68.8,21.8,71.5,40.6,41.2,1.062,43.4,46.8,0.974,19,18,43.1,Kevin Lankinen / Leevi Merilainen / Kevin Lankinen / Kevin Lankinen
 VGK,4,3-1-0,31.2,83.3,24.6,81.4,59.6,52.9,0.995,54.0,54.1,0.983,17,10,56.9,Carter Hart / Adin Hill / Carter Hart / Carter Hart
-WPG,3,2-0-1,50.0,88.9,18.5,77.6,45.7,40.0,1.0,47.8,44.3,0.998,9,8,49.5,Clay Stevenson / Stuart Skinner / Stuart Skinner
-WSH,2,1-1-0,25.0,88.9,17.8,80.1,53.0,66.7,1.068,49.9,47.8,1.018,6,5,43.2,Charlie Lindgren / Logan Thompson
+WPG,4,3-0-1,40.0,90.0,18.5,77.6,45.3,42.9,1.017,47.8,44.3,0.998,12,10,46.5,Stuart Skinner / Clay Stevenson / Stuart Skinner / Stuart Skinner
+WSH,3,2-1-0,25.0,91.7,17.8,80.1,51.8,50.0,1.073,49.9,47.8,1.018,11,8,44.6,Logan Thompson / Charlie Lindgren / Logan Thompson

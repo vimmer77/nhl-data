@@ -1,7 +1,4 @@
 Date,Start (ET),Start (PT),Away,Home,Away rest days,Away back-to-back,Away 3-in-4,Home rest days,Home back-to-back,Home 3-in-4,Away GP,Home GP,Away last starting goalie,Home last starting goalie
-2026-10-07,7:30 PM,4:30 PM,COL,WPG,3,No,No,1,No,Yes,2,3,Mackenzie Blackwood,Clay Stevenson
-2026-10-07,7:30 PM,4:30 PM,PIT,WSH,1,No,No,3,No,No,3,2,Sergei Murashov,Charlie Lindgren
-2026-10-07,10:00 PM,7:00 PM,EDM,ANA,3,No,No,2,No,No,3,2,Devon Levi,Lukas Dostal
 2026-10-08,7:00 PM,4:00 PM,UTA,BOS,1,No,No,2,No,No,4,4,Karel Vejmelka,Jeremy Swayman
 2026-10-08,7:00 PM,4:00 PM,DAL,BUF,2,No,No,1,No,No,3,3,Jake Oettinger,Colten Ellis
 2026-10-08,7:00 PM,4:00 PM,VAN,CAR,3,No,No,1,No,No,4,4,Kevin Lankinen,Brandon Bussi
@@ -10,9 +7,23 @@ Date,Start (ET),Start (PT),Away,Home,Away rest days,Away back-to-back,Away 3-in-
 2026-10-08,7:00 PM,4:00 PM,PHI,OTT,2,No,No,1,No,Yes,4,3,Dan Vladar,Samuel Ersson
 2026-10-08,7:30 PM,4:30 PM,CHI,NYI,1,No,No,1,No,No,4,3,Spencer Knight,Semyon Varlamov
 2026-10-08,8:00 PM,5:00 PM,SJS,STL,2,No,No,1,No,No,3,3,Yaroslav Askarov,Joel Hofer
-2026-10-08,9:00 PM,6:00 PM,COL,CGY,0,Yes,No,3,No,No,2,3,Mackenzie Blackwood,Dustin Wolf
+2026-10-08,9:00 PM,6:00 PM,COL,CGY,0,Yes,No,3,No,No,3,3,Mackenzie Blackwood,Dustin Wolf
 2026-10-08,10:00 PM,7:00 PM,TOR,VGK,1,No,No,1,No,No,4,4,Anthony Stolarz,Carter Hart
-2026-10-09,7:00 PM,4:00 PM,PIT,CBJ,1,No,No,5,No,No,3,2,Sergei Murashov,Jet Greaves
+2026-10-09,7:00 PM,4:00 PM,PIT,CBJ,1,No,No,5,No,No,4,2,Arturs Silovs,Jet Greaves
 2026-10-09,7:00 PM,4:00 PM,SEA,DET,2,No,No,2,No,No,4,3,Joey Daccord,John Gibson
-2026-10-09,7:00 PM,4:00 PM,NYR,WSH,2,No,No,1,No,No,5,2,Igor Shesterkin,Charlie Lindgren
-2026-10-09,8:00 PM,5:00 PM,ANA,WPG,1,No,No,1,No,No,2,3,Lukas Dostal,Clay Stevenson
+2026-10-09,7:00 PM,4:00 PM,NYR,WSH,2,No,No,1,No,No,5,3,Igor Shesterkin,Logan Thompson
+2026-10-09,8:00 PM,5:00 PM,ANA,WPG,1,No,No,1,No,No,3,4,Lukas Dostal,Stuart Skinner
+2026-10-10,1:00 PM,10:00 AM,PHI,BOS,1,No,No,1,No,No,4,4,Dan Vladar,Jeremy Swayman
+2026-10-10,3:30 PM,12:30 PM,VAN,NJD,1,No,No,3,No,No,4,3,Kevin Lankinen,Jake Allen
+2026-10-10,4:00 PM,1:00 PM,EDM,SJS,2,No,No,1,No,No,4,3,Devon Levi,Yaroslav Askarov
+2026-10-10,6:00 PM,3:00 PM,MIN,FLA,1,No,No,3,No,No,3,4,Jesper Wallstedt,Jacob Markstrom
+2026-10-10,7:00 PM,4:00 PM,UTA,BUF,1,No,No,1,No,No,4,3,Karel Vejmelka,Colten Ellis
+2026-10-10,7:00 PM,4:00 PM,CAR,CHI,1,No,No,1,No,No,4,4,Brandon Bussi,Spencer Knight
+2026-10-10,7:00 PM,4:00 PM,CBJ,STL,0,Yes,No,1,No,No,2,3,Jet Greaves,Joel Hofer
+2026-10-10,7:00 PM,4:00 PM,TOR,COL,1,No,No,1,No,Yes,4,3,Anthony Stolarz,Mackenzie Blackwood
+2026-10-10,7:00 PM,4:00 PM,DAL,PIT,1,No,No,0,Yes,Yes,3,4,Jake Oettinger,Arturs Silovs
+2026-10-10,7:00 PM,4:00 PM,DET,MTL,0,Yes,No,1,No,No,3,3,John Gibson,Jakub Dobes
+2026-10-10,7:00 PM,4:00 PM,NSH,OTT,1,No,No,1,No,No,3,3,Juuse Saros,Samuel Ersson
+2026-10-10,7:30 PM,4:30 PM,TBL,NYI,1,No,No,1,No,No,3,3,Andrei Vasilevskiy,Semyon Varlamov
+2026-10-10,10:00 PM,7:00 PM,ANA,CGY,0,Yes,Yes,1,No,No,3,3,Lukas Dostal,Dustin Wolf
+2026-10-10,10:00 PM,7:00 PM,LAK,VGK,3,No,No,1,No,No,3,4,Darcy Kuemper,Carter Hart
