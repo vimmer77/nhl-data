@@ -292,14 +292,16 @@ def team_game_rows(sk):
 
 def mp_team5(df):
     if df is None or not len(df):
-        return pd.DataFrame(columns=["team", "xgf", "hdcf", "pdo", "gp5"])
+        return pd.DataFrame(columns=["team", "xgf", "hdcf", "pdo", "gp5", "xgf60", "xga60"])
     a = df[df["situation"] == "5on5"]
     xf, xa = a["flurryScoreVenueAdjustedxGoalsFor"], a["flurryScoreVenueAdjustedxGoalsAgainst"]
     hf, ha = a["highDangerShotsFor"], a["highDangerShotsAgainst"]
     sh = a["goalsFor"] / a["shotsOnGoalFor"]
     sv = 1 - a["goalsAgainst"] / a["shotsOnGoalAgainst"]
+    ice = a["iceTime"].where(a["iceTime"] > 0)  # seconds of 5v5 ice time
     return pd.DataFrame({"team": a["team"], "xgf": 100 * xf / (xf + xa), "hdcf": 100 * hf / (hf + ha),
-                         "pdo": sh + sv, "gp5": a["games_played"]})
+                         "pdo": sh + sv, "gp5": a["games_played"],
+                         "xgf60": 3600 * xf / ice, "xga60": 3600 * xa / ice})
 
 
 def team_table(teams, ts_cur, ts_pri, mp_cur, mp_pri, sk, gl):
@@ -334,6 +336,9 @@ def team_table(teams, ts_cur, ts_pri, mp_cur, mp_pri, sk, gl):
         "5v5 PDO last season": df["pdo_pri"].round(3),
         "Last 10: GF": df["l10_gf"], "Last 10: GA": df["l10_ga"], "Last 10: shot share %": df["l10_sog"].round(1),
         "Recent starting goalies (newest first)": df["recent_starters"],
+        # added 2026-10-09 for the betting model's offense-vs-defense matchups (score- and venue-adjusted, per 60 min of 5v5)
+        "5v5 xGF/60 this season": df["xgf60"].round(3), "5v5 xGA/60 this season": df["xga60"].round(3),
+        "5v5 xGF/60 last season": df["xgf60_pri"].round(3), "5v5 xGA/60 last season": df["xga60_pri"].round(3),
     })
 
 
@@ -508,8 +513,9 @@ README_NOTES = [
                     "minutes of league-average play so a few hot games can't make someone Elite. Ranked goalies "
                     f"(at least {GOALIE_QUALIFY_MIN} weighted minutes): top 5 Elite, rest of top third Above-average, "
                     "middle third Average, bottom third Replacement-level. Others are marked small sample."),
-    ("Teams tab", "5v5 xGF% is MoneyPuck's score- and venue-adjusted expected-goals share. Context only: these "
-                  "numbers never move a probability in the model."),
+    ("Teams tab", "5v5 xGF% is MoneyPuck's score- and venue-adjusted expected-goals share; xGF/60 and xGA/60 are the "
+                  "same expected goals for and against per 60 minutes of 5v5 play. Context only: these numbers never move "
+                  "the market-anchored probability; the informational Option B2 estimate uses the per-60 rates for matchups."),
     ("Schedule tab", "Today and the next two days. Rest days: 0 = second night of a back-to-back. "
                      "'Last starting goalie' helps judge who the market expects in net."),
     ("Skaters tab", "Role comes from ice time (recent games when available): top-line C, top-pair D, top-6 F, "
