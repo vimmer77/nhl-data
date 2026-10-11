@@ -95,7 +95,7 @@ Kent Johnson,CBJ,C,Top-6 F,Yes,last games,16.8,2.9,4,2,1,3,11,16.8,2.9,4,2,3,11,
 Sean Monahan,CBJ,C,Top-6 F,,last games,16.8,1.4,4,1,1,2,6,16.8,1.4,4,1,2,6,Not enough games,,78,17.1,8477497
 Valeri Nichushkin,CBJ,R,Top-6 F,,last games,16.2,1.3,4,1,1,2,7,16.2,1.3,4,1,2,7,Not enough games,,72,17.7,8477501
 Ivan Provorov,CBJ,D,Top-4 D,,last season,24.8,1.1,0,0,0,0,0,,,0,0,0,0,Not enough games,,82,24.8,8478500
-Damon Severson,CBJ,D,Top-4 D,,last season,21.1,1.1,2,1,1,2,4,23.5,0.2,2,1,2,4,Not enough games,,71,21.1,8476923
+Damon Severson,CBJ,D,Depth F,,last season,21.1,1.1,2,1,1,2,4,23.5,0.2,2,1,2,4,Not enough games,,71,21.1,8476923
 Cole Sillinger,CBJ,C,Depth F,,last games,15.3,0.0,4,2,2,4,8,15.3,0.0,4,2,4,8,Not enough games,,81,15.2,8482705
 Mathieu Olivier,CBJ,R,Depth F,,last games,14.6,0.0,4,2,0,2,9,14.6,0.0,4,2,2,9,Not enough games,,61,14.2,8479671
 Conor Garland,CBJ,R,Depth F,,last games,12.4,1.1,4,0,0,0,1,12.4,1.1,4,0,0,1,Not enough games,,71,17.2,8478856
@@ -134,7 +134,7 @@ Jonathan Castagna,CGY,C,Depth (no NHL data),,no NHL data,0.0,0.0,2,0,1,1,1,9.5,0
 Connor Bedard,CHI,C,Top-line C,Yes,last season,20.9,3.5,0,0,0,0,0,,,0,0,0,0,Not enough games,,69,20.9,8484144
 Bowen Byram,CHI,D,Top-pair D,Yes,last games,24.7,3.3,5,0,0,0,5,24.7,3.3,5,0,0,5,Not enough games,,82,22.3,8481524
 Artyom Levshunov,CHI,D,Top-pair D,,last games,19.9,0.3,6,0,1,1,9,19.9,0.3,6,0,1,9,Not enough games,,68,19.6,8484783
-Dominic Toninato,CHI,C,Top-pair D,,last season,9.2,0.0,2,0,0,0,1,9.1,0.0,2,0,0,1,Not enough games,,8,9.2,8476952
+Dominic Toninato,CHI,C,Top-pair D,Yes,last season,9.2,0.0,2,0,0,0,1,9.1,0.0,2,0,0,1,Not enough games,,8,9.2,8476952
 Patrick Kane,CHI,R,Top-6 F,Yes,last games,19.5,2.9,6,1,1,2,11,19.5,2.9,6,1,2,11,Not enough games,,67,17.7,8474141
 Frank Nazar,CHI,C,Top-6 F,,last games,18.8,1.7,5,2,1,3,9,18.8,1.7,5,2,3,9,Not enough games,,66,18.3,8483493
 Roman Kantserov,CHI,R,Top-6 F,Yes,last games,18.3,2.9,6,1,0,1,8,18.3,2.9,6,1,1,8,Not enough games,,0,0.0,8484390
@@ -402,7 +402,6 @@ Matthew Kessel,NYI,D,Depth D,,last season,12.5,0.0,0,0,0,0,0,,,0,0,0,0,Not enoug
 Mika Zibanejad,NYR,C,Top-line C,Yes,last games,20.4,3.3,6,1,4,5,11,20.4,3.3,6,1,5,11,Not enough games,,81,20.9,8476459
 Adam Fox,NYR,D,Top-pair D,Yes,last games,21.5,3.3,6,0,5,5,3,21.5,3.3,6,0,5,3,Not enough games,,55,23.6,8479323
 Vladislav Gavrikov,NYR,D,Top-pair D,,last games,21.4,0.0,6,1,3,4,10,21.4,0.0,6,1,4,10,Not enough games,,82,23.7,8478882
-Alexis Lafrenière,NYR,L,Top-6 F,Yes,last games,19.1,3.2,6,4,2,6,12,19.1,3.2,6,4,6,12,Not enough games,,82,17.6,8482109
 J.T. Miller,NYR,C,Top-6 F,Yes,last games,17.8,2.7,6,1,2,3,9,17.8,2.7,6,1,3,9,Not enough games,,68,20.1,8476468
 Pavel Dorofeyev,NYR,R,Top-6 F,Yes,last games,16.8,3.2,6,1,2,3,19,16.8,3.2,6,1,3,19,Not enough games,,82,17.6,8481604
 Will Cuylle,NYR,L,Top-6 F,,last games,15.4,1.4,6,0,3,3,15,15.4,1.4,6,0,3,15,Not enough games,,82,16.9,8482157
@@ -417,6 +416,7 @@ Adam Sykora,NYR,L,Depth F,,last season,11.2,0.1,0,0,0,0,0,,,0,0,0,0,Not enough g
 Oliver Bjorkstrand,NYR,R,Depth F,,last games,11.1,1.0,6,2,1,3,9,11.1,1.0,6,2,3,9,Not enough games,,80,13.6,8477416
 Matt Rempe,NYR,C,Depth F,,last season,8.6,0.3,1,0,0,0,1,9.8,0.0,1,0,0,1,Not enough games,,26,8.6,8482460
 Jaroslav Chmelar,NYR,R,Depth F,,last games,7.9,0.1,5,0,0,0,2,7.9,0.1,5,0,0,2,Not enough games,,28,9.2,8482877
+Alexis Lafrenière,NYR,L,Depth D,Yes,last games,19.1,3.2,6,4,2,6,12,19.1,3.2,6,4,6,12,Not enough games,,82,17.6,8482109
 Braden Schneider,NYR,D,Depth D,,last games,17.4,0.1,6,0,0,0,8,17.4,0.1,6,0,0,8,Not enough games,,82,20.4,8482073
 Vincent Iorio,NYR,D,Depth D,,last season,15.7,0.1,0,0,0,0,0,,,0,0,0,0,Not enough games,,27,15.7,8482861
 Scott Morrow,NYR,D,Depth D,,last season,15.7,1.4,0,0,0,0,0,,,0,0,0,0,Not enough games,,29,15.7,8482666
@@ -443,7 +443,7 @@ Hayden Hodgson,OTT,R,Depth F,,last season,7.0,0.0,2,0,0,0,0,5.4,0.1,2,0,0,0,Not 
 Nikolas Matinpalo,OTT,D,Depth D,,last games,17.8,0.0,5,0,0,0,4,17.8,0.0,5,0,0,4,Not enough games,,50,15.6,8484321
 Carter Yakemchuk,OTT,D,Depth D,Yes,last games,16.9,3.4,5,1,1,2,7,16.9,3.4,5,1,2,7,Not enough games,,4,14.5,8484759
 Cameron Crotty,OTT,D,Depth D,,last season,14.9,0.0,2,0,0,0,0,10.9,0.0,2,0,0,0,Not enough games,,6,14.9,8480075
-Hoyt Stanley,OTT,D,Depth (no NHL data),,no NHL data,0.0,0.0,2,0,0,0,0,9.7,0.0,2,0,0,0,Not enough games,,0,0.0,8484409
+Hoyt Stanley,OTT,D,Depth (no NHL data),Yes,no NHL data,0.0,0.0,2,0,0,0,0,9.7,0.0,2,0,0,0,Not enough games,,0,0.0,8484409
 Trevor Zegras,PHI,C,Top-line C,Yes,last games,18.4,3.2,6,0,2,2,5,18.4,3.2,6,0,2,5,Not enough games,,81,18.7,8481533
 Travis Sanheim,PHI,D,Top-pair D,,last games,25.0,0.3,6,1,1,2,10,25.0,0.3,6,1,2,10,Not enough games,,81,24.2,8477948
 Cam York,PHI,D,Top-pair D,,last games,21.8,1.3,5,0,0,0,6,21.8,1.3,5,0,0,6,Not enough games,,74,22.5,8481546
