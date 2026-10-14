@@ -27,12 +27,12 @@ Pavel Zacha,BOS,C,Top-line C,Yes,last games,18.2,2.3,7,2,1,3,11,18.2,2.3,7,2,3,1
 Charlie McAvoy,BOS,D,Top-pair D,Yes,last season,24.4,3.1,1,1,0,1,3,24.7,2.0,1,1,1,3,Not enough games,,69,24.4,8479325
 Connor Clifton,BOS,D,Top-pair D,,last games,20.6,0.2,6,0,1,1,6,20.6,0.2,6,0,1,6,Not enough games,,50,16.8,8477365
 David Pastrnak,BOS,R,Top-6 F,Yes,last games,19.4,2.9,7,2,6,8,27,19.4,2.9,7,2,8,27,Not enough games,,77,20.7,8477956
+Morgan Geekie,BOS,C,Top-6 F,Yes,last games,17.4,2.5,7,1,5,6,7,17.4,2.5,7,1,6,7,Not enough games,,81,17.4,8479987
 JJ Peterka,BOS,R,Top-6 F,Yes,last games,16.6,2.0,7,2,3,5,11,16.6,2.0,7,2,5,11,Not enough games,,82,16.0,8482175
 Elias Lindholm,BOS,C,Top-6 F,,last games,16.0,1.8,7,1,3,4,10,16.0,1.8,7,1,4,10,Not enough games,,69,17.9,8477496
 Fraser Minten,BOS,C,Top-6 F,,last games,15.8,1.1,7,4,3,7,19,15.8,1.1,7,4,7,19,Not enough games,,82,15.6,8483489
 Nikita Zadorov,BOS,D,Top-4 D,,last games,20.2,0.1,7,0,3,3,10,20.2,0.1,7,0,3,10,Not enough games,,81,20.9,8477507
 Hampus Lindholm,BOS,D,Top-4 D,,last games,20.1,1.3,7,1,3,4,8,20.1,1.3,7,1,4,8,Not enough games,,67,21.6,8476854
-Morgan Geekie,BOS,C,Top-4 D,Yes,last games,17.4,2.5,7,1,5,6,7,17.4,2.5,7,1,6,7,Not enough games,,81,17.4,8479987
 Casey Mittelstadt,BOS,C,Depth F,,last games,13.9,1.2,7,2,1,3,11,13.9,1.2,7,2,3,11,Not enough games,,71,15.2,8479999
 Marat Khusnutdinov,BOS,C,Depth F,,last games,13.8,0.0,7,1,2,3,6,13.8,0.0,7,1,3,6,Not enough games,,77,14.5,8482177
 James Hagens,BOS,C,Depth F,,last games,13.3,1.4,7,2,2,4,11,13.3,1.4,7,2,4,11,Not enough games,,2,14.6,8485395
@@ -81,6 +81,7 @@ Jordan Martinook,CAR,L,Depth F,,last games,14.3,0.1,8,1,2,3,13,14.3,0.1,8,1,3,13
 Charles Alexis Legault,CAR,D,Depth F,,last season,14.3,0.0,2,0,0,0,2,11.9,0.0,2,0,0,2,Not enough games,,12,14.3,8484428
 Mark Jankowski,CAR,L,Depth F,,last games,13.9,0.9,8,5,1,6,11,13.9,0.9,8,5,6,11,Neutral,6 pts vs 3.1 expected in last 8; TOI +2.7 min/gm; PP +0.7 min/gm; shots rate x1.19; goals vs shooting% +3.1,68,11.2,8476873
 Taylor Hall,CAR,L,Depth F,,last games,13.0,1.6,8,3,2,5,17,13.0,1.6,8,3,5,17,Neutral,5 pts vs 4.3 expected in last 8; TOI -1.5 min/gm; PP -0.1 min/gm; shots rate x1.39; goals vs shooting% +0.8,80,14.5,8475791
+Bradly Nadeau,CAR,L,Depth F,,last season,13.0,1.2,0,0,0,0,0,,,0,0,0,0,Not enough games,,12,13.0,8484203
 Eric Robinson,CAR,L,Depth F,,last games,12.7,0.2,8,2,2,4,13,12.7,0.2,8,2,4,13,Neutral,4 pts vs 2.4 expected in last 8; TOI +1.3 min/gm; PP +0.1 min/gm; shots rate x1.16; goals vs shooting% +0.1,67,11.4,8480762
 William Carrier,CAR,L,Depth F,,last games,12.0,0.0,8,0,6,6,13,12.0,0.0,8,0,6,13,Hot – usage-backed,6 pts vs 2.3 expected in last 8; TOI +1.2 min/gm; PP -0.0 min/gm; shots rate x1.28; goals vs shooting% -1.1,70,10.8,8477478
 Jesperi Kotkaniemi,CAR,C,Depth F,,last games,11.3,0.3,6,0,2,2,4,11.3,0.3,6,0,2,4,Not enough games,,42,11.4,8480829
@@ -97,7 +98,7 @@ Sean Monahan,CBJ,C,Top-6 F,,last games,16.8,1.4,5,1,1,2,9,16.8,1.4,5,1,2,9,Not e
 Kent Johnson,CBJ,C,Top-6 F,Yes,last games,16.5,2.8,5,3,1,4,14,16.5,2.8,5,3,4,14,Not enough games,,76,13.2,8482660
 Valeri Nichushkin,CBJ,R,Top-6 F,,last games,16.1,1.3,5,1,2,3,9,16.1,1.3,5,1,3,9,Not enough games,,72,17.7,8477501
 Denton Mateychuk,CBJ,D,Top-4 D,,last games,23.8,1.1,5,1,1,2,11,23.8,1.1,5,1,2,11,Not enough games,,75,19.2,8483485
-Damon Severson,CBJ,D,Top-4 D,Yes,last games,23.2,0.5,3,1,3,4,4,23.2,0.5,3,1,4,4,Not enough games,,71,21.1,8476923
+Damon Severson,CBJ,D,Top-4 D,,last games,23.2,0.5,3,1,3,4,4,23.2,0.5,3,1,4,4,Not enough games,,71,21.1,8476923
 Cole Sillinger,CBJ,C,Depth F,,last games,15.5,0.0,5,3,2,5,9,15.5,0.0,5,3,5,9,Not enough games,,81,15.2,8482705
 Mathieu Olivier,CBJ,R,Depth F,,last games,13.5,0.0,5,2,0,2,9,13.5,0.0,5,2,2,9,Not enough games,,61,14.2,8479671
 Conor Garland,CBJ,R,Depth F,,last games,12.9,1.2,5,0,0,0,3,12.9,1.2,5,0,0,3,Not enough games,,71,17.2,8478856
@@ -113,7 +114,6 @@ Jake Christiansen,CBJ,D,Depth D,,last games,11.5,0.0,4,0,0,0,1,11.5,0.0,4,0,0,1,
 Mikael Backlund,CGY,C,Top-line C,,last games,18.3,0.0,6,1,1,2,21,18.3,0.0,6,1,2,21,Not enough games,,82,17.9,8474150
 Kevin Bahl,CGY,D,Top-pair D,,last games,21.7,0.0,6,1,0,1,6,21.7,0.0,6,1,1,6,Not enough games,,76,21.9,8480860
 Simon Nemec,CGY,D,Top-pair D,,last games,21.0,0.9,6,0,2,2,10,21.0,0.9,6,0,2,10,Not enough games,,68,19.7,8483495
-Connor Zary,CGY,C,Top-pair D,Yes,last season,14.4,1.6,2,0,1,1,2,13.6,0.5,2,0,1,2,Not enough games,,74,14.4,8482074
 Jonathan Huberdeau,CGY,L,Top-6 F,Yes,last season,18.1,2.9,0,0,0,0,0,,,0,0,0,0,Not enough games,,50,18.1,8476456
 Joel Farabee,CGY,L,Top-6 F,Yes,last games,17.9,2.0,6,0,4,4,15,17.9,2.0,6,0,4,15,Not enough games,,82,16.9,8480797
 Matt Coronato,CGY,R,Top-6 F,,last games,17.6,2.0,6,1,2,3,13,17.6,2.0,6,1,3,13,Not enough games,,80,16.7,8482679
@@ -123,6 +123,7 @@ Zach Whitecloud,CGY,D,Top-4 D,,last games,20.8,0.0,6,0,0,0,4,20.8,0.0,6,0,0,4,No
 Yan Kuznetsov,CGY,D,Top-4 D,,last games,18.7,0.0,5,0,1,1,8,18.7,0.0,5,0,1,8,Not enough games,,57,20.1,8482165
 Samuel Honzek,CGY,L,Depth F,,last games,15.6,0.0,4,0,0,0,3,15.6,0.0,4,0,0,3,Not enough games,,18,12.3,8484180
 Matvei Gridin,CGY,R,Depth F,Yes,last games,14.6,2.0,6,0,1,1,12,14.6,2.0,6,0,1,12,Not enough games,,37,15.2,8484860
+Connor Zary,CGY,C,Depth F,,last season,14.4,1.6,2,0,1,1,2,13.6,0.5,2,0,1,2,Not enough games,,74,14.4,8482074
 Ryan Strome,CGY,C,Depth F,,last games,14.0,1.0,6,1,2,3,16,14.0,1.0,6,1,3,16,Not enough games,,52,13.3,8476458
 Aydar Suniev,CGY,L,Depth F,,last games,13.6,1.2,3,2,1,3,4,13.6,1.2,3,2,3,4,Not enough games,,6,11.6,8484234
 Martin Pospisil,CGY,C,Depth F,,last games,13.0,0.0,6,1,0,1,13,13.0,0.0,6,1,1,13,Not enough games,,22,10.2,8481028
@@ -141,8 +142,8 @@ Frank Nazar,CHI,C,Top-6 F,,last games,18.8,1.7,5,2,1,3,9,18.8,1.7,5,2,3,9,Not en
 Roman Kantserov,CHI,R,Top-6 F,Yes,last games,18.4,2.9,7,3,0,3,12,18.4,2.9,7,3,3,12,Not enough games,,0,0.0,8484390
 Anton Frondell,CHI,C,Top-6 F,,last games,18.1,2.2,7,1,5,6,11,18.1,2.2,7,1,6,11,Not enough games,,12,17.7,8485391
 Tyler Bertuzzi,CHI,L,Top-6 F,Yes,last games,17.6,2.9,7,2,2,4,8,17.6,2.9,7,2,4,8,Not enough games,,79,18.4,8477479
-Alex Vlasic,CHI,D,Top-4 D,,last games,19.9,0.0,7,0,2,2,4,19.9,0.0,7,0,2,4,Not enough games,,81,21.1,8481568
 Wyatt Kaiser,CHI,D,Top-4 D,,last games,18.8,0.1,7,0,2,2,5,18.8,0.1,7,0,2,5,Not enough games,,77,19.6,8482176
+Alex Vlasic,CHI,D,Depth F,,last games,19.9,0.0,7,0,2,2,4,19.9,0.0,7,0,2,4,Not enough games,,81,21.1,8481568
 Ryan Greene,CHI,C,Depth F,,last games,15.2,0.4,7,0,2,2,4,15.2,0.4,7,0,2,4,Not enough games,,81,16.7,8483450
 Cole Smith,CHI,R,Depth F,,last games,14.5,0.0,7,1,1,2,6,14.5,0.0,7,1,2,6,Not enough games,,63,13.3,8482062
 Jordan Greenway,CHI,L,Depth F,,last games,14.4,0.0,7,1,0,1,13,14.4,0.0,7,1,1,13,Not enough games,,40,12.4,8478413
@@ -248,16 +249,16 @@ Jake Walman,EDM,D,Depth D,,last games,14.8,2.1,4,0,0,0,5,14.8,2.1,4,0,0,5,Not en
 Alec Regula,EDM,D,Depth D,,last season,14.5,0.0,0,0,0,0,0,,,0,0,0,0,Not enough games,,29,14.5,8480831
 Ty Emberson,EDM,D,Depth D,,last games,11.4,0.0,4,0,1,1,0,11.4,0.0,4,0,1,0,Not enough games,,72,15.5,8480834
 Shakir Mukhamadullin,EDM,D,Depth D,,last games,11.3,0.0,4,0,0,0,0,11.3,0.0,4,0,0,0,Not enough games,,50,17.1,8482166
+Sam Reinhart,FLA,C,Top-line C,Yes,last games,21.1,6.5,7,4,1,5,21,21.1,6.5,7,4,5,21,Not enough games,,64,21.3,8477933
 Seth Jones,FLA,D,Top-pair D,Yes,last games,25.9,6.1,7,1,6,7,19,25.9,6.1,7,1,7,19,Not enough games,,52,23.7,8477495
 Gustav Forsling,FLA,D,Top-pair D,,last games,21.1,0.7,6,1,0,1,7,21.1,0.7,6,1,1,7,Not enough games,,80,22.6,8478055
 Matthew Tkachuk,FLA,L,Top-6 F,Yes,last games,20.1,6.7,7,3,7,10,14,20.1,6.7,7,3,10,14,Not enough games,,31,18.3,8479314
 Sam Bennett,FLA,C,Top-6 F,Yes,last games,19.1,4.4,7,0,3,3,11,19.1,4.4,7,0,3,11,Not enough games,,76,18.5,8477935
 Carter Verhaeghe,FLA,C,Top-6 F,,last games,18.5,4.2,7,3,1,4,10,18.5,4.2,7,3,4,10,Not enough games,,77,17.6,8477409
 Anton Lundell,FLA,C,Top-6 F,,last games,18.4,3.8,7,1,2,3,20,18.4,3.8,7,1,3,20,Not enough games,,64,19.2,8482113
-Brad Marchand,FLA,L,Top-6 F,,last season,17.7,3.7,2,1,0,1,5,11.4,1.3,2,1,1,5,Not enough games,,52,17.7,8473419
 Aaron Ekblad,FLA,D,Top-4 D,,last games,21.0,3.2,5,0,2,2,8,21.0,3.2,5,0,2,8,Not enough games,,72,22.5,8477932
 Niko Mikkola,FLA,D,Top-4 D,,last games,19.5,0.1,7,0,0,0,9,19.5,0.1,7,0,0,9,Not enough games,,68,20.4,8478859
-Sam Reinhart,FLA,C,Depth F,Yes,last games,21.1,6.5,7,4,1,5,21,21.1,6.5,7,4,5,21,Not enough games,,64,21.3,8477933
+Brad Marchand,FLA,L,Depth F,,last season,17.7,3.7,2,1,0,1,5,11.4,1.3,2,1,1,5,Not enough games,,52,17.7,8473419
 Brady Tkachuk,FLA,L,Depth F,Yes,last games,17.1,5.5,7,3,2,5,19,17.1,5.5,7,3,5,19,Not enough games,,60,17.0,8480801
 Eetu Luostarinen,FLA,C,Depth F,,last games,16.1,2.2,7,2,0,2,11,16.1,2.2,7,2,2,11,Not enough games,,73,16.6,8480185
 Lars Eller,FLA,C,Depth F,,last games,14.0,1.1,7,0,4,4,6,14.0,1.1,7,0,4,6,Not enough games,,68,11.4,8474189
@@ -281,12 +282,12 @@ Mats Zuccarello,LAK,R,Top-6 F,Yes,last games,18.2,4.2,3,0,1,1,1,18.2,4.2,3,0,1,1
 Alex Laferriere,LAK,R,Top-6 F,,last games,17.2,2.6,5,1,2,3,9,17.2,2.6,5,1,3,9,Not enough games,,82,18.3,8482155
 Erik Gustafsson,LAK,D,Top-4 D,,last games,18.0,1.6,3,0,1,1,4,18.0,1.6,3,0,1,4,Not enough games,,2,18.7,8476979
 Cody Ceci,LAK,D,Top-4 D,,last games,17.6,0.0,5,0,1,1,6,17.6,0.0,5,0,1,6,Not enough games,,82,17.6,8476879
-Jared Wright,LAK,R,Top-4 D,,last season,11.4,0.0,1,0,0,0,3,10.4,0.0,1,0,0,3,Not enough games,,23,11.4,8483756
 Trevor Moore,LAK,L,Depth F,,last games,16.4,0.5,5,1,1,2,11,16.4,0.5,5,1,2,11,Not enough games,,69,16.7,8479675
 Erik Haula,LAK,L,Depth F,,last games,15.9,1.4,5,1,2,3,14,15.9,1.4,5,1,3,14,Not enough games,,81,16.7,8475287
 Alex Turcotte,LAK,C,Depth F,,last games,14.1,1.6,3,0,1,1,1,14.1,1.6,3,0,1,1,Not enough games,,62,10.8,8481532
 Joel Armia,LAK,R,Depth F,,last games,13.4,0.3,5,1,0,1,6,13.4,0.3,5,1,1,6,Not enough games,,67,14.1,8476469
 Corey Perry,LAK,R,Depth F,,last games,12.3,1.4,4,0,0,0,6,12.3,1.4,4,0,0,6,Not enough games,,72,13.7,8470621
+Jared Wright,LAK,R,Depth F,,last season,11.4,0.0,1,0,0,0,3,10.4,0.0,1,0,0,3,Not enough games,,23,11.4,8483756
 Andre Lee,LAK,L,Depth F,,last games,8.8,0.0,3,0,0,0,3,8.8,0.0,3,0,0,3,Not enough games,,7,10.3,8481732
 Samuel Helenius,LAK,C,Depth F,,last games,8.3,0.0,3,0,0,0,3,8.3,0.0,3,0,0,3,Not enough games,,53,8.0,8482726
 Mikey Anderson,LAK,D,Depth D,,last games,17.4,0.1,5,0,1,1,4,17.4,0.1,5,0,1,4,Not enough games,,80,20.6,8479998
@@ -352,18 +353,17 @@ Jonas Siegenthaler,NJD,D,Top-4 D,,last games,19.2,0.1,6,0,1,1,2,19.2,0.1,6,0,1,2
 Evan Rodrigues,NJD,C,Depth F,,last games,15.6,1.8,6,1,1,2,11,15.6,1.8,6,1,2,11,Not enough games,,69,17.0,8478542
 Arseny Gritsyuk,NJD,R,Depth F,,last games,15.4,1.4,6,1,1,2,11,15.4,1.4,6,1,2,11,Not enough games,,66,15.2,8481721
 Dawson Mercer,NJD,C,Depth F,,last games,14.6,0.2,6,0,1,1,15,14.6,0.2,6,0,1,15,Not enough games,,82,18.2,8482110
-Declan Chisholm,NJD,D,Depth F,,last games,14.5,0.1,6,0,1,1,2,14.5,0.1,6,0,1,2,Not enough games,,26,13.7,8480990
 Anthony Mantha,NJD,R,Depth F,,last games,13.2,1.5,6,1,1,2,7,13.2,1.5,6,1,2,7,Not enough games,,81,15.2,8477511
 Cody Glass,NJD,C,Depth F,,last games,11.8,0.3,6,0,0,0,8,11.8,0.3,6,0,0,8,Not enough games,,70,13.6,8479996
 Jesper Boqvist,NJD,C,Depth F,,last games,10.9,0.0,4,2,0,2,10,10.9,0.0,4,2,2,10,Not enough games,,73,11.8,8480003
 Amadeus Lombardi,NJD,C,Depth F,,last games,10.5,0.3,6,0,1,1,12,10.5,0.3,6,0,1,12,Not enough games,,0,0.0,8483695
 Stefan Noesen,NJD,R,Depth F,,last games,8.8,0.3,3,0,1,1,3,8.8,0.3,3,0,1,3,Not enough games,,38,11.8,8476474
 Johnathan Kovacevic,NJD,D,Depth D,,last season,17.9,0.0,1,0,0,0,0,16.0,0.0,1,0,0,0,Not enough games,,34,17.9,8480192
+Declan Chisholm,NJD,D,Depth D,,last games,14.5,0.1,6,0,1,1,2,14.5,0.1,6,0,1,2,Not enough games,,26,13.7,8480990
 Brenden Dillon,NJD,D,Depth D,,last games,14.4,0.0,5,0,0,0,1,14.4,0.0,5,0,0,1,Not enough games,,82,18.0,8475455
 Ryan O'Reilly,NSH,C,Top-line C,Yes,last games,21.8,4.1,6,2,3,5,10,21.8,4.1,6,2,5,10,Not enough games,,81,20.4,8475158
 Roman Josi,NSH,D,Top-pair D,Yes,last games,25.2,4.3,6,1,5,6,10,25.2,4.3,6,1,6,10,Not enough games,,68,24.9,8474600
 Brady Skjei,NSH,D,Top-pair D,,last games,20.2,0.7,6,0,2,2,5,20.2,0.7,6,0,2,5,Not enough games,,82,22.6,8476869
-Ryan Ufko,NSH,D,Top-pair D,,last season,13.9,1.6,1,0,0,0,1,15.4,2.9,1,0,0,1,Not enough games,,18,13.9,8482715
 Filip Forsberg,NSH,L,Top-6 F,Yes,last games,20.9,4.4,6,0,5,5,16,20.9,4.4,6,0,5,16,Not enough games,,82,18.9,8476887
 Steven Stamkos,NSH,C,Top-6 F,Yes,last games,19.5,4.3,6,3,4,7,11,19.5,4.3,6,3,7,11,Not enough games,,82,17.8,8474564
 Jonathan Marchessault,NSH,C,Top-6 F,Yes,last games,16.7,3.2,6,1,0,1,10,16.7,3.2,6,1,1,10,Not enough games,,62,16.7,8476539
@@ -380,6 +380,7 @@ Reid Schaefer,NSH,L,Depth F,,last games,10.6,0.0,3,0,0,0,4,10.6,0.0,3,0,0,4,Not 
 Adam Wilsby,NSH,D,Depth D,,last games,17.7,0.0,6,0,2,2,7,17.7,0.0,6,0,2,7,Not enough games,,58,17.0,8482482
 Ilya Lyubushkin,NSH,D,Depth D,,last season,15.7,0.0,0,0,0,0,0,,,0,0,0,0,Not enough games,,53,15.7,8480950
 Jayden Struble,NSH,D,Depth D,,last games,14.4,0.0,5,0,0,0,0,14.4,0.0,5,0,0,0,Not enough games,,59,14.0,8481593
+Ryan Ufko,NSH,D,Depth D,,last season,13.9,1.6,1,0,0,0,1,15.4,2.9,1,0,0,1,Not enough games,,18,13.9,8482715
 William Trudeau,NSH,D,Depth D,,last games,9.2,0.0,3,0,0,0,2,9.2,0.0,3,0,0,2,Not enough games,,0,0.0,8482806
 Jack Ahcan,NSH,D,Depth D,,last games,7.6,1.0,3,0,1,1,0,7.6,1.0,3,0,1,0,Not enough games,,11,11.5,8482072
 Vitali Pinchuk,NSH,C,Depth (no NHL data),,no NHL data,0.0,0.0,2,0,1,1,3,11.3,1.7,2,0,1,3,Not enough games,,0,0.0,8486189
@@ -423,6 +424,7 @@ Oliver Bjorkstrand,NYR,R,Depth F,,last games,10.5,0.9,8,2,1,3,10,10.5,0.9,8,2,3,
 Cole Beaudoin,NYR,C,Depth F,,last games,8.8,0.1,4,0,0,0,1,8.8,0.1,4,0,0,1,Not enough games,,0,0.0,8484786
 Matt Rempe,NYR,C,Depth F,,last season,8.6,0.3,2,0,0,0,1,6.8,0.0,2,0,0,1,Not enough games,,26,8.6,8482460
 Jaroslav Chmelar,NYR,R,Depth F,,last games,8.2,0.1,6,0,0,0,3,8.2,0.1,6,0,0,3,Not enough games,,28,9.2,8482877
+Justin Dowling,NYR,C,Depth F,,last season,7.2,0.0,0,0,0,0,0,,,0,0,0,0,Not enough games,,2,7.2,8475413
 Braden Schneider,NYR,D,Depth D,,last games,17.2,0.1,8,0,1,1,9,17.2,0.1,8,0,1,9,Neutral,1 pts vs 1.5 expected in last 8; TOI -3.3 min/gm; PP -0.3 min/gm; shots rate x1.08; goals vs shooting% -0.2,82,20.4,8482073
 Vincent Iorio,NYR,D,Depth D,,last season,15.7,0.1,0,0,0,0,0,,,0,0,0,0,Not enough games,,27,15.7,8482861
 Scott Morrow,NYR,D,Depth D,,last season,15.7,1.4,0,0,0,0,0,,,0,0,0,0,Not enough games,,29,15.7,8482666
@@ -465,7 +467,7 @@ Noel Acciari,PHI,C,Depth F,,last games,14.2,0.0,8,0,0,0,3,14.2,0.0,8,0,0,3,Cold 
 Denver Barkey,PHI,C,Depth F,,last games,13.9,2.1,5,0,2,2,1,13.9,2.1,5,0,2,1,Not enough games,,43,13.4,8484142
 Porter Martone,PHI,R,Depth F,,last games,13.3,2.0,8,1,0,1,6,13.3,2.0,8,1,1,6,Not enough baseline,,9,17.0,8485406
 Noah Cates,PHI,L,Depth F,,last games,12.6,0.3,8,0,0,0,9,12.6,0.3,8,0,0,9,Cold – usage down,0 pts vs 3.6 expected in last 8; TOI -3.7 min/gm; PP -1.8 min/gm; shots rate x0.90; goals vs shooting% -1.2,82,16.2,8480220
-Alex Bump,PHI,L,Depth F,Yes,last games,12.1,1.4,3,0,0,0,4,12.1,1.4,3,0,0,4,Not enough games,,17,12.6,8483731
+Alex Bump,PHI,L,Depth F,,last games,12.1,1.4,3,0,0,0,4,12.1,1.4,3,0,0,4,Not enough games,,17,12.6,8483731
 Carl Grundstrom,PHI,R,Depth F,,last games,11.3,0.0,5,0,0,0,5,11.3,0.0,5,0,0,5,Not enough games,,47,11.9,8479336
 Nikita Grebenkin,PHI,R,Depth F,,last season,11.3,0.2,0,0,0,0,0,,,0,0,0,0,Not enough games,,55,11.3,8483733
 Michael Bunting,PHI,L,Depth F,,last games,11.0,1.9,4,0,0,0,3,11.0,1.9,4,0,0,3,Not enough games,,74,14.4,8478047
