@@ -236,7 +236,6 @@ Connor Murphy,EDM,D,Top-4 D,,last games,21.8,0.0,6,0,1,1,3,21.8,0.0,6,0,1,3,Not 
 Mattias Ekholm,EDM,D,Top-4 D,,last games,21.7,0.3,6,1,1,2,5,21.7,0.3,6,1,2,5,Not enough games,,82,20.6,8475218
 Alex Formenton,EDM,L,Depth F,,last games,15.3,0.0,6,1,2,3,7,15.3,0.0,6,1,3,7,Not enough games,,0,0.0,8480029
 Mathieu Joseph,EDM,R,Depth F,,last games,15.2,0.1,6,0,2,2,7,15.2,0.1,6,0,2,7,Not enough games,,51,12.0,8478472
-Matt Savoie,EDM,C,Depth F,,last season,14.8,0.8,0,0,0,0,0,,,0,0,0,0,Not enough games,,82,14.8,8483512
 Owen Michaels,EDM,R,Depth F,,last games,13.4,0.1,6,2,0,2,6,13.4,0.1,6,2,2,6,Not enough games,,0,0.0,8486161
 Colton Dach,EDM,C,Depth F,,last games,13.4,1.1,3,0,0,0,5,13.4,1.1,3,0,0,5,Not enough games,,61,11.5,8482703
 Jason Dickinson,EDM,C,Depth F,,last games,12.2,0.0,3,0,1,1,2,12.2,0.0,3,0,1,2,Not enough games,,64,15.5,8477450
@@ -247,6 +246,7 @@ Trent Frederic,EDM,C,Depth F,,last games,9.6,1.6,6,1,0,1,7,9.6,1.6,6,1,1,7,Not e
 Isaac Howard,EDM,L,Depth F,,last games,9.5,1.6,6,0,2,2,6,9.5,1.6,6,0,2,6,Not enough games,,29,10.3,8483455
 Josh Samanski,EDM,C,Depth F,,last games,7.5,0.4,5,0,1,1,0,7.5,0.4,5,0,1,0,Not enough games,,24,10.6,8484509
 Jake Walman,EDM,D,Depth D,,last games,14.8,2.1,4,0,0,0,5,14.8,2.1,4,0,0,5,Not enough games,,53,18.8,8478013
+Matt Savoie,EDM,C,Depth D,,last season,14.8,0.8,0,0,0,0,0,,,0,0,0,0,Not enough games,,82,14.8,8483512
 Alec Regula,EDM,D,Depth D,,last season,14.5,0.0,0,0,0,0,0,,,0,0,0,0,Not enough games,,29,14.5,8480831
 Ty Emberson,EDM,D,Depth D,,last games,11.5,0.0,4,0,1,1,0,11.5,0.0,4,0,1,0,Not enough games,,72,15.5,8480834
 Shakir Mukhamadullin,EDM,D,Depth D,,last games,11.3,0.0,4,0,0,0,0,11.3,0.0,4,0,0,0,Not enough games,,50,17.1,8482166
@@ -283,12 +283,12 @@ Mats Zuccarello,LAK,R,Top-6 F,Yes,last games,18.2,4.2,3,0,1,1,1,18.2,4.2,3,0,1,1
 Alex Laferriere,LAK,R,Top-6 F,,last games,17.2,2.6,5,1,2,3,9,17.2,2.6,5,1,3,9,Not enough games,,82,18.3,8482155
 Erik Gustafsson,LAK,D,Top-4 D,,last games,18.0,1.6,3,0,1,1,4,18.0,1.6,3,0,1,4,Not enough games,,2,18.7,8476979
 Cody Ceci,LAK,D,Top-4 D,,last games,17.6,0.0,5,0,1,1,6,17.6,0.0,5,0,1,6,Not enough games,,82,17.6,8476879
-Jared Wright,LAK,R,Top-4 D,,last season,11.4,0.0,1,0,0,0,3,10.4,0.0,1,0,0,3,Not enough games,,23,11.4,8483756
 Trevor Moore,LAK,L,Depth F,,last games,16.4,0.5,5,1,1,2,11,16.4,0.5,5,1,2,11,Not enough games,,69,16.7,8479675
 Erik Haula,LAK,L,Depth F,,last games,15.9,1.4,5,1,2,3,14,15.9,1.4,5,1,3,14,Not enough games,,81,16.7,8475287
 Alex Turcotte,LAK,C,Depth F,,last games,14.1,1.6,3,0,1,1,1,14.1,1.6,3,0,1,1,Not enough games,,62,10.8,8481532
 Joel Armia,LAK,R,Depth F,,last games,13.4,0.3,5,1,0,1,6,13.4,0.3,5,1,1,6,Not enough games,,67,14.1,8476469
 Corey Perry,LAK,R,Depth F,,last games,12.3,1.4,4,0,0,0,6,12.3,1.4,4,0,0,6,Not enough games,,72,13.7,8470621
+Jared Wright,LAK,R,Depth F,,last season,11.4,0.0,1,0,0,0,3,10.4,0.0,1,0,0,3,Not enough games,,23,11.4,8483756
 Andre Lee,LAK,L,Depth F,,last games,8.8,0.0,3,0,0,0,3,8.8,0.0,3,0,0,3,Not enough games,,7,10.3,8481732
 Samuel Helenius,LAK,C,Depth F,,last games,8.3,0.0,3,0,0,0,3,8.3,0.0,3,0,0,3,Not enough games,,53,8.0,8482726
 Mikey Anderson,LAK,D,Depth D,,last games,17.4,0.1,5,0,1,1,4,17.4,0.1,5,0,1,4,Not enough games,,80,20.6,8479998
@@ -711,7 +711,6 @@ Aliaksei Protas,WSH,L,Top-6 F,,last games,16.1,0.0,7,0,2,2,8,16.1,0.0,7,0,2,8,No
 Boone Jenner,WSH,C,Top-6 F,,last games,15.6,0.0,7,3,1,4,18,15.6,0.0,7,3,4,18,Not enough games,,67,16.1,8476432
 Matt Roy,WSH,D,Top-4 D,,last season,20.6,0.1,2,0,0,0,0,18.4,0.0,2,0,0,0,Not enough games,,79,20.6,8478911
 Vincent Desharnais,WSH,D,Top-4 D,,last games,19.8,0.0,7,0,1,1,2,19.8,0.0,7,0,1,2,Not enough games,,53,18.2,8479576
-Justin Holl,WSH,D,Depth F,,last season,15.7,0.0,2,2,0,2,2,12.6,0.0,2,2,2,2,Not enough games,,9,15.7,8475718
 Alex Ovechkin,WSH,L,Depth F,Yes,last games,13.9,3.4,7,1,2,3,10,13.9,3.4,7,1,3,10,Not enough games,,82,17.4,8471214
 Ryan Leonard,WSH,R,Depth F,,last games,13.9,2.4,7,2,4,6,17,13.9,2.4,7,2,6,17,Not enough games,,75,14.4,8484186
 Justin Sourdif,WSH,C,Depth F,,last games,13.4,0.0,7,1,0,1,6,13.4,0.0,7,1,1,6,Not enough games,,78,14.7,8482088
@@ -722,4 +721,5 @@ Anthony Beauvillier,WSH,R,Depth F,,last games,11.5,0.2,7,1,0,1,8,11.5,0.2,7,1,1,
 Ivan Miroshnichenko,WSH,L,Depth F,,last season,9.6,0.0,1,1,0,1,1,10.0,1.6,1,1,1,1,Not enough games,,13,9.6,8483491
 Timothy Liljegren,WSH,D,Depth D,,last games,18.5,0.0,7,1,0,1,4,18.5,0.0,7,1,1,4,Not enough games,,47,19.9,8480043
 Cole Hutson,WSH,D,Depth D,,last games,18.5,2.0,7,1,3,4,17,18.5,2.0,7,1,4,17,Not enough games,,14,17.5,8484873
+Justin Holl,WSH,D,Depth D,,last season,15.7,0.0,2,2,0,2,2,12.6,0.0,2,2,2,2,Not enough games,,9,15.7,8475718
 Dylan McIlrath,WSH,D,Depth D,,last games,6.4,0.0,3,0,0,0,0,6.4,0.0,3,0,0,0,Not enough games,,13,9.3,8475795
