@@ -1,6 +1,4 @@
 Date,Start (ET),Start (PT),Away,Home,Away rest days,Away back-to-back,Away 3-in-4,Home rest days,Home back-to-back,Home 3-in-4,Away GP,Home GP,Away last starting goalie,Home last starting goalie
-2026-10-14,7:30 PM,4:30 PM,MTL,WSH,0,Yes,No,0,Yes,Yes,6,6,Jacob Fowler,Logan Thompson
-2026-10-14,8:30 PM,5:30 PM,DAL,COL,0,Yes,No,0,Yes,No,6,6,Jake Oettinger,Mackenzie Blackwood
 2026-10-15,7:00 PM,4:00 PM,BUF,TOR,1,No,Yes,1,No,No,7,7,Ukko-Pekka Luukkonen,Anthony Stolarz
 2026-10-15,7:00 PM,4:00 PM,VAN,FLA,1,No,No,1,No,Yes,8,7,Leevi Merilainen,Akira Schmid
 2026-10-15,7:00 PM,4:00 PM,NYR,NJD,1,No,No,1,No,Yes,8,6,Dylan Garand,Jake Allen
@@ -12,5 +10,19 @@ Date,Start (ET),Start (PT),Away,Home,Away rest days,Away back-to-back,Away 3-in-
 2026-10-15,8:00 PM,5:00 PM,SJS,NSH,1,No,No,1,No,No,6,6,Yaroslav Askarov,Juuse Saros
 2026-10-15,9:00 PM,6:00 PM,UTA,EDM,1,No,No,1,No,No,7,6,Karel Vejmelka,Devon Levi
 2026-10-15,10:00 PM,7:00 PM,CGY,VGK,1,No,No,1,No,Yes,6,8,Dustin Wolf,Adin Hill
-2026-10-16,9:00 PM,6:00 PM,PIT,COL,2,No,No,1,No,Yes,7,6,Sergei Murashov,Mackenzie Blackwood
+2026-10-16,9:00 PM,6:00 PM,PIT,COL,2,No,No,1,No,Yes,7,7,Sergei Murashov,Scott Wedgewood
 2026-10-16,10:00 PM,7:00 PM,BOS,ANA,2,No,No,2,No,No,7,6,Jeremy Swayman,Lukas Dostal
+2026-10-17,1:00 PM,10:00 AM,NJD,WSH,1,No,No,2,No,No,6,7,Jake Allen,Charlie Lindgren
+2026-10-17,3:30 PM,12:30 PM,CAR,WPG,3,No,No,1,No,No,8,6,Pyotr Kochetkov,Stuart Skinner
+2026-10-17,4:00 PM,1:00 PM,VAN,TBL,1,No,No,1,No,No,8,6,Leevi Merilainen,Andrei Vasilevskiy
+2026-10-17,6:00 PM,3:00 PM,SEA,FLA,1,No,No,1,No,No,7,7,Philipp Grubauer,Akira Schmid
+2026-10-17,7:00 PM,4:00 PM,BUF,MTL,1,No,No,2,No,No,7,7,Ukko-Pekka Luukkonen,Jakub Dobes
+2026-10-17,7:00 PM,4:00 PM,NYR,CBJ,1,No,No,3,No,No,8,5,Dylan Garand,Cam Talbot
+2026-10-17,7:00 PM,4:00 PM,DAL,CHI,2,No,No,1,No,No,7,7,Casey DeSmith,Spencer Knight
+2026-10-17,7:00 PM,4:00 PM,SJS,DET,1,No,No,1,No,No,6,6,Yaroslav Askarov,John Gibson
+2026-10-17,7:00 PM,4:00 PM,NYI,TOR,1,No,No,1,No,No,6,7,Ilya Sorokin,Anthony Stolarz
+2026-10-17,7:00 PM,4:00 PM,OTT,PHI,1,No,No,1,No,No,7,8,Samuel Ersson,Dan Vladar
+2026-10-17,8:00 PM,5:00 PM,STL,NSH,1,No,No,1,No,No,6,6,Joel Hofer,Juuse Saros
+2026-10-17,9:00 PM,6:00 PM,BOS,LAK,0,Yes,No,3,No,No,7,5,Jeremy Swayman,Darcy Kuemper
+2026-10-17,10:00 PM,7:00 PM,EDM,UTA,1,No,No,1,No,No,6,7,Devon Levi,Karel Vejmelka
+2026-10-17,10:00 PM,7:00 PM,PIT,VGK,0,Yes,No,1,No,No,7,8,Sergei Murashov,Adin Hill
