@@ -22,7 +22,7 @@ Travis Mitchell,ANA,D,Depth D,,last games,16.6,0.0,5,0,0,0,3,16.6,0.0,5,0,0,3,No
 Tyson Hinds,ANA,D,Depth D,,last games,13.8,0.0,6,0,0,0,8,13.8,0.0,6,0,0,8,Not enough games,,6,15.6,8482731
 Ian Moore,ANA,D,Depth D,,last season,13.7,0.1,0,0,0,0,0,,,0,0,0,0,Not enough games,,67,13.7,8482178
 Nikita Klepov,ANA,R,Depth (no NHL data),,no NHL data,0.0,0.0,1,0,0,0,0,10.0,0.8,1,0,0,0,Not enough games,,0,0.0,8486052
-Roger McQueen,ANA,C,Depth (no NHL data),,no NHL data,0.0,0.0,1,0,0,0,1,11.4,2.0,1,0,0,1,Not enough games,,0,0.0,8485400
+Roger McQueen,ANA,C,Depth (no NHL data),Yes,no NHL data,0.0,0.0,1,0,0,0,1,11.4,2.0,1,0,0,1,Not enough games,,0,0.0,8485400
 Pavel Zacha,BOS,C,Top-line C,Yes,last games,18.2,2.3,7,2,1,3,11,18.2,2.3,7,2,3,11,Not enough games,,78,16.8,8478401
 Charlie McAvoy,BOS,D,Top-pair D,Yes,last season,24.4,3.1,1,1,0,1,3,24.7,2.0,1,1,1,3,Not enough games,,69,24.4,8479325
 Connor Clifton,BOS,D,Top-pair D,,last games,20.6,0.2,6,0,1,1,6,20.6,0.2,6,0,1,6,Not enough games,,50,16.8,8477365
@@ -53,7 +53,7 @@ Noah Ostlund,BUF,C,Top-6 F,Yes,last games,18.8,3.1,8,2,4,6,19,18.8,3.1,8,2,6,19,
 Josh Doan,BUF,R,Top-6 F,,last games,16.4,2.2,8,1,0,1,12,16.4,2.2,8,1,1,12,Cold – shots down,1 pts vs 5.2 expected in last 8; TOI +0.5 min/gm; PP -0.6 min/gm; shots rate x0.70; goals vs shooting% -0.8,82,15.9,8482659
 Ryan McLeod,BUF,C,Top-6 F,,last games,15.6,1.5,8,1,1,2,7,15.6,1.5,8,1,2,7,Neutral,2 pts vs 4.7 expected in last 8; TOI -2.1 min/gm; PP -0.1 min/gm; shots rate x0.89; goals vs shooting% -0.1,81,17.6,8480802
 Mattias Samuelsson,BUF,D,Top-4 D,,last games,22.9,0.1,8,2,4,6,11,22.9,0.1,8,2,6,11,Neutral,6 pts vs 4.2 expected in last 8; TOI +0.1 min/gm; PP +0.0 min/gm; shots rate x0.98; goals vs shooting% +0.7,78,22.8,8480807
-Olen Zellweger,BUF,D,Top-4 D,,last games,19.6,0.6,7,2,1,3,16,19.6,0.6,7,2,3,16,Not enough games,,76,17.0,8482803
+Olen Zellweger,BUF,D,Top-4 D,,last games,19.6,0.6,7,2,1,3,17,19.6,0.6,7,2,3,17,Not enough games,,76,17.0,8482803
 Josh Norris,BUF,C,Depth F,,last games,14.8,1.9,8,1,1,2,8,14.8,1.9,8,1,2,8,Cold – usage down,2 pts vs 5.8 expected in last 8; TOI -1.0 min/gm; PP -1.4 min/gm; shots rate x0.68; goals vs shooting% -0.5,44,15.8,8480064
 Peyton Krebs,BUF,C,Depth F,,last games,14.7,0.1,8,0,4,4,6,14.7,0.1,8,0,4,6,Neutral,4 pts vs 4.1 expected in last 8; TOI +1.0 min/gm; PP +0.0 min/gm; shots rate x0.62; goals vs shooting% -0.8,82,13.8,8481522
 Konsta Helenius,BUF,C,Depth F,,last games,14.4,1.8,7,1,0,1,11,14.4,1.8,7,1,1,11,Not enough games,,9,11.9,8484797
@@ -113,6 +113,7 @@ Carson Soucy,CBJ,D,Depth D,,last games,15.8,0.0,5,0,1,1,4,15.8,0.0,5,0,1,4,Not e
 Emil Andrae,CBJ,D,Depth D,,last games,12.3,0.0,3,0,1,1,1,12.3,0.0,3,0,1,1,Not enough games,,61,15.3,8482126
 Jake Christiansen,CBJ,D,Depth D,,last games,11.5,0.0,4,0,0,0,1,11.5,0.0,4,0,0,1,Not enough games,,40,10.0,8481161
 Mikael Backlund,CGY,C,Top-line C,,last games,18.3,0.0,7,1,1,2,22,18.3,0.0,7,1,2,22,Not enough games,,82,17.9,8474150
+Connor Zary,CGY,C,Top-line C,Yes,last season,14.4,1.6,2,0,1,1,2,13.6,0.5,2,0,1,2,Not enough games,,74,14.4,8482074
 Kevin Bahl,CGY,D,Top-pair D,,last games,21.7,0.0,7,1,0,1,6,21.7,0.0,7,1,1,6,Not enough games,,76,21.9,8480860
 Simon Nemec,CGY,D,Top-pair D,,last games,21.0,0.9,7,0,3,3,13,21.0,0.9,7,0,3,13,Not enough games,,68,19.7,8483495
 Joel Farabee,CGY,L,Top-6 F,Yes,last games,18.2,1.9,7,0,4,4,18,18.2,1.9,7,0,4,18,Not enough games,,82,16.9,8480797
@@ -120,7 +121,6 @@ Jonathan Huberdeau,CGY,L,Top-6 F,Yes,last season,18.1,2.9,0,0,0,0,0,,,0,0,0,0,No
 Matt Coronato,CGY,R,Top-6 F,,last games,17.4,1.9,7,2,2,4,16,17.4,1.9,7,2,4,16,Not enough games,,80,16.7,8482679
 Yegor Sharangovich,CGY,C,Top-6 F,,last games,16.6,0.9,7,1,2,3,10,16.6,0.9,7,1,3,10,Not enough games,,78,16.0,8481068
 Morgan Frost,CGY,C,Top-6 F,Yes,last games,15.7,1.9,7,2,1,3,14,15.7,1.9,7,2,3,14,Not enough games,,82,15.5,8480028
-Connor Zary,CGY,C,Top-6 F,,last season,14.4,1.6,2,0,1,1,2,13.6,0.5,2,0,1,2,Not enough games,,74,14.4,8482074
 Zach Whitecloud,CGY,D,Top-4 D,,last games,20.9,0.0,7,0,0,0,6,20.9,0.0,7,0,0,6,Not enough games,,78,20.3,8480727
 Yan Kuznetsov,CGY,D,Top-4 D,,last games,18.5,0.0,6,0,1,1,9,18.5,0.0,6,0,1,9,Not enough games,,57,20.1,8482165
 Samuel Honzek,CGY,L,Depth F,,last games,15.6,0.0,4,0,0,0,3,15.6,0.0,4,0,0,3,Not enough games,,18,12.3,8484180
@@ -203,9 +203,9 @@ Kyle Capobianco,DAL,D,Depth D,,last season,12.1,0.4,1,0,0,0,0,3.0,0.0,1,0,0,0,No
 Kyle Burroughs,DAL,D,Depth (no NHL data),,no NHL data,0.0,0.0,0,0,0,0,0,,,0,0,0,0,Not enough games,,0,0.0,8477335
 Dylan Larkin,DET,C,Top-line C,Yes,last games,21.2,4.5,5,1,2,3,13,21.2,4.5,5,1,3,13,Not enough games,,74,20.2,8477946
 Justin Faulk,DET,D,Top-pair D,,last games,19.2,1.5,7,1,3,4,11,19.2,1.5,7,1,4,11,Not enough games,,78,22.0,8475753
-Lucas Raymond,DET,L,Top-6 F,Yes,last games,20.5,4.5,7,0,4,4,20,20.5,4.5,7,0,4,20,Not enough games,,80,18.8,8482078
+Lucas Raymond,DET,L,Top-6 F,Yes,last games,20.5,4.5,7,0,4,4,21,20.5,4.5,7,0,4,21,Not enough games,,80,18.8,8482078
 Alex DeBrincat,DET,R,Top-6 F,Yes,last games,20.3,4.2,7,4,4,8,28,20.3,4.2,7,4,8,28,Not enough games,,82,18.5,8479337
-Andrew Copp,DET,C,Top-6 F,,last games,19.3,2.1,7,1,1,2,14,19.3,2.1,7,1,2,14,Not enough games,,79,16.6,8477429
+Andrew Copp,DET,C,Top-6 F,,last games,19.3,2.1,7,1,1,2,13,19.3,2.1,7,1,2,13,Not enough games,,79,16.6,8477429
 Viktor Arvidsson,DET,L,Top-6 F,Yes,last games,18.9,3.9,7,3,1,4,18,18.9,3.9,7,3,4,18,Not enough games,,69,14.6,8478042
 Michael Rasmussen,DET,C,Top-6 F,,last games,16.8,1.4,7,0,1,1,8,16.8,1.4,7,0,1,8,Not enough games,,64,12.6,8479992
 Ben Chiarot,DET,D,Top-4 D,,last games,18.8,0.2,7,0,1,1,6,18.8,0.2,7,0,1,6,Not enough games,,82,20.8,8475279
@@ -319,7 +319,6 @@ Zach Bogosian,MIN,D,Depth D,,last games,16.4,0.1,7,0,0,0,6,16.4,0.1,7,0,0,6,Not 
 Matt Kiersted,MIN,D,Depth D,,last season,15.7,0.0,1,0,0,0,0,12.1,0.0,1,0,0,0,Not enough games,,6,15.7,8482641
 David Spacek,MIN,D,Depth D,,last games,13.4,0.9,4,0,0,0,6,13.4,0.9,4,0,0,6,Not enough games,,2,10.8,8483766
 Daemon Hunt,MIN,D,Depth D,,last games,12.7,0.0,8,0,0,0,4,12.7,0.0,8,0,0,4,Neutral,0 pts vs 1.5 expected in last 8; TOI +0.3 min/gm; PP -0.2 min/gm; shots rate x0.82; goals vs shooting% +0.0,32,12.4,8482094
-Carson Lambos,MIN,D,Depth D,,last season,10.3,0.0,0,0,0,0,0,,,0,0,0,0,Not enough games,,1,10.3,8482781
 Nick Suzuki,MTL,C,Top-line C,Yes,last games,22.0,3.6,7,4,5,9,20,22.0,3.6,7,4,9,20,Not enough games,,82,20.8,8480018
 Lane Hutson,MTL,D,Top-pair D,Yes,last games,26.4,3.8,7,2,6,8,16,26.4,3.8,7,2,8,16,Not enough games,,82,23.8,8483457
 Mike Matheson,MTL,D,Top-pair D,,last games,24.2,0.3,5,0,1,1,9,24.2,0.3,5,0,1,9,Not enough games,,78,24.2,8476875
@@ -350,9 +349,9 @@ Nico Hischier,NJD,C,Top-6 F,Yes,last games,18.4,3.6,7,4,1,5,14,18.4,3.6,7,4,5,14
 Jesper Bratt,NJD,L,Top-6 F,Yes,last games,17.9,3.6,7,2,5,7,19,17.9,3.6,7,2,7,19,Not enough games,,82,18.8,8479407
 Connor Brown,NJD,R,Top-6 F,,last season,17.6,1.5,0,0,0,0,0,,,0,0,0,0,Not enough games,,75,17.6,8477015
 Luke Evangelista,NJD,R,Top-6 F,Yes,last games,17.2,4.4,5,2,1,3,12,17.2,4.4,5,2,3,12,Not enough games,,81,16.6,8482146
-Timo Meier,NJD,R,Top-6 F,,last games,16.5,1.9,7,0,3,3,27,16.5,1.9,7,0,3,27,Not enough games,,77,18.5,8478414
 Dougie Hamilton,NJD,D,Top-4 D,,last games,21.2,1.7,7,1,3,4,21,21.2,1.7,7,1,4,21,Not enough games,,77,21.5,8476462
 Jonas Siegenthaler,NJD,D,Top-4 D,,last games,19.0,0.1,7,0,1,1,2,19.0,0.1,7,0,1,2,Not enough games,,82,19.5,8478399
+Timo Meier,NJD,R,Depth F,,last games,16.5,1.9,7,0,3,3,27,16.5,1.9,7,0,3,27,Not enough games,,77,18.5,8478414
 Evan Rodrigues,NJD,C,Depth F,,last games,15.8,1.9,7,2,2,4,13,15.8,1.9,7,2,4,13,Not enough games,,69,17.0,8478542
 Arseny Gritsyuk,NJD,R,Depth F,,last games,15.6,1.5,7,2,1,3,13,15.6,1.5,7,2,3,13,Not enough games,,66,15.2,8481721
 Dawson Mercer,NJD,C,Depth F,,last games,14.8,0.4,7,0,3,3,18,14.8,0.4,7,0,3,18,Not enough games,,82,18.2,8482110
@@ -367,7 +366,6 @@ Brenden Dillon,NJD,D,Depth D,,last games,14.4,0.0,5,0,0,0,1,14.4,0.0,5,0,0,1,Not
 Ryan O'Reilly,NSH,C,Top-line C,Yes,last games,21.8,4.1,7,3,3,6,14,21.8,4.1,7,3,6,14,Not enough games,,81,20.4,8475158
 Roman Josi,NSH,D,Top-pair D,Yes,last games,25.7,4.4,7,1,6,7,18,25.7,4.4,7,1,7,18,Not enough games,,68,24.9,8474600
 Brady Skjei,NSH,D,Top-pair D,,last games,20.1,0.9,7,0,2,2,7,20.1,0.9,7,0,2,7,Not enough games,,82,22.6,8476869
-Ryan Ufko,NSH,D,Top-pair D,Yes,last season,13.9,1.6,1,0,0,0,1,15.4,2.9,1,0,0,1,Not enough games,,18,13.9,8482715
 Filip Forsberg,NSH,L,Top-6 F,Yes,last games,21.4,4.4,7,0,6,6,22,21.4,4.4,7,0,6,22,Not enough games,,82,18.9,8476887
 Steven Stamkos,NSH,C,Top-6 F,Yes,last games,19.7,4.4,7,4,4,8,13,19.7,4.4,7,4,8,13,Not enough games,,82,17.8,8474564
 Jonathan Marchessault,NSH,C,Top-6 F,Yes,last games,16.8,3.3,7,1,1,2,12,16.8,3.3,7,1,2,12,Not enough games,,62,16.7,8476539
@@ -385,6 +383,7 @@ Vitali Pinchuk,NSH,C,Depth F,,last games,10.3,1.9,3,0,1,1,3,10.3,1.9,3,0,1,3,Not
 Nicolas Hague,NSH,D,Depth D,,last games,17.7,0.0,7,0,1,1,6,17.7,0.0,7,0,1,6,Not enough games,,62,19.6,8479980
 Ilya Lyubushkin,NSH,D,Depth D,,last season,15.7,0.0,0,0,0,0,0,,,0,0,0,0,Not enough games,,53,15.7,8480950
 Jayden Struble,NSH,D,Depth D,,last games,14.4,0.0,6,0,0,0,0,14.4,0.0,6,0,0,0,Not enough games,,59,14.0,8481593
+Ryan Ufko,NSH,D,Depth D,,last season,13.9,1.6,1,0,0,0,1,15.4,2.9,1,0,0,1,Not enough games,,18,13.9,8482715
 William Trudeau,NSH,D,Depth D,,last games,9.2,0.0,3,0,0,0,2,9.2,0.0,3,0,0,2,Not enough games,,0,0.0,8482806
 Jack Ahcan,NSH,D,Depth D,,last games,7.6,1.0,3,0,1,1,0,7.6,1.0,3,0,1,0,Not enough games,,11,11.5,8482072
 Bo Horvat,NYI,C,Top-line C,Yes,last games,20.0,3.8,7,4,3,7,24,20.0,3.8,7,4,7,24,Not enough games,,68,20.8,8477500
@@ -421,6 +420,7 @@ Marcus Pettersson,NYR,D,Top-4 D,,last games,20.4,0.1,9,0,2,2,6,20.4,0.1,9,0,2,6,
 Tye Kartye,NYR,L,Depth F,,last games,15.2,0.0,9,2,4,6,10,15.2,0.0,9,2,6,10,Neutral,6 pts vs 3.9 expected in last 9; TOI +3.2 min/gm; PP -0.0 min/gm; shots rate x1.00; goals vs shooting% +0.6,64,12.0,8481789
 Noah Laba,NYR,C,Depth F,,last games,15.0,0.2,9,0,2,2,7,15.0,0.2,9,0,2,7,Neutral,2 pts vs 3.2 expected in last 9; TOI +1.5 min/gm; PP -0.4 min/gm; shots rate x0.71; goals vs shooting% -0.9,74,13.5,8483690
 Eeli Tolvanen,NYR,R,Depth F,,last games,13.2,1.1,9,3,1,4,11,13.2,1.1,9,3,4,11,Neutral,4 pts vs 3.4 expected in last 9; TOI -2.8 min/gm; PP -0.7 min/gm; shots rate x0.82; goals vs shooting% +2.1,78,16.0,8480009
+Taylor Raddysh,NYR,R,Depth F,,last season,11.8,0.4,0,0,0,0,0,,,0,0,0,0,Not enough games,,68,11.8,8479390
 Joseph Veleno,NYR,C,Depth F,,last games,11.6,0.0,4,0,0,0,2,11.6,0.0,4,0,0,2,Not enough games,,61,12.1,8480813
 Adam Sykora,NYR,L,Depth F,,last season,11.2,0.1,0,0,0,0,0,,,0,0,0,0,Not enough games,,11,11.2,8483669
 Oliver Bjorkstrand,NYR,R,Depth F,,last games,10.7,1.1,9,2,1,3,13,10.7,1.1,9,2,3,13,Neutral,3 pts vs 2.8 expected in last 9; TOI -2.9 min/gm; PP -2.1 min/gm; shots rate x1.13; goals vs shooting% +0.8,80,13.6,8477416
@@ -438,10 +438,9 @@ Shane Pinto,OTT,C,Top-6 F,,last games,19.5,2.9,8,1,5,6,13,19.5,2.9,8,1,6,13,Neut
 Dylan Cozens,OTT,C,Top-6 F,Yes,last games,18.4,4.6,8,0,2,2,15,18.4,4.6,8,0,2,15,Cold – shots down,2 pts vs 6.2 expected in last 8; TOI +1.4 min/gm; PP +1.4 min/gm; shots rate x0.69; goals vs shooting% -2.0,82,17.0,8481528
 Drake Batherson,OTT,R,Top-6 F,Yes,last games,17.7,4.5,8,3,2,5,17,17.7,4.5,8,3,5,17,Neutral,5 pts vs 7.3 expected in last 8; TOI +0.3 min/gm; PP +1.3 min/gm; shots rate x0.99; goals vs shooting% -0.4,79,17.4,8480208
 Claude Giroux,OTT,R,Top-6 F,Yes,last games,17.3,3.6,8,1,4,5,12,17.3,3.6,8,1,5,12,Neutral,5 pts vs 5.1 expected in last 8; TOI +1.0 min/gm; PP +1.4 min/gm; shots rate x0.84; goals vs shooting% -0.2,82,16.3,8473512
-Ridly Greig,OTT,C,Top-6 F,,last games,16.7,1.6,6,1,1,2,9,16.7,1.6,6,1,2,9,Not enough games,,77,16.7,8482092
+Ridly Greig,OTT,C,Top-6 F,,last games,16.7,1.6,6,1,1,2,10,16.7,1.6,6,1,2,10,Not enough games,,77,16.7,8482092
 Jordan Spence,OTT,D,Top-4 D,,last games,22.7,0.3,8,0,1,1,7,22.7,0.3,8,0,1,7,Cold – usage down,1 pts vs 4.1 expected in last 8; TOI +3.9 min/gm; PP -1.0 min/gm; shots rate x0.49; goals vs shooting% -0.5,73,18.7,8481606
 Tyler Kleven,OTT,D,Top-4 D,,last games,21.0,0.1,8,1,1,2,8,21.0,0.1,8,1,2,8,Neutral,2 pts vs 2.5 expected in last 8; TOI +3.7 min/gm; PP -0.0 min/gm; shots rate x0.64; goals vs shooting% +0.7,70,17.3,8482095
-Jorian Donovan,OTT,D,Top-4 D,,last season,7.0,0.0,1,0,0,0,0,9.2,0.0,1,0,0,0,Not enough games,,2,7.0,8483435
 Michael Amadio,OTT,R,Depth F,,last games,16.2,0.0,8,2,2,4,9,16.2,0.0,8,2,4,9,Neutral,4 pts vs 3.5 expected in last 8; TOI +0.1 min/gm; PP -0.1 min/gm; shots rate x0.94; goals vs shooting% +0.6,81,16.1,8478020
 William Eklund,OTT,L,Depth F,,last games,13.9,2.4,4,1,1,2,9,13.9,2.4,4,1,2,9,Not enough games,,78,18.5,8482667
 Andre Burakovsky,OTT,L,Depth F,,last games,13.7,3.5,4,0,0,0,2,13.7,3.5,4,0,0,2,Not enough games,,75,16.4,8477444
@@ -449,6 +448,7 @@ Fabian Zetterlund,OTT,L,Depth F,,last games,12.9,2.3,8,1,2,3,15,12.9,2.3,8,1,3,1
 Warren Foegele,OTT,L,Depth F,,last games,11.5,0.0,8,0,2,2,4,11.5,0.0,8,0,2,4,Neutral,2 pts vs 1.7 expected in last 8; TOI -2.2 min/gm; PP -0.6 min/gm; shots rate x0.39; goals vs shooting% -0.5,68,13.8,8477998
 Stephen Halliday,OTT,C,Depth F,,last games,11.2,3.0,8,2,1,3,8,11.2,3.0,8,2,3,8,Not enough baseline,,30,8.5,8483676
 Nick Cousins,OTT,C,Depth F,,last games,9.4,0.0,8,1,1,2,3,9.4,0.0,8,1,2,3,Neutral,2 pts vs 1.9 expected in last 8; TOI -2.0 min/gm; PP -0.0 min/gm; shots rate x0.47; goals vs shooting% +0.7,81,11.4,8476393
+Jorian Donovan,OTT,D,Depth F,,last season,7.0,0.0,1,0,0,0,0,9.2,0.0,1,0,0,0,Not enough games,,2,7.0,8483435
 Hayden Hodgson,OTT,R,Depth F,,last season,7.0,0.0,2,0,0,0,0,5.4,0.1,2,0,0,0,Not enough games,,10,7.0,8478173
 Artem Zub,OTT,D,Depth D,,last season,20.8,0.1,1,0,1,1,1,18.5,0.0,1,0,1,1,Not enough games,,81,20.8,8482245
 Carter Yakemchuk,OTT,D,Depth D,Yes,last games,18.5,3.6,8,1,1,2,11,18.5,3.6,8,1,2,11,Not enough baseline,,4,14.5,8484759
@@ -527,6 +527,7 @@ Josh Mahura,SEA,D,Depth D,,last games,13.6,0.0,5,0,2,2,3,13.6,0.0,5,0,2,3,Not en
 Ryan Lindgren,SEA,D,Depth D,,last games,12.7,0.1,4,0,0,0,3,12.7,0.1,4,0,0,3,Not enough games,,76,18.3,8479324
 Ville Ottavainen,SEA,D,Depth D,,last games,12.1,0.0,5,1,0,1,5,12.1,0.0,5,1,1,5,Not enough games,,0,0.0,8482866
 Jake O'Brien,SEA,C,Depth (no NHL data),,no NHL data,0.0,0.0,0,0,0,0,0,,,0,0,0,0,Not enough games,,0,0.0,8485383
+Ty Nelson,SEA,D,Depth (no NHL data),,no NHL data,0.0,0.0,0,0,0,0,0,,,0,0,0,0,Not enough games,,0,0.0,8483494
 Macklin Celebrini,SJS,C,Top-line C,Yes,last games,22.0,3.7,5,2,6,8,19,22.0,3.7,5,2,8,19,Not enough games,,82,21.3,8484801
 Jacob Trouba,SJS,D,Top-pair D,,last games,21.8,0.7,7,1,2,3,12,21.8,0.7,7,1,3,12,Not enough games,,81,22.8,8476885
 Darnell Nurse,SJS,D,Top-pair D,,last games,20.6,0.0,6,1,0,1,12,20.6,0.0,6,1,1,12,Not enough games,,82,21.0,8477498
@@ -578,7 +579,7 @@ Erik Cernak,TBL,D,Top-pair D,,last games,18.5,0.1,7,0,1,1,12,18.5,0.1,7,0,1,12,N
 Brandon Hagel,TBL,L,Top-6 F,Yes,last games,22.1,5.1,7,6,4,10,33,22.1,5.1,7,6,10,33,Not enough games,,71,19.8,8479542
 Nikita Kucherov,TBL,R,Top-6 F,Yes,last games,21.9,5.7,7,1,7,8,17,21.9,5.7,7,1,8,17,Not enough games,,76,20.3,8476453
 Brayden Point,TBL,C,Top-6 F,Yes,last games,19.5,5.3,7,1,3,4,16,19.5,5.3,7,1,4,16,Not enough games,,63,18.3,8478010
-Anthony Cirelli,TBL,C,Top-6 F,,last games,17.9,2.1,7,1,2,3,11,17.9,2.1,7,1,3,11,Not enough games,,71,17.3,8478519
+Anthony Cirelli,TBL,C,Top-6 F,,last games,17.9,2.1,7,1,2,3,10,17.9,2.1,7,1,3,10,Not enough games,,71,17.3,8478519
 Yanni Gourde,TBL,C,Top-6 F,,last season,16.4,0.2,0,0,0,0,0,,,0,0,0,0,Not enough games,,82,16.4,8476826
 J.J. Moser,TBL,D,Top-4 D,,last games,17.8,0.3,7,0,0,0,7,17.8,0.3,7,0,0,7,Not enough games,,79,21.6,8482655
 Emil Lilleberg,TBL,D,Top-4 D,,last season,17.3,0.0,2,0,0,0,1,10.4,0.0,2,0,0,1,Not enough games,,50,17.3,8482929
