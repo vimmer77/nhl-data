@@ -1,6 +1,4 @@
 Date,Start (ET),Start (PT),Away,Home,Away rest days,Away back-to-back,Away 3-in-4,Home rest days,Home back-to-back,Home 3-in-4,Away GP,Home GP,Away last starting goalie,Home last starting goalie
-2026-10-16,9:00 PM,6:00 PM,PIT,COL,2,No,No,1,No,Yes,7,7,Sergei Murashov,Scott Wedgewood
-2026-10-16,10:00 PM,7:00 PM,BOS,ANA,2,No,No,2,No,No,7,6,Jeremy Swayman,Lukas Dostal
 2026-10-17,1:00 PM,10:00 AM,NJD,WSH,1,No,No,2,No,No,7,7,Nico Daws,Charlie Lindgren
 2026-10-17,3:30 PM,12:30 PM,CAR,WPG,3,No,No,1,No,No,8,7,Pyotr Kochetkov,Stuart Skinner
 2026-10-17,4:00 PM,1:00 PM,VAN,TBL,1,No,No,1,No,No,9,7,Leevi Merilainen,Andrei Vasilevskiy
@@ -12,8 +10,12 @@ Date,Start (ET),Start (PT),Away,Home,Away rest days,Away back-to-back,Away 3-in-
 2026-10-17,7:00 PM,4:00 PM,NYI,TOR,1,No,No,1,No,No,7,8,Semyon Varlamov,Sergei Bobrovsky
 2026-10-17,7:00 PM,4:00 PM,OTT,PHI,1,No,No,1,No,No,8,9,Linus Ullmark,Joseph Woll
 2026-10-17,8:00 PM,5:00 PM,STL,NSH,1,No,No,1,No,No,7,7,Joel Hofer,Juuse Saros
-2026-10-17,9:00 PM,6:00 PM,BOS,LAK,0,Yes,No,3,No,No,7,5,Jeremy Swayman,Darcy Kuemper
+2026-10-17,9:00 PM,6:00 PM,BOS,LAK,0,Yes,No,3,No,No,8,5,Michael DiPietro,Darcy Kuemper
 2026-10-17,10:00 PM,7:00 PM,EDM,UTA,1,No,No,1,No,No,7,8,Devon Levi,Karel Vejmelka
-2026-10-17,10:00 PM,7:00 PM,PIT,VGK,0,Yes,No,1,No,No,7,9,Sergei Murashov,Carter Hart
+2026-10-17,10:00 PM,7:00 PM,PIT,VGK,0,Yes,No,1,No,No,8,9,Arturs Silovs,Carter Hart
 2026-10-18,6:00 PM,3:00 PM,CBJ,MIN,0,Yes,No,2,No,No,5,8,Cam Talbot,Jesper Wallstedt
 2026-10-18,8:00 PM,5:00 PM,CAR,CGY,0,Yes,No,2,No,No,8,7,Pyotr Kochetkov,Dustin Wolf
+2026-10-19,7:00 PM,4:00 PM,ANA,NYR,2,No,No,1,No,No,7,9,Lukas Dostal,Dylan Garand
+2026-10-19,7:00 PM,4:00 PM,COL,PHI,2,No,No,1,No,No,8,9,Mackenzie Blackwood,Joseph Woll
+2026-10-19,7:30 PM,4:30 PM,SJS,TOR,1,No,No,1,No,No,7,8,Alex Nedeljkovic,Sergei Bobrovsky
+2026-10-19,9:00 PM,6:00 PM,PIT,UTA,1,No,Yes,1,No,No,8,8,Arturs Silovs,Karel Vejmelka
