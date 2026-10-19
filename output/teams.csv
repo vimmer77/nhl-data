@@ -2,9 +2,9 @@ Team,GP,Record (W-L-OTL),PP% this season,PK% this season,PP% last season,PK% las
 ANA,7,4-3-0,26.9,80.0,18.6,76.4,48.6,45.5,0.993,51.5,54.0,0.981,22,21,47.9,Lukas Dostal / Lukas Dostal / Ville Husso / Lukas Dostal / Lukas Dostal,2.462,2.605,2.657,2.502
 BOS,9,7-2-0,25.0,81.2,23.4,77.0,53.9,52.9,1.06,47.4,45.3,1.023,34,19,47.3,Jeremy Swayman / Michael DiPietro / Jeremy Swayman / Jeremy Swayman / Jeremy Swayman,2.715,2.324,2.301,2.552
 BUF,9,4-3-2,9.1,64.5,19.5,81.9,50.8,63.0,0.977,50.2,49.2,1.02,27,33,51.1,Ukko-Pekka Luukkonen / Ukko-Pekka Luukkonen / Ukko-Pekka Luukkonen / Colten Ellis / Colten Ellis,2.431,2.355,2.47,2.449
-CAR,9,7-1-1,27.0,93.5,24.9,80.5,59.0,60.0,0.975,56.7,58.6,0.984,34,21,60.2,Pyotr Kochetkov / Pyotr Kochetkov / Pyotr Kochetkov / Brandon Bussi / Pyotr Kochetkov,3.259,2.262,2.886,2.203
-CBJ,6,3-3-0,13.3,66.7,18.9,76.0,49.4,47.8,1.011,52.2,54.1,1.003,16,21,50.8,Jet Greaves / Cam Talbot / Jet Greaves / Cam Talbot / Jet Greaves,2.517,2.579,2.528,2.313
-CGY,7,1-6-0,20.0,80.0,16.2,80.4,47.5,41.7,0.901,47.0,45.0,0.985,14,35,50.6,Dustin Wolf / Dustin Wolf / Dustin Wolf / Devin Cooley / Dustin Wolf,2.572,2.843,2.276,2.571
+CAR,10,7-2-1,25.6,91.4,24.9,80.5,59.4,57.7,0.978,56.7,58.6,0.984,36,24,59.1,Brandon Bussi / Pyotr Kochetkov / Pyotr Kochetkov / Pyotr Kochetkov / Brandon Bussi,3.279,2.237,2.886,2.203
+CBJ,7,3-4-0,11.8,68.0,18.9,76.0,46.0,44.0,1.015,52.2,54.1,1.003,17,23,48.2,Cam Talbot / Jet Greaves / Cam Talbot / Jet Greaves / Cam Talbot,2.283,2.679,2.528,2.313
+CGY,8,2-6-0,21.1,81.5,16.2,80.4,46.2,46.2,0.917,47.0,45.0,0.985,17,37,50.3,Devin Cooley / Dustin Wolf / Dustin Wolf / Dustin Wolf / Devin Cooley,2.506,2.917,2.276,2.571
 CHI,9,3-6-0,12.5,74.1,16.9,83.6,39.6,38.1,0.969,42.7,42.4,0.996,21,36,41.2,Spencer Knight / Spencer Knight / Spencer Knight / Spencer Knight / Arvid Soderblom,1.963,2.997,2.1,2.818
 COL,8,5-2-1,20.7,85.0,17.1,84.6,56.3,54.5,1.068,57.7,59.0,1.021,36,23,54.2,Mackenzie Blackwood / Scott Wedgewood / Mackenzie Blackwood / Mackenzie Blackwood / Scott Wedgewood,2.975,2.311,2.962,2.174
 DAL,8,4-3-1,15.0,89.3,28.6,80.3,49.7,46.7,1.048,51.0,51.5,1.024,19,12,53.0,Jake Oettinger / Casey DeSmith / Jake Oettinger / Jake Oettinger / Jake Oettinger,2.035,2.058,2.295,2.208
@@ -12,7 +12,7 @@ DET,8,3-3-2,17.9,69.0,22.6,77.1,49.0,42.1,0.995,48.6,48.6,0.985,19,23,53.0,John 
 EDM,8,6-1-1,25.0,70.8,30.6,77.8,54.5,66.7,1.087,51.6,51.4,0.982,37,24,48.3,Tristan Jarry / Devon Levi / Devon Levi / Tristan Jarry / Devon Levi,2.24,1.867,2.551,2.389
 FLA,9,5-2-2,20.9,80.6,19.5,81.0,55.6,57.1,0.995,49.4,45.7,0.989,30,25,54.9,Jacob Markstrom / Akira Schmid / Akira Schmid / Jacob Markstrom / Jacob Markstrom,2.453,1.958,2.393,2.453
 LAK,6,0-4-2,14.3,61.9,17.0,74.6,49.9,41.7,0.94,52.1,56.0,1.002,12,25,52.8,Anton Forsberg / Darcy Kuemper / Darcy Kuemper / Darcy Kuemper / Anton Forsberg,2.032,2.042,2.336,2.148
-MIN,8,5-2-1,33.3,88.5,25.2,79.8,52.7,55.0,1.0,51.9,57.4,1.007,26,20,52.1,Jesper Wallstedt / Calvin Pickard / Jesper Wallstedt / Jesper Wallstedt / Jesper Wallstedt,2.528,2.268,2.473,2.291
+MIN,9,6-2-1,32.1,89.3,25.2,79.8,55.3,59.1,0.996,51.9,57.4,1.007,28,21,53.8,Jesper Wallstedt / Jesper Wallstedt / Calvin Pickard / Jesper Wallstedt / Jesper Wallstedt,2.613,2.11,2.473,2.291
 MTL,8,4-3-1,14.8,82.4,23.1,78.2,53.9,52.4,0.967,48.2,44.1,1.018,25,30,53.0,Jacob Fowler / Jakub Dobes / Jacob Fowler / Jacob Fowler / Jacob Fowler,2.617,2.24,2.333,2.509
 NJD,8,4-4-0,20.7,69.6,22.0,79.3,59.7,56.5,0.962,49.2,46.6,0.971,25,27,58.3,Jake Allen / Nico Daws / Jake Allen / Nico Daws / Jake Allen,3.179,2.145,2.357,2.43
 NSH,8,3-2-3,29.6,85.2,23.1,81.7,45.8,61.1,0.998,48.5,52.3,0.992,23,22,45.6,Juuse Saros / Juuse Saros / Juuse Saros / Matt Murray / Juuse Saros,2.076,2.453,2.376,2.524
