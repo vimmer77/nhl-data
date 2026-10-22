@@ -6,7 +6,7 @@ Michael DiPietro,BOS,Average (small sample),,0.098,2,1.1,1,0.1,0.8,20.0,2026-10-
 Alex Lyon,BUF,Above-average,9.0,0.292,0,0.0,36,12.6,1.0,0.0,,8479312
 Ukko-Pekka Luukkonen,BUF,Average,37.0,-0.018,7,-3.7,35,10.5,0.3,70.0,2026-10-21,8480045
 Colten Ellis,BUF,Average,30.0,0.063,3,0.2,16,1.9,0.7,30.0,2026-10-12,8481551
-Pyotr Kochetkov,CAR,Average,22.0,0.117,6,2.3,9,-0.0,0.4,55.0,2026-10-20,8481611
+Pyotr Kochetkov,CAR,Above-average,22.0,0.117,6,2.3,9,-0.0,0.4,55.0,2026-10-20,8481611
 Brandon Bussi,CAR,Average,39.0,-0.031,5,-2.5,39,2.8,0.5,45.0,2026-10-18,8483548
 Jet Greaves,CBJ,Above-average,20.0,0.186,5,-0.4,55,16.5,0.5,62.0,2026-10-20,8482982
 Cam Talbot,CBJ,Replacement-level,60.0,-0.299,3,-0.9,34,-13.1,0.7,38.0,2026-10-18,8475660
@@ -20,9 +20,9 @@ Jake Oettinger,DAL,Above-average,8.0,0.335,7,9.4,54,5.7,0.3,78.0,2026-10-20,8479
 Casey DeSmith,DAL,Above-average,13.0,0.261,2,0.8,30,10.5,0.8,22.0,2026-10-14,8479193
 John Gibson,DET,Average,25.0,0.083,6,-1.6,57,11.7,0.4,67.0,2026-10-17,8476434
 Daniil Tarasov,DET,Average,23.0,0.107,3,5.1,33,-1.8,0.7,33.0,2026-10-20,8480193
+Frederik Andersen,EDM,Average,43.0,-0.074,0,0.0,35,-3.3,1.0,0.0,,8475883
 Devon Levi,EDM,Average (small sample),,0.04,6,0.6,0,0.0,0.4,67.0,2026-10-20,8482221
 Tristan Jarry,EDM,Replacement-level,52.0,-0.167,3,-2.7,33,-4.1,0.7,33.0,2026-10-17,8477465
-Frederik Andersen,EDM,Replacement-level,43.0,-0.074,0,0.0,35,-3.3,1.0,0.0,,8475883
 Jacob Markstrom,FLA,Replacement-level,44.0,-0.104,6,1.4,44,-11.9,0.4,60.0,2026-10-17,8474593
 Akira Schmid,FLA,Replacement-level,45.0,-0.118,4,-3.4,34,-1.0,0.6,40.0,2026-10-21,8481033
 Cooper Black,FLA,Replacement-level (no NHL data),,0.0,0,0.0,0,0.0,1.0,0.0,,8484900
@@ -47,7 +47,8 @@ Joonas Korpisalo,NYR,Average,38.0,-0.025,0,0.0,31,-1.0,1.0,0.0,,8476914
 Dylan Garand,NYR,Average (small sample),,0.325,6,4.0,3,3.9,0.4,55.0,2026-10-19,8482193
 Spencer Martin,NYR,Replacement-level (small sample),,-0.339,0,-1.1,6,-4.1,1.0,0.0,,8477484
 Linus Ullmark,OTT,Above-average,17.0,0.214,8,8.4,49,-12.8,0.2,80.0,2026-10-21,8476999
-Samuel Ersson,OTT,Replacement-level,61.0,-0.462,2,-4.1,33,-16.5,0.8,20.0,2026-10-13,8481035
+Samuel Ersson,OTT,Replacement-level,62.0,-0.462,2,-4.1,33,-16.5,0.8,20.0,2026-10-13,8481035
+Jonas Johansson,OTT,Replacement-level,61.0,-0.309,0,0.0,25,-10.4,1.0,0.0,,8477992
 Dan Vladar,PHI,Above-average,18.0,0.202,6,1.8,52,13.8,0.4,50.0,2026-10-21,8478435
 Joseph Woll,PHI,Average,31.0,0.062,6,4.6,39,-6.6,0.4,50.0,2026-10-19,8479361
 Arturs Silovs,PIT,Replacement-level,53.0,-0.188,6,-1.1,39,-11.9,0.4,60.0,2026-10-19,8481668
@@ -57,7 +58,7 @@ Joey Daccord,SEA,Replacement-level,51.0,-0.148,5,-2.4,47,-6.2,0.5,50.0,2026-10-1
 Alex Nedeljkovic,SJS,Average,24.0,0.106,4,4.6,40,-1.2,0.6,40.0,2026-10-20,8477968
 Yaroslav Askarov,SJS,Replacement-level,57.0,-0.236,6,-0.3,47,-18.9,0.4,60.0,2026-10-19,8482137
 Joel Hofer,STL,Above-average,15.0,0.225,6,2.8,46,11.7,0.4,67.0,2026-10-20,8480981
-Jordan Binnington,STL,Replacement-level,62.0,-0.519,3,-5.0,41,-22.4,0.7,33.0,2026-10-17,8476412
+Jordan Binnington,STL,Replacement-level,63.0,-0.519,3,-5.0,41,-22.4,0.7,33.0,2026-10-17,8476412
 Andrei Vasilevskiy,TBL,Above-average,12.0,0.262,7,1.5,58,24.7,0.3,78.0,2026-10-20,8476883
 Dennis Hildeby,TBL,Above-average,6.0,0.363,2,0.9,20,10.5,0.8,22.0,2026-10-17,8483710
 Sergei Bobrovsky,TOR,Average,33.0,0.025,7,4.5,52,-12.2,0.3,64.0,2026-10-19,8475683
@@ -65,7 +66,7 @@ Anthony Stolarz,TOR,Replacement-level,47.0,-0.127,4,0.5,26,-6.7,0.6,36.0,2026-10
 Karel Vejmelka,UTA,Average,36.0,-0.0,7,-2.1,64,6.9,0.3,70.0,2026-10-17,8478872
 Sebastian Cossa,UTA,Replacement-level (small sample),,-0.212,3,-2.7,0,0.0,0.7,30.0,2026-10-19,8482657
 Thatcher Demko,VAN,Average,27.0,0.069,0,0.0,20,2.0,1.0,0.0,,8477967
-Kevin Lankinen,VAN,Replacement-level,63.0,-0.577,6,-11.0,47,-19.3,0.4,55.0,2026-10-17,8480947
+Kevin Lankinen,VAN,Replacement-level,64.0,-0.577,6,-11.0,47,-19.3,0.4,55.0,2026-10-17,8480947
 Leevi Meriläinen,VAN,Replacement-level,59.0,-0.261,5,2.2,20,-17.3,0.5,45.0,2026-10-20,8482447
 Carter Hart,VGK,Replacement-level,46.0,-0.126,7,-1.5,18,-4.2,0.3,64.0,2026-10-20,8479394
 Adin Hill,VGK,Replacement-level,58.0,-0.256,4,1.1,27,-14.2,0.6,36.0,2026-10-17,8478499
