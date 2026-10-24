@@ -5,11 +5,11 @@ Tristan Luneau,ANA,D,Top-pair D,,last games,21.2,0.8,10,0,2,2,7,21.2,0.8,10,0,2,
 Beckett Sennecke,ANA,R,Top-6 F,Yes,last games,20.9,4.0,10,5,3,8,26,20.9,4.0,10,5,8,26,Neutral,8 pts vs 8.8 expected in last 10; TOI +3.5 min/gm; PP +1.6 min/gm; shots rate x0.90; goals vs shooting% +2.0,82,17.4,8484762
 Mikael Granlund,ANA,C,Top-6 F,Yes,last games,19.6,3.7,9,2,6,8,16,19.6,3.7,9,2,8,16,Neutral,8 pts vs 6.5 expected in last 9; TOI +0.4 min/gm; PP +0.5 min/gm; shots rate x0.86; goals vs shooting% -0.6,58,19.2,8475798
 Cutter Gauthier,ANA,L,Top-6 F,Yes,last games,17.5,3.6,9,2,3,5,30,17.5,3.6,9,2,5,30,Cold – shots steady,5 pts vs 8.3 expected in last 9; TOI +0.2 min/gm; PP +0.8 min/gm; shots rate x0.88; goals vs shooting% -2.3,76,17.3,8483445
-Travis Mitchell,ANA,D,Top-6 F,Yes,last games,16.6,0.0,5,0,0,0,3,16.6,0.0,5,0,0,3,Not enough games,,9,11.5,8484262
 Alex Killorn,ANA,L,Top-6 F,,last games,16.1,0.9,10,2,2,4,16,16.1,0.9,10,2,4,16,Neutral,4 pts vs 3.9 expected in last 10; TOI -0.6 min/gm; PP -0.6 min/gm; shots rate x0.92; goals vs shooting% +0.4,82,16.7,8473986
 Tim Washe,ANA,C,Top-6 F,,last games,15.2,0.3,10,3,2,5,10,15.2,0.3,10,3,5,10,Hot – usage-backed,5 pts vs 1.6 expected in last 10; TOI +3.1 min/gm; PP +0.3 min/gm; shots rate x0.94; goals vs shooting% +2.4,39,12.1,8485512
 Drew Helleson,ANA,D,Top-4 D,,last games,18.2,0.0,4,0,0,0,7,18.2,0.0,4,0,0,7,Not enough games,,60,17.0,8481563
 Pavel Mintyukov,ANA,D,Top-4 D,,last games,18.1,0.3,9,0,2,2,5,18.1,0.3,9,0,2,5,Neutral,2 pts vs 2.7 expected in last 9; TOI -0.3 min/gm; PP -0.5 min/gm; shots rate x0.52; goals vs shooting% -0.5,73,18.4,8483490
+Travis Mitchell,ANA,D,Depth F,,last games,16.6,0.0,5,0,0,0,3,16.6,0.0,5,0,0,3,Not enough games,,9,11.5,8484262
 Ryan Poehling,ANA,C,Depth F,,last games,14.2,0.3,5,1,1,2,6,14.2,0.3,5,1,2,6,Not enough games,,75,15.1,8480068
 Roger McQueen,ANA,C,Depth F,,last games,13.2,1.3,5,0,0,0,8,13.2,1.3,5,0,0,8,Not enough games,,0,0.0,8485400
 Nikita Klepov,ANA,R,Depth F,,last games,13.0,1.7,4,0,0,0,0,13.0,1.7,4,0,0,0,Not enough games,,0,0.0,8486052
@@ -250,7 +250,7 @@ Max Jones,EDM,L,Depth F,,last games,10.5,0.2,5,0,0,0,5,10.5,0.2,5,0,0,5,Not enou
 Filip Hallander,EDM,C,Depth F,,last games,10.5,0.4,7,1,2,3,6,10.5,0.4,7,1,3,6,Not enough games,,13,13.1,8480842
 Trent Frederic,EDM,C,Depth F,,last games,9.7,1.2,10,1,0,1,10,9.7,1.2,10,1,1,10,Neutral,1 pts vs 0.8 expected in last 10; TOI -1.4 min/gm; PP +1.1 min/gm; shots rate x1.10; goals vs shooting% +0.5,74,11.0,8479365
 Isaac Howard,EDM,L,Depth F,,last games,9.6,1.4,10,0,2,2,9,9.6,1.4,10,0,2,9,Not enough baseline,,29,10.3,8483455
-Josh Samanski,EDM,C,Depth F,Yes,last games,7.7,0.4,6,0,1,1,0,7.7,0.4,6,0,1,0,Not enough games,,24,10.6,8484509
+Josh Samanski,EDM,C,Depth F,,last games,7.7,0.4,6,0,1,1,0,7.7,0.4,6,0,1,0,Not enough games,,24,10.6,8484509
 Jake Walman,EDM,D,Depth D,,last games,15.0,1.2,7,0,1,1,6,15.0,1.2,7,0,1,6,Not enough games,,53,18.8,8478013
 Alec Regula,EDM,D,Depth D,,last season,14.5,0.0,0,0,0,0,0,,,0,0,0,0,Not enough games,,29,14.5,8480831
 Shakir Mukhamadullin,EDM,D,Depth D,,last games,11.9,0.2,5,1,0,1,1,11.9,0.2,5,1,1,1,Not enough games,,50,17.1,8482166
@@ -417,7 +417,7 @@ Matthew Kessel,NYI,D,Depth D,,last games,13.6,0.1,5,0,1,1,6,13.6,0.1,5,0,1,6,Not
 Mika Zibanejad,NYR,C,Top-line C,Yes,last games,21.3,3.9,12,3,8,11,22,20.8,3.5,10,2,9,17,Neutral,9 pts vs 9.8 expected in last 10; TOI +0.4 min/gm; PP +0.6 min/gm; shots rate x0.63; goals vs shooting% -0.7,81,20.9,8476459
 Adam Fox,NYR,D,Top-pair D,Yes,last games,22.3,3.9,12,0,14,14,13,21.7,3.5,10,0,12,13,Neutral,12 pts vs 9.2 expected in last 10; TOI -1.1 min/gm; PP +0.7 min/gm; shots rate x0.86; goals vs shooting% -1.3,55,23.6,8479323
 Vladislav Gavrikov,NYR,D,Top-pair D,,last games,21.3,0.1,12,1,5,6,18,21.3,0.1,10,1,6,17,Neutral,6 pts vs 3.7 expected in last 10; TOI -2.4 min/gm; PP -0.9 min/gm; shots rate x1.32; goals vs shooting% -1.0,82,23.7,8478882
-Jaroslav Chmelar,NYR,R,Top-pair D,,last games,8.2,0.1,7,0,0,0,3,8.2,0.1,7,0,0,3,Not enough games,,28,9.2,8482877
+Jaroslav Chmelar,NYR,R,Top-pair D,Yes,last games,8.2,0.1,7,0,0,0,3,8.2,0.1,7,0,0,3,Not enough games,,28,9.2,8482877
 Alexis Lafrenière,NYR,L,Top-6 F,Yes,last games,19.5,3.9,12,8,6,14,23,19.0,3.5,10,8,14,20,Hot – usage-backed,14 pts vs 7.5 expected in last 10; TOI +1.9 min/gm; PP +1.5 min/gm; shots rate x0.91; goals vs shooting% +5.1,82,17.6,8482109
 J.T. Miller,NYR,C,Top-6 F,Yes,last games,18.9,3.6,12,2,5,7,15,18.4,3.2,10,2,7,12,Neutral,7 pts vs 7.1 expected in last 10; TOI -1.1 min/gm; PP +0.5 min/gm; shots rate x0.60; goals vs shooting% +0.6,68,20.1,8476468
 Pavel Dorofeyev,NYR,R,Top-6 F,Yes,last games,17.9,3.5,12,2,4,6,37,17.4,3.2,10,1,4,27,Cold – shots steady,4 pts vs 8.0 expected in last 10; TOI +0.4 min/gm; PP +0.1 min/gm; shots rate x0.92; goals vs shooting% -3.3,82,17.6,8481604
@@ -571,11 +571,11 @@ Pavel Buchnevich,STL,L,Top-6 F,,last games,17.9,2.1,9,2,4,6,16,17.9,2.1,9,2,6,16
 Jimmy Snuggerud,STL,R,Top-6 F,Yes,last games,17.8,2.7,10,6,2,8,23,17.8,2.7,10,6,8,23,Neutral,8 pts vs 7.8 expected in last 10; TOI +1.1 min/gm; PP +0.4 min/gm; shots rate x0.89; goals vs shooting% +3.1,70,16.7,8483516
 Connor McMichael,STL,L,Top-6 F,,last games,15.8,2.1,10,2,5,7,12,15.8,2.1,10,2,7,12,Neutral,7 pts vs 5.5 expected in last 10; TOI -1.1 min/gm; PP +0.5 min/gm; shots rate x0.71; goals vs shooting% +0.8,78,16.9,8481580
 Mason McTavish,STL,C,Top-6 F,Yes,last games,15.7,2.3,10,6,4,10,31,15.7,2.3,10,6,10,31,Hot – usage-backed,10 pts vs 5.6 expected in last 10; TOI +0.4 min/gm; PP +0.3 min/gm; shots rate x1.55; goals vs shooting% +2.4,75,15.3,8482745
+Theo Lindstein,STL,D,Top-6 F,,last games,14.5,0.1,4,0,1,1,3,14.5,0.1,4,0,1,3,Not enough games,,17,15.8,8484188
 Colton Parayko,STL,D,Top-4 D,,last games,21.1,0.1,10,0,4,4,15,21.1,0.1,10,0,4,15,Neutral,4 pts vs 2.2 expected in last 10; TOI -1.1 min/gm; PP -0.1 min/gm; shots rate x1.16; goals vs shooting% -0.6,77,22.2,8476892
 Brandon Carlo,STL,D,Top-4 D,,last games,17.3,0.0,10,0,1,1,6,17.3,0.0,10,0,1,6,Neutral,1 pts vs 1.1 expected in last 10; TOI -2.1 min/gm; PP -0.0 min/gm; shots rate x0.56; goals vs shooting% +0.0,55,19.4,8478443
 Jake Neighbours,STL,L,Depth F,,last games,15.0,2.2,10,3,3,6,15,15.0,2.2,10,3,6,15,Neutral,6 pts vs 5.1 expected in last 10; TOI -0.2 min/gm; PP +0.1 min/gm; shots rate x1.22; goals vs shooting% +0.4,69,15.2,8482089
 Jonatan Berggren,STL,R,Depth F,,last games,14.6,0.9,10,2,3,5,14,14.6,0.9,10,2,5,14,Neutral,5 pts vs 4.6 expected in last 10; TOI +0.8 min/gm; PP -0.3 min/gm; shots rate x1.16; goals vs shooting% +0.1,51,13.8,8481013
-Theo Lindstein,STL,D,Depth F,,last games,14.5,0.1,4,0,1,1,3,14.5,0.1,4,0,1,3,Not enough games,,17,15.8,8484188
 Pius Suter,STL,C,Depth F,,last games,13.9,0.1,10,3,3,6,13,13.9,0.1,10,3,6,13,Neutral,6 pts vs 4.0 expected in last 10; TOI -2.0 min/gm; PP -1.0 min/gm; shots rate x1.00; goals vs shooting% +1.2,64,15.9,8480459
 Otto Stenberg,STL,C,Depth F,,last season,13.6,0.3,2,0,1,1,1,10.4,0.0,2,0,1,1,Not enough games,,32,13.6,8484230
 Dalibor Dvorsky,STL,R,Depth F,,last games,12.6,1.3,10,2,1,3,16,12.6,1.3,10,2,3,16,Neutral,3 pts vs 2.6 expected in last 10; TOI -1.7 min/gm; PP -0.6 min/gm; shots rate x1.39; goals vs shooting% -0.1,71,14.3,8484164
