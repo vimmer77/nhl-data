@@ -1,10 +1,10 @@
 Team,GP,Record (W-L-OTL),PP% this season,PK% this season,PP% last season,PK% last season,5v5 xGF% this season,5v5 HDCF% this season,5v5 PDO this season,5v5 xGF% last season,5v5 HDCF% last season,5v5 PDO last season,Last 10: GF,Last 10: GA,Last 10: shot share %,Recent starting goalies (newest first),5v5 xGF/60 this season,5v5 xGA/60 this season,5v5 xGF/60 last season,5v5 xGA/60 last season
-ANA,16,8-7-1,36.2,73.8,18.6,76.4,44.4,40.7,0.993,51.5,54.0,0.981,39,44,48.0,Laurent Brossoit / Laurent Brossoit / Laurent Brossoit / Ville Husso / Lukas Dostal,2.259,2.834,2.657,2.502
+ANA,17,9-7-1,36.1,73.5,18.6,76.4,45.2,41.1,0.994,51.5,54.0,0.981,42,43,48.2,Lukas Dostal / Laurent Brossoit / Laurent Brossoit / Laurent Brossoit / Ville Husso,2.298,2.785,2.657,2.502
 BOS,17,12-4-1,19.6,76.8,23.4,77.0,53.0,58.5,1.064,47.4,45.3,1.023,37,24,50.0,Michael DiPietro / Jeremy Swayman / Michael DiPietro / Jeremy Swayman / Jeremy Swayman,2.647,2.348,2.301,2.552
-BUF,15,7-5-3,16.3,69.8,19.5,81.9,48.9,50.0,0.993,50.2,49.2,1.02,33,31,48.6,Colten Ellis / Ukko-Pekka Luukkonen / Colten Ellis / Colten Ellis / Ukko-Pekka Luukkonen,2.389,2.497,2.47,2.449
+BUF,16,8-5-3,15.1,69.6,19.5,81.9,49.4,51.9,1.0,50.2,49.2,1.02,33,30,48.7,Ukko-Pekka Luukkonen / Colten Ellis / Ukko-Pekka Luukkonen / Colten Ellis / Colten Ellis,2.47,2.527,2.47,2.449
 CAR,18,13-3-2,22.6,85.0,24.9,80.5,60.2,57.7,1.009,56.7,58.6,0.984,38,23,59.3,Brandon Bussi / Pyotr Kochetkov / Pyotr Kochetkov / Pyotr Kochetkov / Pyotr Kochetkov,3.224,2.13,2.886,2.203
-CBJ,14,7-7-0,16.2,73.2,18.9,76.0,47.2,51.9,1.006,52.2,54.1,1.003,24,28,47.1,Cam Talbot / Cam Talbot / Jet Greaves / Jet Greaves / Cam Talbot,2.248,2.514,2.528,2.313
-CGY,16,7-8-1,29.7,84.0,16.2,80.4,46.0,39.4,0.955,47.0,45.0,0.985,27,26,46.6,Dustin Wolf / Dustin Wolf / Arsenii Sergeev / Dustin Wolf / Devin Cooley,2.29,2.687,2.276,2.571
+CBJ,15,7-8-0,17.5,75.6,18.9,76.0,47.0,50.0,0.998,52.2,54.1,1.003,23,26,46.2,Jet Greaves / Cam Talbot / Cam Talbot / Jet Greaves / Jet Greaves,2.294,2.59,2.528,2.313
+CGY,17,7-9-1,30.0,83.0,16.2,80.4,45.7,40.0,0.956,47.0,45.0,0.985,28,25,46.1,Dustin Wolf / Dustin Wolf / Dustin Wolf / Arsenii Sergeev / Dustin Wolf,2.275,2.699,2.276,2.571
 CHI,17,4-12-1,9.8,78.2,16.9,83.6,40.3,35.0,0.972,42.7,42.4,0.996,20,38,44.3,Arvid Soderblom / Spencer Knight / Spencer Knight / Arvid Soderblom / Spencer Knight,1.982,2.934,2.1,2.818
 COL,17,9-6-2,20.0,76.9,17.1,84.6,53.5,44.7,1.031,57.7,59.0,1.021,37,34,51.7,Mackenzie Blackwood / Scott Wedgewood / Mackenzie Blackwood / Mackenzie Blackwood / Mackenzie Blackwood,2.737,2.375,2.962,2.174
 DAL,16,9-5-2,22.9,90.4,28.6,80.3,50.5,51.3,1.001,51.0,51.5,1.024,31,26,53.1,Casey DeSmith / Jake Oettinger / Jake Oettinger / Jake Oettinger / Casey DeSmith,2.167,2.124,2.295,2.208
@@ -12,7 +12,7 @@ DET,17,7-7-3,22.8,71.7,22.6,77.1,51.8,50.0,0.987,48.6,48.6,0.985,31,30,52.7,Dani
 EDM,17,11-3-3,33.9,74.1,30.6,77.8,49.6,56.9,1.033,51.6,51.4,0.982,39,29,49.2,Matt Tomkins / Tristan Jarry / Matt Tomkins / Tristan Jarry / Tristan Jarry,2.097,2.127,2.551,2.389
 FLA,16,9-5-2,23.9,84.6,19.5,81.0,53.6,48.4,0.974,49.4,45.7,0.989,40,30,55.7,Jacob Markstrom / Jacob Markstrom / Akira Schmid / Akira Schmid / Akira Schmid,2.293,1.984,2.393,2.453
 LAK,14,5-7-2,22.4,62.2,17.0,74.6,49.7,54.5,1.011,52.1,56.0,1.002,33,30,49.4,Darcy Kuemper / Anton Forsberg / Darcy Kuemper / Anton Forsberg / Darcy Kuemper,2.276,2.3,2.336,2.148
-MIN,17,11-3-3,25.4,80.4,25.2,79.8,56.4,55.1,1.023,51.9,57.4,1.007,35,22,57.0,Jesper Wallstedt / Jesper Wallstedt / Jesper Wallstedt / Jesper Wallstedt / Calvin Pickard,2.822,2.179,2.473,2.291
+MIN,18,12-3-3,26.6,81.5,25.2,79.8,56.1,54.0,1.025,51.9,57.4,1.007,34,19,56.5,Jesper Wallstedt / Jesper Wallstedt / Jesper Wallstedt / Jesper Wallstedt / Jesper Wallstedt,2.774,2.17,2.473,2.291
 MTL,16,10-3-3,14.0,78.5,23.1,78.2,52.9,48.9,1.028,48.2,44.1,1.018,38,29,47.9,Jakub Dobes / Jacob Fowler / Jacob Fowler / Jakub Dobes / Jacob Fowler,2.671,2.375,2.333,2.509
 NJD,16,11-5-0,18.0,67.6,22.0,79.3,58.0,50.0,0.994,49.2,46.6,0.971,40,25,55.9,Connor Hellebuyck / Connor Hellebuyck / Connor Hellebuyck / Jake Allen / Connor Hellebuyck,2.702,1.959,2.357,2.43
 NSH,16,7-4-5,29.6,90.0,23.1,81.7,46.8,65.2,0.996,48.5,52.3,0.992,32,29,48.6,Justus Annunen / Juuse Saros / Justus Annunen / Juuse Saros / Juuse Saros,2.364,2.692,2.376,2.524
@@ -22,7 +22,7 @@ OTT,17,10-6-1,12.1,73.8,24.0,75.7,53.6,64.3,1.027,56.2,58.4,0.993,32,33,50.5,Sam
 PHI,18,4-10-4,16.4,80.0,15.7,77.6,40.4,39.7,0.974,50.5,47.9,1.008,29,30,50.7,Joseph Woll / Dan Vladar / Dan Vladar / Joseph Woll / Dan Vladar,1.957,2.883,2.184,2.143
 PIT,16,5-9-2,17.8,82.5,24.1,81.4,51.3,46.4,0.976,51.7,51.7,1.012,29,41,50.6,Arturs Silovs / Arturs Silovs / Sergei Murashov / Arturs Silovs / Arturs Silovs,2.764,2.624,2.587,2.419
 SEA,15,9-5-1,21.6,65.0,19.5,72.2,46.0,45.9,1.039,45.6,45.8,1.011,31,39,45.2,Joey Daccord / Philipp Grubauer / Philipp Grubauer / Joey Daccord / Philipp Grubauer,2.26,2.655,2.045,2.438
-SJS,17,7-9-1,23.0,81.0,21.2,76.4,42.7,44.0,0.958,47.5,49.7,0.998,25,35,46.6,Yaroslav Askarov / Yaroslav Askarov / Alex Nedeljkovic / Yaroslav Askarov / Yaroslav Askarov,2.164,2.905,2.231,2.468
+SJS,18,7-10-1,21.9,79.4,21.2,76.4,43.1,45.1,0.957,47.5,49.7,0.998,23,36,45.5,Yaroslav Askarov / Yaroslav Askarov / Yaroslav Askarov / Alex Nedeljkovic / Yaroslav Askarov,2.156,2.852,2.231,2.468
 STL,16,7-7-2,21.3,85.7,17.6,76.7,49.1,53.8,0.985,49.1,47.0,1.0,28,32,47.4,Jordan Binnington / Joel Hofer / Joel Hofer / Joel Hofer / Jordan Binnington,2.536,2.629,2.242,2.323
 TBL,15,10-3-2,17.3,77.5,20.7,82.6,56.5,62.8,1.011,53.9,56.8,1.019,40,33,54.5,Andrei Vasilevskiy / Andrei Vasilevskiy / Andrei Vasilevskiy / Andrei Vasilevskiy / Dennis Hildeby,2.908,2.24,2.569,2.195
 TOR,17,8-7-2,28.8,88.1,21.3,81.2,45.6,25.0,0.999,45.3,43.5,1.002,38,33,49.1,Sergei Bobrovsky / Anthony Stolarz / Sergei Bobrovsky / Sergei Bobrovsky / Anthony Stolarz,2.137,2.554,2.158,2.61
