@@ -1,82 +1,83 @@
 Goalie,Team,Tier,Rank,GSAx/60 (blended),Starts this season,GSAx this season,GP last season,GSAx last season,Last-season weight,Team start share,Last start,playerId
-Lukas Dostal,ANA,Average,43.0,-0.073,10,-1.4,56,-2.9,0.0,59.0,2026-11-06,8480843
-Ville Husso,ANA,Replacement-level,54.0,-0.154,4,-2.1,20,-3.1,0.6,24.0,2026-10-29,8478024
-Laurent Brossoit,ANA,Replacement-level (small sample),,-0.248,3,-1.8,1,-2.4,0.7,18.0,2026-11-05,8476316
-Jeremy Swayman,BOS,Above-average,6.0,0.33,12,7.3,55,28.8,0.0,71.0,2026-11-02,8480280
-Michael DiPietro,BOS,Average (small sample),,0.311,5,4.6,1,0.1,0.5,29.0,2026-11-05,8480022
-Colten Ellis,BUF,Above-average,18.0,0.141,6,2.3,16,1.9,0.4,38.0,2026-11-04,8481551
-Alex Lyon,BUF,Above-average,8.0,0.292,0,0.0,36,12.6,1.0,0.0,,8479312
-Ukko-Pekka Luukkonen,BUF,Average,41.0,-0.049,10,-1.0,35,10.5,0.0,62.0,2026-11-06,8480045
-Pyotr Kochetkov,CAR,Elite,3.0,0.395,12,8.7,9,-0.0,0.0,63.0,2026-11-07,8481611
-Brandon Bussi,CAR,Replacement-level,49.0,-0.115,7,-4.2,39,2.8,0.3,37.0,2026-11-05,8483548
-Jet Greaves,CBJ,Average,28.0,0.059,8,-1.6,55,16.5,0.2,53.0,2026-11-06,8482982
-Cam Talbot,CBJ,Average,27.0,0.063,7,5.6,34,-13.1,0.3,47.0,2026-11-05,8475660
-Devin Cooley,CGY,Above-average,7.0,0.295,7,2.2,31,17.3,0.3,41.0,2026-10-28,8482445
+Lukas Dostal,ANA,Average,43.0,-0.073,10,-1.4,56,-2.9,0.0,56.0,2026-11-06,8480843
+Laurent Brossoit,ANA,Average (small sample),,-0.049,4,0.7,1,-2.4,0.6,22.0,2026-11-08,8476316
+Ville Husso,ANA,Replacement-level,55.0,-0.154,4,-2.1,20,-3.1,0.6,22.0,2026-10-29,8478024
+Jeremy Swayman,BOS,Elite,3.0,0.442,13,10.2,55,28.8,0.0,72.0,2026-11-08,8480280
+Michael DiPietro,BOS,Average (small sample),,0.311,5,4.6,1,0.1,0.5,28.0,2026-11-05,8480022
+Colten Ellis,BUF,Above-average,21.0,0.124,7,2.1,16,1.9,0.3,41.0,2026-11-08,8481551
+Alex Lyon,BUF,Above-average,7.0,0.292,0,0.0,36,12.6,1.0,0.0,,8479312
+Ukko-Pekka Luukkonen,BUF,Average,42.0,-0.049,10,-1.0,35,10.5,0.0,59.0,2026-11-06,8480045
+Pyotr Kochetkov,CAR,Elite,4.0,0.395,12,8.7,9,-0.0,0.0,63.0,2026-11-07,8481611
+Brandon Bussi,CAR,Replacement-level,50.0,-0.115,7,-4.2,39,2.8,0.3,37.0,2026-11-05,8483548
+Jet Greaves,CBJ,Average,29.0,0.059,8,-1.6,55,16.5,0.2,53.0,2026-11-06,8482982
+Cam Talbot,CBJ,Average,28.0,0.063,7,5.6,34,-13.1,0.3,47.0,2026-11-05,8475660
+Devin Cooley,CGY,Above-average,10.0,0.254,8,2.4,31,17.3,0.2,44.0,2026-11-08,8482445
 Arsenii Sergeev,CGY,Average (small sample),,0.129,1,-0.8,1,2.6,0.9,6.0,2026-10-31,8482949
-Dustin Wolf,CGY,Replacement-level,59.0,-0.272,9,-6.6,57,-1.8,0.1,53.0,2026-11-06,8481692
-Spencer Knight,CHI,Replacement-level,45.0,-0.091,14,-2.1,54,10.9,0.0,78.0,2026-11-07,8481519
+Dustin Wolf,CGY,Replacement-level,59.0,-0.272,9,-6.6,57,-1.8,0.1,50.0,2026-11-06,8481692
+Drew Commesso,CHI,Average (small sample),,0.121,0,0.0,3,1.6,1.0,0.0,,8482123
+Spencer Knight,CHI,Replacement-level,46.0,-0.091,14,-2.1,54,10.9,0.0,78.0,2026-11-07,8481519
 Arvid Soderblom,CHI,Replacement-level,61.0,-0.292,4,-6.1,26,-4.0,0.6,22.0,2026-11-05,8482821
 Scott Wedgewood,COL,Above-average,16.0,0.168,5,-5.6,45,23.1,0.5,28.0,2026-11-03,8475809
 Mackenzie Blackwood,COL,Average,31.0,0.041,13,1.0,38,8.3,0.0,72.0,2026-11-07,8478406
-Jake Oettinger,DAL,Elite,5.0,0.337,13,7.8,54,5.7,0.0,76.0,2026-11-07,8479979
+Jake Oettinger,DAL,Above-average,6.0,0.337,13,7.8,54,5.7,0.0,76.0,2026-11-07,8479979
 Casey DeSmith,DAL,Above-average,12.0,0.218,4,0.6,30,10.5,0.6,24.0,2026-11-05,8479193
+Rémi Poirier,DAL,Replacement-level (no NHL data),,0.0,0,0.0,0,0.0,1.0,0.0,,8482465
 Daniil Tarasov,DET,Above-average,15.0,0.196,6,6.5,33,-1.8,0.4,33.0,2026-11-07,8480193
 Michal Postava,DET,Average (small sample),,-0.025,1,-0.3,0,0.0,0.9,6.0,2026-10-26,8485545
 John Gibson,DET,Replacement-level,62.0,-0.301,11,-5.9,57,11.7,0.0,61.0,2026-11-03,8476434
 Frederik Andersen,EDM,Average,44.0,-0.074,0,0.0,35,-3.3,1.0,0.0,,8475883
 Devon Levi,EDM,Average (small sample),,-0.07,8,-1.3,0,0.0,0.2,44.0,2026-11-07,8482221
 Matt Tomkins,EDM,Average (small sample),,-0.003,2,-0.0,0,0.0,0.8,11.0,2026-11-05,8477035
-Tristan Jarry,EDM,Replacement-level,46.0,-0.093,8,-1.4,33,-4.1,0.2,44.0,2026-11-03,8477465
-Akira Schmid,FLA,Average,35.0,-0.01,8,-0.0,34,-1.0,0.2,47.0,2026-11-07,8481033
-Jacob Markstrom,FLA,Replacement-level,47.0,-0.107,8,-0.4,44,-11.9,0.2,47.0,2026-11-04,8474593
+Tristan Jarry,EDM,Replacement-level,47.0,-0.093,8,-1.4,33,-4.1,0.2,44.0,2026-11-03,8477465
+Akira Schmid,FLA,Average,34.0,-0.01,8,-0.0,34,-1.0,0.2,44.0,2026-11-07,8481033
+Jacob Markstrom,FLA,Replacement-level,45.0,-0.081,9,-0.6,44,-11.9,0.1,50.0,2026-11-08,8474593
 Cooper Black,FLA,Replacement-level (small sample),,-0.092,1,-1.0,0,0.0,0.9,6.0,2026-10-22,8484900
 Anton Forsberg,LAK,Above-average,22.0,0.119,5,-0.8,36,9.4,0.5,33.0,2026-10-31,8476341
 Darcy Kuemper,LAK,Replacement-level,58.0,-0.26,10,-5.0,50,-5.8,0.0,67.0,2026-11-07,8475311
 Jesper Wallstedt,MIN,Elite,2.0,0.509,16,13.3,35,6.2,0.0,84.0,2026-11-06,8482661
-Filip Gustavsson,MIN,Average,33.0,0.023,0,0.0,50,1.4,1.0,0.0,,8479406
+Filip Gustavsson,MIN,Average,32.0,0.023,0,0.0,50,1.4,1.0,0.0,,8479406
 Calvin Pickard,MIN,Replacement-level,57.0,-0.204,3,-2.2,16,-3.5,0.7,16.0,2026-11-07,8475717
 Jacob Fowler,MTL,Elite,1.0,0.562,10,11.4,17,7.1,0.0,59.0,2026-11-07,8484170
-Jakub Dobes,MTL,Average,40.0,-0.045,7,-6.5,43,17.3,0.3,41.0,2026-11-05,8482487
-Samuel Montembeault,MTL,Replacement-level,53.0,-0.146,0,0.0,25,-4.9,1.0,0.0,,8478470
-Connor Hellebuyck,NJD,Average,30.0,0.044,4,-1.2,57,5.5,0.6,24.0,2026-11-05,8476945
-Jake Allen,NJD,Replacement-level,56.0,-0.201,9,-5.2,37,6.3,0.1,53.0,2026-11-07,8474596
-Juuse Saros,NSH,Above-average,9.0,0.29,12,6.5,59,-9.3,0.0,71.0,2026-11-07,8477424
-Justus Annunen,NSH,Above-average,19.0,0.14,4,-0.9,28,8.3,0.6,24.0,2026-11-05,8481020
+Jakub Dobes,MTL,Average,41.0,-0.045,7,-6.5,43,17.3,0.3,41.0,2026-11-05,8482487
+Samuel Montembeault,MTL,Replacement-level,54.0,-0.146,0,0.0,25,-4.9,1.0,0.0,,8478470
+Connor Hellebuyck,NJD,Average,25.0,0.082,5,0.8,57,5.5,0.5,28.0,2026-11-08,8476945
+Jake Allen,NJD,Replacement-level,56.0,-0.201,9,-5.2,37,6.3,0.1,50.0,2026-11-07,8474596
+Juuse Saros,NSH,Above-average,8.0,0.29,12,6.5,59,-9.3,0.0,71.0,2026-11-07,8477424
+Justus Annunen,NSH,Above-average,18.0,0.14,4,-0.9,28,8.3,0.6,24.0,2026-11-05,8481020
 Matt Murray,NSH,Average (small sample),,0.075,1,0.8,0,0.0,0.9,6.0,2026-10-10,8483575
 Ilya Sorokin,NYI,Above-average,11.0,0.246,11,5.2,55,25.3,0.0,69.0,2026-11-07,8478009
 Semyon Varlamov,NYI,Average (small sample),,0.314,5,4.8,0,0.0,0.5,31.0,2026-11-05,8473575
-Igor Shesterkin,NYR,Elite,4.0,0.393,5,4.9,51,21.2,0.5,28.0,2026-10-09,8478048
+Igor Shesterkin,NYR,Elite,5.0,0.393,5,4.9,51,21.2,0.5,28.0,2026-10-09,8478048
 Dylan Garand,NYR,Average,23.0,0.104,11,2.2,3,3.9,0.0,61.0,2026-11-05,8482193
-Joonas Korpisalo,NYR,Average,38.0,-0.027,1,-0.1,31,-1.0,0.9,6.0,2026-11-07,8476914
-James Reimer,NYR,Replacement-level,48.0,-0.114,1,-2.0,14,-0.7,0.9,6.0,2026-10-26,8473503
+Joonas Korpisalo,NYR,Average,39.0,-0.027,1,-0.1,31,-1.0,0.9,6.0,2026-11-07,8476914
+James Reimer,NYR,Replacement-level,49.0,-0.114,1,-2.0,14,-0.7,0.9,6.0,2026-10-26,8473503
 Linus Ullmark,OTT,Above-average,14.0,0.211,8,8.3,49,-12.8,0.2,44.0,2026-10-21,8476999
 Samuel Ersson,OTT,Replacement-level,60.0,-0.273,6,-1.4,33,-16.5,0.4,33.0,2026-11-07,8481035
 Jonas Johansson,OTT,Replacement-level,64.0,-0.368,4,-3.9,25,-10.4,0.6,22.0,2026-11-01,8477992
-Joseph Woll,PHI,Above-average,20.0,0.13,9,3.6,39,-6.6,0.1,50.0,2026-11-05,8479361
-Dan Vladar,PHI,Average,29.0,0.047,9,-0.2,52,13.8,0.1,50.0,2026-11-03,8478435
-Arturs Silovs,PIT,Average,42.0,-0.058,11,-1.2,39,-11.9,0.0,65.0,2026-11-05,8481668
-Sergei Murashov,PIT,Replacement-level (small sample),,-0.161,6,-1.5,5,-3.5,0.4,35.0,2026-11-07,8483703
-Philipp Grubauer,SEA,Average,34.0,0.019,8,-0.6,32,5.7,0.2,50.0,2026-10-30,8475831
-Joey Daccord,SEA,Replacement-level,52.0,-0.144,8,-2.6,47,-6.2,0.2,50.0,2026-11-07,8478916
-Yaroslav Askarov,SJS,Above-average,21.0,0.129,12,2.8,47,-18.9,0.0,63.0,2026-11-06,8482137
+Joseph Woll,PHI,Above-average,19.0,0.13,9,3.6,39,-6.6,0.1,47.0,2026-11-05,8479361
+Dan Vladar,PHI,Average,40.0,-0.04,10,-0.8,52,13.8,0.0,53.0,2026-11-08,8478435
+Arturs Silovs,PIT,Replacement-level,48.0,-0.107,12,-2.3,39,-11.9,0.0,67.0,2026-11-08,8481668
+Sergei Murashov,PIT,Replacement-level (small sample),,-0.161,6,-1.5,5,-3.5,0.4,33.0,2026-11-07,8483703
+Philipp Grubauer,SEA,Average,33.0,0.019,8,-0.6,32,5.7,0.2,50.0,2026-10-30,8475831
+Joey Daccord,SEA,Replacement-level,53.0,-0.144,8,-2.6,47,-6.2,0.2,50.0,2026-11-07,8478916
+Yaroslav Askarov,SJS,Above-average,20.0,0.129,12,2.8,47,-18.9,0.0,63.0,2026-11-06,8482137
 Alex Nedeljkovic,SJS,Above-average,17.0,0.165,7,5.1,40,-1.2,0.3,37.0,2026-11-07,8477968
-Joel Hofer,STL,Above-average,10.0,0.268,12,5.9,46,11.7,0.0,71.0,2026-11-07,8480981
+Joel Hofer,STL,Above-average,9.0,0.268,12,5.9,46,11.7,0.0,71.0,2026-11-07,8480981
 Jordan Binnington,STL,Replacement-level,65.0,-0.487,5,-5.4,41,-22.4,0.5,29.0,2026-11-05,8476412
-Dennis Hildeby,TBL,Above-average,13.0,0.211,4,-1.2,20,10.5,0.6,25.0,2026-11-07,8483710
-Andrei Vasilevskiy,TBL,Average,39.0,-0.03,12,-0.7,58,24.7,0.0,75.0,2026-11-05,8476883
-Sergei Bobrovsky,TOR,Average,36.0,-0.014,12,-0.3,52,-12.2,0.0,67.0,2026-11-07,8475683
-Anthony Stolarz,TOR,Average,37.0,-0.017,6,2.2,26,-6.7,0.4,33.0,2026-10-31,8476932
+Dennis Hildeby,TBL,Above-average,13.0,0.211,4,-1.2,20,10.5,0.6,24.0,2026-11-07,8483710
+Andrei Vasilevskiy,TBL,Average,38.0,-0.017,13,-0.4,58,24.7,0.0,76.0,2026-11-08,8476883
+Sergei Bobrovsky,TOR,Average,35.0,-0.014,12,-0.3,52,-12.2,0.0,63.0,2026-11-07,8475683
+Anthony Stolarz,TOR,Average,36.0,-0.015,7,1.6,26,-6.7,0.3,37.0,2026-11-08,8476932
 Artur Akhtyamov,TOR,Average (small sample),,-0.048,0,0.0,3,-0.6,1.0,0.0,,8482515
 Karel Vejmelka,UTA,Replacement-level,63.0,-0.363,12,-8.0,64,6.9,0.0,67.0,2026-11-07,8478872
 Sebastian Cossa,UTA,Replacement-level (small sample),,-0.235,6,-3.7,0,0.0,0.4,33.0,2026-11-05,8482657
-Thatcher Demko,VAN,Average,26.0,0.069,0,0.0,20,2.0,1.0,0.0,,8477967
-Leevi Meriläinen,VAN,Replacement-level,50.0,-0.116,11,-2.5,20,-17.3,0.0,58.0,2026-11-07,8482447
+Thatcher Demko,VAN,Average,27.0,0.069,0,0.0,20,2.0,1.0,0.0,,8477967
+Leevi Meriläinen,VAN,Replacement-level,51.0,-0.116,11,-2.5,20,-17.3,0.0,58.0,2026-11-07,8482447
 Kevin Lankinen,VAN,Replacement-level,66.0,-0.731,8,-15.0,47,-19.3,0.2,42.0,2026-11-03,8480947
-Carter Hart,VGK,Average,24.0,0.083,10,1.7,18,-4.2,0.0,56.0,2026-11-05,8479394
-Adin Hill,VGK,Replacement-level,55.0,-0.155,8,-0.7,27,-14.2,0.2,44.0,2026-11-03,8478499
-Stuart Skinner,WPG,Average,32.0,0.039,12,0.8,50,8.3,0.0,71.0,2026-11-05,8479973
-Clay Stevenson,WPG,Average (small sample),,-0.042,4,-2.6,4,3.2,0.6,24.0,2026-10-27,8483532
-Nico Daws,WPG,Replacement-level (small sample),,-0.117,5,-2.2,3,0.4,0.5,29.0,2026-10-30,8482076
-Logan Thompson,WSH,Average,25.0,0.074,11,1.5,58,29.3,0.0,73.0,2026-11-07,8480313
-Charlie Lindgren,WSH,Replacement-level,51.0,-0.138,4,-0.6,21,-5.3,0.6,27.0,2026-10-29,8479292
-Rémi Poirier,WSH,Replacement-level (no NHL data),,0.0,0,0.0,0,0.0,1.0,0.0,,8482465
+Carter Hart,VGK,Average,24.0,0.083,10,1.7,18,-4.2,0.0,53.0,2026-11-05,8479394
+Adin Hill,VGK,Average,30.0,0.042,9,2.3,27,-14.2,0.1,47.0,2026-11-08,8478499
+Stuart Skinner,WPG,Average,37.0,-0.015,13,-0.3,50,8.3,0.0,72.0,2026-11-08,8479973
+Clay Stevenson,WPG,Average (small sample),,-0.042,4,-2.6,4,3.2,0.6,22.0,2026-10-27,8483532
+Nico Daws,WPG,Replacement-level (small sample),,-0.117,5,-2.2,3,0.4,0.5,28.0,2026-10-30,8482076
+Logan Thompson,WSH,Average,26.0,0.074,11,1.5,58,29.3,0.0,73.0,2026-11-07,8480313
+Charlie Lindgren,WSH,Replacement-level,52.0,-0.138,4,-0.6,21,-5.3,0.6,27.0,2026-10-29,8479292

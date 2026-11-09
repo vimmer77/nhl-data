@@ -1,17 +1,17 @@
 Date,Start (ET),Start (PT),Away,Home,Away rest days,Away back-to-back,Away 3-in-4,Home rest days,Home back-to-back,Home 3-in-4,Away GP,Home GP,Away last starting goalie,Home last starting goalie
-2026-11-08,1:00 PM,10:00 AM,FLA,BOS,0,Yes,No,2,No,No,17,17,Akira Schmid,Michael DiPietro
-2026-11-08,3:30 PM,12:30 PM,VGK,BUF,2,No,No,1,No,No,18,16,Carter Hart,Ukko-Pekka Luukkonen
-2026-11-08,6:00 PM,3:00 PM,TBL,WPG,0,Yes,Yes,2,No,No,16,17,Dennis Hildeby,Stuart Skinner
-2026-11-08,7:00 PM,4:00 PM,PHI,CGY,2,No,No,1,No,No,18,17,Joseph Woll,Dustin Wolf
-2026-11-08,7:00 PM,4:00 PM,NJD,TOR,0,Yes,Yes,0,Yes,No,17,18,Jake Allen,Sergei Bobrovsky
-2026-11-08,8:00 PM,5:00 PM,PIT,ANA,0,Yes,Yes,1,No,Yes,17,17,Sergei Murashov,Lukas Dostal
 2026-11-09,8:00 PM,5:00 PM,NYR,EDM,1,No,No,1,No,No,18,18,Joonas Korpisalo,Devon Levi
-2026-11-09,9:30 PM,6:30 PM,PHI,VAN,0,Yes,No,1,No,No,18,19,Joseph Woll,Leevi Merilainen
+2026-11-09,9:30 PM,6:30 PM,PHI,VAN,0,Yes,No,1,No,No,19,19,Dan Vladar,Leevi Merilainen
 2026-11-09,10:00 PM,7:00 PM,NYI,SJS,1,No,No,1,No,Yes,16,19,Ilya Sorokin,Alex Nedeljkovic
-2026-11-10,7:00 PM,4:00 PM,COL,TOR,2,No,No,1,No,Yes,18,18,Mackenzie Blackwood,Sergei Bobrovsky
+2026-11-10,7:00 PM,4:00 PM,COL,TOR,2,No,No,1,No,Yes,18,19,Mackenzie Blackwood,Anthony Stolarz
 2026-11-10,7:00 PM,4:00 PM,MIN,MTL,2,No,No,2,No,No,19,17,Calvin Pickard,Jacob Fowler
-2026-11-10,7:00 PM,4:00 PM,NJD,WPG,1,No,Yes,1,No,No,17,17,Jake Allen,Stuart Skinner
+2026-11-10,7:00 PM,4:00 PM,NJD,WPG,1,No,Yes,1,No,No,18,18,Connor Hellebuyck,Stuart Skinner
 2026-11-10,7:00 PM,4:00 PM,WSH,OTT,2,No,No,2,No,No,15,18,Logan Thompson,Samuel Ersson
-2026-11-10,7:30 PM,4:30 PM,FLA,CBJ,1,No,Yes,3,No,No,17,15,Akira Schmid,Jet Greaves
+2026-11-10,7:30 PM,4:30 PM,FLA,CBJ,1,No,Yes,3,No,No,18,15,Jacob Markstrom,Jet Greaves
 2026-11-10,8:00 PM,5:00 PM,DET,STL,2,No,No,2,No,No,18,17,Daniil Tarasov,Joel Hofer
 2026-11-10,10:00 PM,7:00 PM,NSH,LAK,2,No,No,2,No,No,17,15,Juuse Saros,Darcy Kuemper
+2026-11-11,7:00 PM,4:00 PM,TBL,BUF,2,No,No,2,No,No,17,17,Andrei Vasilevskiy,Colten Ellis
+2026-11-11,7:30 PM,4:30 PM,NYR,CGY,1,No,No,2,No,No,18,18,Joonas Korpisalo,Devin Cooley
+2026-11-11,9:00 PM,6:00 PM,PHI,EDM,1,No,Yes,1,No,No,19,18,Dan Vladar,Devon Levi
+2026-11-11,9:30 PM,6:30 PM,UTA,VGK,3,No,No,2,No,No,18,19,Karel Vejmelka,Adin Hill
+2026-11-11,10:00 PM,7:00 PM,NSH,ANA,0,Yes,No,2,No,No,17,18,Juuse Saros,Laurent Brossoit
+2026-11-11,10:00 PM,7:00 PM,PIT,SJS,2,No,No,1,No,No,18,19,Arturs Silovs,Alex Nedeljkovic
