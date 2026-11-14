@@ -1,8 +1,10 @@
 name: daily-build
 on:
   schedule:
-    - cron: "17 14 * * *"   # 7:17am PDT / 6:17am PST (off-peak minute; :00/:30 runs get delayed or dropped)
-    - cron: "17 15 * * *"   # backup run, 8:17am PDT / 7:17am PST; commits nothing if the first run already built, ahead of the 8:50am Pacific Claude refresh
+    # Every 2 hours, 1:17am-11:17am Pacific standard time (08:17-18:17 UTC). GitHub often starts
+    # scheduled runs hours late, so several runs make it likely a fresh build lands before noon.
+    # Later runs also pick up roster and injury changes during the day.
+    - cron: "17 8,10,12,14,16,18 * * *"
   workflow_dispatch:
     inputs:
       build_date:

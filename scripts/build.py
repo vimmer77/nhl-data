@@ -48,6 +48,7 @@ TREND_MIN_GP = 8                  # skater games this season before a hot/cold l
 TREND_WINDOW = 10
 TREND_POINT_GAP = 3               # points above/below expectation over the window
 TREND_RATIO = 1.4                 # and at least this ratio (hot) / its inverse (cold)
+SHOTS_UP_RATIO = 1.10             # "usage-backed" also needs shots per game up at least 10%
 
 
 # ---------------------------------------------------------------- fetching
@@ -474,12 +475,15 @@ def skater_table(sk, prior, ros):
         goal_luck = r.w_g - sh_pct * r.w_s
         toi_d = r.w_toi / r.w_n - b_toi / b_gp
         pp_d = r.w_pp / r.w_n - b_pp_total / b_gp
+        shots_pg_ratio = (r.w_s / r.w_n) / (b_s / b_gp) if b_s > 0 else np.nan
         info = (f"{int(r.w_p)} pts vs {exp_p:.1f} expected in last {int(r.w_n)}; TOI {toi_d:+.1f} min/gm; "
-                f"PP {pp_d:+.1f} min/gm; shots rate x{shots_ratio:.2f}; goals vs shooting% {goal_luck:+.1f}")
+                f"PP {pp_d:+.1f} min/gm; shots/gm x{shots_pg_ratio:.2f}; shots per TOI x{shots_ratio:.2f}; "
+                f"goals vs shooting% {goal_luck:+.1f}")
         hot = (r.w_p - exp_p >= TREND_POINT_GAP) and (r.w_p >= TREND_RATIO * exp_p)
         cold = (exp_p - r.w_p >= TREND_POINT_GAP) and (r.w_p <= exp_p / TREND_RATIO)
         if hot:
-            lab = ("Hot – usage-backed" if (toi_d >= 1.5 or pp_d >= 1.0 or shots_ratio >= 1.25)
+            # Props definition: more ice time / PP time AND more shots per game.
+            lab = ("Hot – usage-backed" if ((toi_d >= 1.5 or pp_d >= 1.0) and shots_pg_ratio >= SHOTS_UP_RATIO)
                    else "Hot – shooting luck" if goal_luck >= 2 else "Hot – mixed")
         elif cold:
             lab = ("Cold – usage down" if (toi_d <= -1.5 or pp_d <= -1.0)
@@ -520,7 +524,7 @@ README_NOTES = [
                      "'Last starting goalie' helps judge who the market expects in net."),
     ("Skaters tab", "Role comes from ice time (recent games when available): top-line C, top-pair D, top-6 F, "
                     "top-4 D, depth. PP1 = top 5 on the team by power-play time. Trend compares the last 10 games "
-                    "with the player's baseline; labels explain whether a streak is backed by more ice time/shots "
+                    "with the player's baseline; labels explain whether a streak is backed by more ice time and shots "
                     "or by shooting luck. Trends are context only for the moneyline model."),
     ("Sources", "NHL stats API and NHL web API (api.nhle.com, api-web.nhle.com); MoneyPuck season summaries "
                 "(moneypuck.com/data.htm)."),

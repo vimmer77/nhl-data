@@ -2,7 +2,7 @@
 
 Daily NHL data.
 
-A GitHub Action (`.github/workflows/build.yml`) runs every morning at 13:30 UTC (6:30am PDT) and:
+A GitHub Action (`.github/workflows/build.yml`) runs every 2 hours from 08:17 to 18:17 UTC (1:17am-11:17am PST) and:
 
 1. Pulls per-game skater and goalie logs, schedules, rosters and team stats from the NHL's public APIs, and team/goalie season summaries from MoneyPuck.
 2. Builds `output/nhl_daily_data.xlsx` (README, Schedule, Goalies, Teams, Skaters tabs), matching CSVs, `meta.json`, and `index.html`.
