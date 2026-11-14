@@ -1,6 +1,4 @@
 Date,Start (ET),Start (PT),Away,Home,Away rest days,Away back-to-back,Away 3-in-4,Home rest days,Home back-to-back,Home 3-in-4,Away GP,Home GP,Away last starting goalie,Home last starting goalie
-2026-11-13,9:00 PM,6:00 PM,NYR,VAN,1,No,No,3,No,No,20,20,Joonas Korpisalo,Leevi Merilainen
-2026-11-13,10:00 PM,7:00 PM,NSH,VGK,1,No,Yes,1,No,No,19,20,Justus Annunen,Carter Hart
 2026-11-14,1:00 PM,10:00 AM,SEA,CAR,1,No,No,1,No,No,17,20,Philipp Grubauer,Brandon Bussi
 2026-11-14,3:30 PM,12:30 PM,WPG,CHI,1,No,No,1,No,No,20,19,Stuart Skinner,Spencer Knight
 2026-11-14,7:00 PM,4:00 PM,MIN,BOS,1,No,No,1,No,No,21,19,Jesper Wallstedt,Jeremy Swayman
@@ -18,5 +16,7 @@ Date,Start (ET),Start (PT),Away,Home,Away rest days,Away back-to-back,Away 3-in-
 2026-11-15,7:30 PM,4:30 PM,EDM,PHI,0,Yes,No,0,Yes,No,20,21,Tristan Jarry,Dan Vladar
 2026-11-15,8:00 PM,5:00 PM,CGY,ANA,0,Yes,No,0,Yes,No,19,19,Devin Cooley,Laurent Brossoit
 2026-11-15,8:00 PM,5:00 PM,FLA,DAL,0,Yes,Yes,0,Yes,Yes,20,18,Akira Schmid,Jake Oettinger
-2026-11-15,9:00 PM,6:00 PM,NSH,SJS,1,No,No,0,Yes,No,19,21,Justus Annunen,Yaroslav Askarov
-2026-11-15,9:00 PM,6:00 PM,VAN,VGK,1,No,No,1,No,No,20,20,Leevi Merilainen,Carter Hart
+2026-11-15,9:00 PM,6:00 PM,NSH,SJS,1,No,No,0,Yes,No,20,21,Juuse Saros,Yaroslav Askarov
+2026-11-15,9:00 PM,6:00 PM,VAN,VGK,1,No,No,1,No,No,21,21,Leevi Merilainen,Adin Hill
+2026-11-16,7:30 PM,4:30 PM,MTL,NYR,1,No,No,2,No,No,19,21,Jacob Fowler,Dylan Garand
+2026-11-16,9:30 PM,6:30 PM,VAN,UTA,0,Yes,Yes,1,No,No,21,20,Leevi Merilainen,Karel Vejmelka

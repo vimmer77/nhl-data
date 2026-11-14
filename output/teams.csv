@@ -15,9 +15,9 @@ LAK,17,5-10-2,22.8,65.5,17.0,74.6,50.2,53.7,0.991,52.1,56.0,1.002,30,33,49.5,Dar
 MIN,21,14-3-4,27.4,79.7,25.2,79.8,55.1,55.0,1.031,51.9,57.4,1.007,38,19,51.6,Jesper Wallstedt / Jesper Wallstedt / Calvin Pickard / Jesper Wallstedt / Jesper Wallstedt,2.716,2.213,2.473,2.291
 MTL,19,12-3-4,13.8,78.1,23.1,78.2,52.0,45.9,1.034,48.2,44.1,1.018,37,23,46.6,Jacob Fowler / Jacob Fowler / Jacob Fowler / Jakub Dobes / Jacob Fowler,2.688,2.481,2.333,2.509
 NJD,20,14-6-0,18.8,65.1,22.0,79.3,56.5,50.0,1.001,49.2,46.6,0.971,39,26,55.2,Connor Hellebuyck / Jake Allen / Connor Hellebuyck / Jake Allen / Connor Hellebuyck,2.634,2.025,2.357,2.43
-NSH,19,10-4-5,26.6,89.5,23.1,81.7,47.6,60.8,1.009,48.5,52.3,0.992,35,22,48.6,Justus Annunen / Juuse Saros / Juuse Saros / Justus Annunen / Juuse Saros,2.43,2.673,2.376,2.524
+NSH,20,11-4-5,25.8,89.7,23.1,81.7,47.7,60.0,1.012,48.5,52.3,0.992,35,21,48.7,Juuse Saros / Justus Annunen / Juuse Saros / Juuse Saros / Justus Annunen,2.446,2.684,2.376,2.524
 NYI,18,8-6-4,16.4,85.7,16.5,80.8,49.6,47.4,1.016,47.7,45.4,0.993,29,35,45.4,Ilya Sorokin / Ilya Sorokin / Ilya Sorokin / Semyon Varlamov / Ilya Sorokin,2.539,2.58,2.371,2.595
-NYR,20,11-8-1,19.6,88.3,24.7,79.9,52.2,63.2,1.002,48.4,48.7,1.009,31,34,50.3,Joonas Korpisalo / Dylan Garand / Joonas Korpisalo / Dylan Garand / Dylan Garand,2.557,2.345,2.183,2.328
+NYR,21,12-8-1,20.7,89.1,24.7,79.9,53.1,63.9,1.007,48.4,48.7,1.009,31,33,50.6,Dylan Garand / Joonas Korpisalo / Dylan Garand / Joonas Korpisalo / Dylan Garand,2.636,2.327,2.183,2.328
 OTT,20,12-6-2,11.8,75.0,24.0,75.7,53.4,59.2,1.031,56.2,58.4,0.993,35,36,49.4,Linus Ullmark / Samuel Ersson / Samuel Ersson / Samuel Ersson / Jonas Johansson,2.403,2.094,2.595,2.027
 PHI,21,5-10-6,18.8,79.4,15.7,77.6,42.8,41.3,0.976,50.5,47.9,1.008,30,33,53.0,Dan Vladar / Joseph Woll / Dan Vladar / Joseph Woll / Dan Vladar,2.043,2.727,2.184,2.143
 PIT,19,7-10-2,21.1,78.8,24.1,81.4,52.2,47.7,0.978,51.7,51.7,1.012,31,34,49.4,Sergei Murashov / Arturs Silovs / Sergei Murashov / Arturs Silovs / Arturs Silovs,2.799,2.568,2.587,2.419
@@ -27,7 +27,7 @@ STL,19,9-8-2,20.0,86.0,17.6,76.7,50.0,55.7,0.988,49.1,47.0,1.0,24,26,47.9,Joel H
 TBL,19,13-4-2,21.2,71.7,20.7,82.6,57.0,68.4,1.027,53.9,56.8,1.019,43,33,52.5,Dennis Hildeby / Andrei Vasilevskiy / Andrei Vasilevskiy / Dennis Hildeby / Andrei Vasilevskiy,2.932,2.212,2.569,2.195
 TOR,21,8-11-2,27.1,85.5,21.3,81.2,45.6,25.6,0.984,45.3,43.5,1.002,31,40,50.0,Anthony Stolarz / Sergei Bobrovsky / Anthony Stolarz / Sergei Bobrovsky / Sergei Bobrovsky,2.148,2.56,2.158,2.61
 UTA,20,10-8-2,34.3,70.8,20.0,78.1,57.2,66.7,0.977,52.6,51.9,1.003,28,37,50.5,Karel Vejmelka / Sebastian Cossa / Karel Vejmelka / Sebastian Cossa / Sebastian Cossa,2.813,2.103,2.552,2.296
-VAN,20,3-16-1,20.6,63.1,21.8,71.5,39.1,39.6,0.986,43.4,46.8,0.974,26,45,44.3,Leevi Merilainen / Leevi Merilainen / Leevi Merilainen / Kevin Lankinen / Leevi Merilainen,1.895,2.954,2.104,2.744
-VGK,20,13-5-2,27.9,76.9,24.6,81.4,52.9,42.9,1.004,54.0,54.1,0.983,27,29,51.7,Carter Hart / Adin Hill / Carter Hart / Adin Hill / Carter Hart,2.523,2.242,2.419,2.06
+VAN,21,3-17-1,19.4,62.7,21.8,71.5,38.6,38.6,0.98,43.4,46.8,0.974,24,44,46.6,Leevi Merilainen / Leevi Merilainen / Leevi Merilainen / Leevi Merilainen / Kevin Lankinen,1.898,3.015,2.104,2.744
+VGK,21,13-5-3,27.4,77.8,24.6,81.4,52.9,43.3,0.999,54.0,54.1,0.983,27,25,51.4,Adin Hill / Carter Hart / Adin Hill / Carter Hart / Adin Hill,2.541,2.267,2.419,2.06
 WPG,20,9-8-3,24.2,74.6,18.5,77.6,48.2,43.5,1.002,47.8,44.3,0.998,35,39,51.6,Stuart Skinner / Nico Daws / Stuart Skinner / Stuart Skinner / Stuart Skinner,2.332,2.505,2.247,2.456
 WSH,17,10-7-0,19.6,77.2,17.8,80.1,52.6,56.4,1.01,49.9,47.8,1.018,34,36,51.1,Logan Thompson / Logan Thompson / Logan Thompson / Logan Thompson / Logan Thompson,2.895,2.608,2.53,2.536
