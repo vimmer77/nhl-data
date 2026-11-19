@@ -1,9 +1,6 @@
 Date,Start (ET),Start (PT),Away,Home,Away rest days,Away back-to-back,Away 3-in-4,Home rest days,Home back-to-back,Home 3-in-4,Away GP,Home GP,Away last starting goalie,Home last starting goalie
-2026-11-18,7:30 PM,4:30 PM,BOS,DET,0,Yes,No,3,No,No,21,21,Michael DiPietro,Daniil Tarasov
-2026-11-18,7:30 PM,4:30 PM,MTL,NJD,1,No,No,3,No,No,21,21,Jacob Fowler,Connor Hellebuyck
-2026-11-18,10:00 PM,7:00 PM,COL,UTA,3,No,No,1,No,No,21,22,Mackenzie Blackwood,Karel Vejmelka
 2026-11-19,7:00 PM,4:00 PM,BUF,WSH,1,No,No,1,No,No,21,19,Alex Lyon,Logan Thompson
-2026-11-19,7:00 PM,4:00 PM,MTL,CAR,0,Yes,Yes,4,No,No,21,21,Jacob Fowler,Pyotr Kochetkov
+2026-11-19,7:00 PM,4:00 PM,MTL,CAR,0,Yes,Yes,4,No,No,22,21,Jacob Fowler,Pyotr Kochetkov
 2026-11-19,7:00 PM,4:00 PM,LAK,TOR,1,No,No,1,No,No,19,23,Darcy Kuemper,Sergei Bobrovsky
 2026-11-19,7:00 PM,4:00 PM,NYI,WPG,1,No,No,1,No,No,20,22,Ilya Sorokin,Stuart Skinner
 2026-11-19,7:00 PM,4:00 PM,PHI,OTT,1,No,No,1,No,No,24,22,Joseph Woll,Linus Ullmark
@@ -11,6 +8,20 @@ Date,Start (ET),Start (PT),Away,Home,Away rest days,Away back-to-back,Away 3-in-
 2026-11-19,7:30 PM,4:30 PM,EDM,TBL,1,No,No,1,No,No,23,21,Devon Levi,Andrei Vasilevskiy
 2026-11-19,8:00 PM,5:00 PM,CBJ,CHI,1,No,No,1,No,No,19,21,Cam Talbot,Spencer Knight
 2026-11-19,8:00 PM,5:00 PM,MIN,CGY,1,No,No,1,No,No,23,22,Jesper Wallstedt,Dustin Wolf
-2026-11-19,9:00 PM,6:00 PM,ANA,COL,1,No,No,0,Yes,No,22,21,Ville Husso,Mackenzie Blackwood
+2026-11-19,9:00 PM,6:00 PM,ANA,COL,1,No,No,0,Yes,No,22,22,Ville Husso,Mackenzie Blackwood
 2026-11-19,9:40 PM,6:40 PM,VAN,SEA,2,No,No,4,No,No,23,18,Nikita Tolopilo,Joey Daccord
 2026-11-19,10:00 PM,7:00 PM,DAL,VGK,1,No,No,1,No,No,21,23,Jake Oettinger,Adin Hill
+2026-11-21,1:00 PM,10:00 AM,EDM,CAR,1,No,No,1,No,No,23,21,Devon Levi,Pyotr Kochetkov
+2026-11-21,3:30 PM,12:30 PM,CHI,CGY,1,No,No,1,No,No,21,22,Spencer Knight,Dustin Wolf
+2026-11-21,6:00 PM,3:00 PM,BUF,FLA,1,No,No,3,No,No,21,23,Alex Lyon,Jacob Markstrom
+2026-11-21,6:00 PM,3:00 PM,PIT,NSH,1,No,No,3,No,No,20,22,Sergei Murashov,Justus Annunen
+2026-11-21,7:00 PM,4:00 PM,WSH,BOS,1,No,No,2,No,No,19,22,Logan Thompson,Jeremy Swayman
+2026-11-21,7:00 PM,4:00 PM,CBJ,TOR,1,No,No,1,No,No,19,23,Cam Talbot,Sergei Bobrovsky
+2026-11-21,7:00 PM,4:00 PM,NYI,DET,1,No,No,2,No,No,20,22,Ilya Sorokin,Daniil Tarasov
+2026-11-21,7:00 PM,4:00 PM,LAK,OTT,1,No,No,1,No,No,19,22,Darcy Kuemper,Linus Ullmark
+2026-11-21,7:00 PM,4:00 PM,PHI,MTL,1,No,No,1,No,Yes,24,22,Joseph Woll,Jacob Fowler
+2026-11-21,7:00 PM,4:00 PM,NJD,STL,2,No,No,1,No,No,22,21,Connor Hellebuyck,Jordan Binnington
+2026-11-21,7:00 PM,4:00 PM,VGK,WPG,1,No,No,1,No,No,23,22,Adin Hill,Stuart Skinner
+2026-11-21,9:00 PM,6:00 PM,ANA,UTA,1,No,No,2,No,No,22,23,Ville Husso,Sebastian Cossa
+2026-11-21,10:00 PM,7:00 PM,MIN,VAN,1,No,No,1,No,No,23,23,Jesper Wallstedt,Nikita Tolopilo
+2026-11-21,10:00 PM,7:00 PM,SEA,SJS,1,No,No,3,No,No,18,24,Joey Daccord,Yaroslav Askarov
