@@ -540,8 +540,8 @@ Ryan Lindgren,SEA,D,Depth D,,last games,13.8,0.0,6,0,0,0,4,13.8,0.0,6,0,0,4,Not 
 Cale Fleury,SEA,D,Depth D,,last games,13.7,0.0,7,0,1,1,6,13.7,0.0,7,0,1,6,Not enough games,,23,16.3,8479985
 Josh Mahura,SEA,D,Depth D,,last games,13.7,0.0,15,1,2,3,11,13.7,0.0,10,1,1,8,Neutral,1 pts vs 1.7 expected in last 10; TOI -1.5 min/gm; PP -0.1 min/gm; shots/gm x1.25; shots per TOI x1.39; goals vs shooting% +0.6,23,15.7,8479372
 Ville Ottavainen,SEA,D,Depth D,,last games,10.9,0.0,11,1,0,1,15,11.4,0.0,10,1,1,15,Not enough baseline,,0,0.0,8482866
-Jagger Firkus,SEA,R,Depth (no NHL data),,no NHL data,0.0,0.0,1,0,0,0,0,11.6,0.0,1,0,0,0,Not enough games,,0,0.0,8483442
 Jake O'Brien,SEA,C,Depth (no NHL data),,no NHL data,0.0,0.0,0,0,0,0,0,,,0,0,0,0,Not enough games,,0,0.0,8485383
+Jagger Firkus,SEA,R,Depth (no NHL data),,no NHL data,0.0,0.0,1,0,0,0,0,11.6,0.0,1,0,0,0,Not enough games,,0,0.0,8483442
 Macklin Celebrini,SJS,C,Top-line C,Yes,last games,23.4,5.2,22,9,18,27,93,23.1,4.7,10,4,11,43,Neutral,11 pts vs 15.0 expected in last 10; TOI +1.8 min/gm; PP +1.4 min/gm; shots/gm x1.18; shots per TOI x1.10; goals vs shooting% -2.2,82,21.3,8484801
 Jacob Trouba,SJS,D,Top-pair D,,last games,21.6,1.4,24,2,9,11,38,22.1,1.2,10,0,3,21,Neutral,3 pts vs 4.4 expected in last 10; TOI -1.1 min/gm; PP +0.6 min/gm; shots/gm x1.14; shots per TOI x1.20; goals vs shooting% -1.5,81,22.8,8476885
 Darnell Nurse,SJS,D,Top-pair D,,last games,21.3,0.0,23,1,2,3,37,21.4,0.0,10,0,1,12,Neutral,1 pts vs 2.7 expected in last 10; TOI +0.3 min/gm; PP -0.2 min/gm; shots/gm x0.61; shots per TOI x0.60; goals vs shooting% -0.5,82,21.0,8477498
@@ -667,6 +667,7 @@ Maveric Lamoureux,UTA,D,Depth D,,last season,14.7,0.0,0,0,0,0,0,,,0,0,0,0,Not en
 Zac Jones,UTA,D,Depth D,,last games,14.6,1.0,4,2,0,2,10,14.6,1.0,4,2,2,10,Not enough games,,0,0.0,8481708
 Nick DeSimone,UTA,D,Depth D,,last games,13.8,0.0,10,0,0,0,6,13.8,0.0,10,0,0,6,Neutral,0 pts vs 1.9 expected in last 10; TOI -0.4 min/gm; PP -0.0 min/gm; shots/gm x0.69; shots per TOI x0.71; goals vs shooting% -0.3,40,14.2,8480084
 Ben McCartney,UTA,L,Depth (no NHL data),,no NHL data,0.0,0.0,2,0,0,0,0,6.2,0.0,2,0,0,0,Not enough games,,0,0.0,8481827
+Gregor Biber,UTA,D,Depth (no NHL data),,no NHL data,0.0,0.0,0,0,0,0,0,,,0,0,0,0,Not enough games,,0,0.0,8485010
 Elias Pettersson,VAN,C,Top-line C,Yes,last games,21.7,3.6,24,6,17,23,30,20.7,3.5,10,2,8,10,Neutral,8 pts vs 8.9 expected in last 10; TOI +2.5 min/gm; PP +0.4 min/gm; shots/gm x0.59; shots per TOI x0.52; goals vs shooting% +0.7,74,19.0,8480012
 Filip Hronek,VAN,D,Top-pair D,Yes,last games,28.3,3.5,24,1,14,15,30,26.7,3.4,10,0,5,16,Neutral,5 pts vs 7.0 expected in last 10; TOI +3.1 min/gm; PP +1.3 min/gm; shots/gm x1.06; shots per TOI x0.94; goals vs shooting% -1.0,82,25.0,8479425
 Zeev Buium,VAN,D,Top-pair D,,last games,22.3,1.6,24,0,5,5,18,21.4,1.6,10,0,1,6,Neutral,1 pts vs 3.7 expected in last 10; TOI +2.4 min/gm; PP -0.5 min/gm; shots/gm x0.64; shots per TOI x0.57; goals vs shooting% -0.4,76,19.6,8484798
@@ -682,6 +683,7 @@ Paul Cotter,VAN,L,Depth F,,last games,13.7,1.3,23,4,4,8,16,14.2,1.1,10,0,1,6,Neu
 Drew O'Connor,VAN,L,Depth F,,last games,13.6,0.0,24,3,3,6,32,14.9,0.3,10,2,3,18,Neutral,3 pts vs 2.9 expected in last 10; TOI -1.3 min/gm; PP -0.4 min/gm; shots/gm x1.20; shots per TOI x1.32; goals vs shooting% -0.1,82,14.6,8482055
 Liam Ohgren,VAN,L,Depth F,,last games,13.0,0.9,23,6,4,10,32,14.0,1.1,10,3,4,17,Neutral,4 pts vs 3.0 expected in last 10; TOI -0.6 min/gm; PP +0.3 min/gm; shots/gm x1.38; shots per TOI x1.44; goals vs shooting% +1.0,69,13.2,8483499
 Jacob Quillan,VAN,C,Depth F,,last games,11.7,0.0,3,0,1,1,2,11.7,0.0,3,0,1,2,Not enough games,,23,10.3,8484901
+Ty Mueller,VAN,C,Depth F,,last season,10.9,0.0,0,0,0,0,0,,,0,0,0,0,Not enough games,,6,10.9,8484406
 Arshdeep Bains,VAN,L,Depth F,,last games,10.5,0.0,15,2,2,4,8,10.8,0.0,10,1,2,5,Not enough baseline,,28,9.2,8483395
 Brendan Gallagher,VAN,R,Depth F,,last games,9.8,0.0,21,0,3,3,26,10.2,0.0,10,0,2,15,Neutral,2 pts vs 2.1 expected in last 10; TOI -2.2 min/gm; PP -1.1 min/gm; shots/gm x1.02; shots per TOI x1.25; goals vs shooting% -0.8,77,12.4,8475848
 Guillaume Brisebois,VAN,D,Depth D,,last games,15.4,0.2,6,0,1,1,7,15.4,0.2,6,0,1,7,Not enough games,,0,0.0,8478465
