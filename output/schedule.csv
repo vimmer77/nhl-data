@@ -1,5 +1,4 @@
 Date,Start (ET),Start (PT),Away,Home,Away rest days,Away back-to-back,Away 3-in-4,Home rest days,Home back-to-back,Home 3-in-4,Away GP,Home GP,Away last starting goalie,Home last starting goalie
-2026-11-24,8:00 PM,5:00 PM,VGK,EDM,2,No,No,1,No,Yes,25,26,Carter Hart,Tristan Jarry
 2026-11-25,7:00 PM,4:00 PM,WPG,BOS,1,No,No,3,No,No,25,23,Stuart Skinner,Jeremy Swayman
 2026-11-25,7:00 PM,4:00 PM,NYR,BUF,2,No,No,2,No,No,23,24,Dylan Garand,Ukko-Pekka Luukkonen
 2026-11-25,7:00 PM,4:00 PM,CAR,TBL,2,No,No,2,No,No,24,23,Brandon Bussi,Dennis Hildeby
@@ -14,3 +13,18 @@ Date,Start (ET),Start (PT),Away,Home,Away rest days,Away back-to-back,Away 3-in-
 2026-11-25,9:30 PM,6:30 PM,MTL,COL,1,No,No,5,No,No,25,23,Jakub Dobes,Scott Wedgewood
 2026-11-25,9:40 PM,6:40 PM,CHI,SEA,2,No,No,1,No,No,24,21,Drew Commesso,Joey Daccord
 2026-11-25,10:00 PM,7:00 PM,SJS,ANA,1,No,No,1,No,No,26,25,Yaroslav Askarov,Lukas Dostal
+2026-11-27,1:00 PM,10:00 AM,TOR,BOS,3,No,No,1,No,No,26,23,Anthony Stolarz,Jeremy Swayman
+2026-11-27,1:00 PM,10:00 AM,CGY,NJD,1,No,No,1,No,No,25,24,Devin Cooley,Connor Hellebuyck
+2026-11-27,1:00 PM,10:00 AM,UTA,NSH,1,No,No,1,No,No,25,23,Sebastian Cossa,Juuse Saros
+2026-11-27,2:00 PM,11:00 AM,DAL,STL,1,No,No,1,No,No,23,24,Jake Oettinger,Joel Hofer
+2026-11-27,3:00 PM,12:00 PM,DET,CBJ,1,No,No,1,No,No,23,22,John Gibson,Cam Talbot
+2026-11-27,3:00 PM,12:00 PM,FLA,WSH,1,No,No,1,No,No,24,21,Jacob Markstrom,Charlie Lindgren
+2026-11-27,3:00 PM,12:00 PM,OTT,TBL,1,No,No,1,No,No,25,23,Linus Ullmark,Dennis Hildeby
+2026-11-27,3:00 PM,12:00 PM,VAN,PHI,1,No,No,1,No,No,26,26,Nikita Tolopilo,Dan Vladar
+2026-11-27,4:00 PM,1:00 PM,LAK,ANA,3,No,No,1,No,No,22,25,Darcy Kuemper,Lukas Dostal
+2026-11-27,4:00 PM,1:00 PM,COL,MIN,1,No,No,1,No,No,23,26,Scott Wedgewood,Filip Gustavsson
+2026-11-27,4:00 PM,1:00 PM,VGK,SJS,2,No,No,1,No,No,26,26,Carter Hart,Yaroslav Askarov
+2026-11-27,5:30 PM,2:30 PM,NYR,CHI,1,No,No,1,No,No,23,24,Dylan Garand,Drew Commesso
+2026-11-27,7:30 PM,4:30 PM,WPG,NYI,1,No,No,1,No,No,25,23,Stuart Skinner,Ilya Sorokin
+2026-11-27,8:00 PM,5:00 PM,PIT,BUF,1,No,No,1,No,No,23,24,Arturs Silovs,Ukko-Pekka Luukkonen
+2026-11-27,8:00 PM,5:00 PM,SEA,EDM,1,No,No,2,No,No,21,27,Joey Daccord,Devon Levi
